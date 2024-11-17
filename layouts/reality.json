@@ -1,0 +1,4016 @@
+{
+  "b": 233,
+  "disableInputWhenNotFocused": true,
+  "mangledName": "Reality",
+  "name": "Reality",
+  "r": 162,
+  "standardSortMethod": true,
+  "stopSoundsOnStartup": true,
+  "title": "",
+  "v": 245,
+  "uiSettings": {
+    "grid": true,
+    "gridType": "rectangular",
+    "gridWidth": 128,
+    "gridHeight": 128,
+    "gridOffsetX": 0,
+    "gridOffsetY": 0,
+    "gridColor": 10401023,
+    "gridAlpha": 0.8,
+    "snap": true,
+    "zoomFactor": 0.27050126039626216,
+    "windowMask": false
+  },
+  "objectsGroups": [],
+  "variables": [],
+  "instances": [
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 23,
+      "height": 30,
+      "layer": "",
+      "name": "Character",
+      "persistentUuid": "20ed7a0b-4d02-461c-b528-85686ec7cd5b",
+      "width": 8,
+      "x": 125,
+      "y": 739,
+      "zOrder": 4,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "Layer",
+      "name": "RunSpeed",
+      "persistentUuid": "ae4b4af8-68be-4952-a3c1-58f699821d22",
+      "width": 0,
+      "x": 1219,
+      "y": 24,
+      "zOrder": 6,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "Layer",
+      "name": "Deceleration",
+      "persistentUuid": "1da39e8a-a737-4e12-94b5-98f91c408d76",
+      "width": 0,
+      "x": 64,
+      "y": 30,
+      "zOrder": 7,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 150,
+      "height": 1,
+      "keepRatio": true,
+      "layer": "",
+      "name": "ROAD",
+      "persistentUuid": "49973ffe-b43f-475a-813f-96a90f90e19c",
+      "width": 126,
+      "x": 151,
+      "y": 744,
+      "zOrder": 10,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 176,
+      "height": 167,
+      "keepRatio": true,
+      "layer": "",
+      "locked": true,
+      "name": "HOUSEPROTAGONIST",
+      "persistentUuid": "27eaaae6-eb33-43c7-a32a-a490826cf82a",
+      "sealed": true,
+      "width": 207,
+      "x": 136,
+      "y": 748,
+      "z": -150,
+      "zOrder": 11,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "locked": true,
+      "name": "BuildingBrown",
+      "persistentUuid": "acffb8e9-5a12-4d4d-8fdc-729eb398169c",
+      "sealed": true,
+      "width": 0,
+      "x": 318,
+      "y": 752,
+      "z": -140,
+      "zOrder": 15,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 57,
+      "height": 176,
+      "keepRatio": true,
+      "layer": "",
+      "name": "BirchTree4",
+      "persistentUuid": "9020de02-555d-4dd2-97b4-4b712362cc81",
+      "width": 163,
+      "x": 485,
+      "y": 743,
+      "z": -100,
+      "zOrder": 16,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 2000,
+      "height": 1040,
+      "keepRatio": true,
+      "layer": "",
+      "locked": true,
+      "name": "Platform",
+      "persistentUuid": "e6f3a491-e756-4d2a-9f40-c574ad102e58",
+      "sealed": true,
+      "width": 2000,
+      "x": -43,
+      "y": 744,
+      "z": -1500,
+      "zOrder": 17,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 120,
+      "customSize": true,
+      "depth": 12,
+      "height": 12,
+      "keepRatio": true,
+      "layer": "",
+      "name": "LIGHT",
+      "persistentUuid": "a2718217-90b2-4e92-9fdd-0347535f7d5b",
+      "width": 12,
+      "x": -42,
+      "y": 645,
+      "z": -150,
+      "zOrder": 18,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 150,
+      "height": 1,
+      "keepRatio": true,
+      "layer": "",
+      "name": "ROAD",
+      "persistentUuid": "194c5633-48de-4a0b-b8cd-b18eb3a5f5ac",
+      "width": 126,
+      "x": 277,
+      "y": 744,
+      "zOrder": 10,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 150,
+      "height": 1,
+      "keepRatio": true,
+      "layer": "",
+      "name": "ROAD",
+      "persistentUuid": "b7d47c20-2e9c-4d5c-8689-aa32d27ad423",
+      "width": 126,
+      "x": 403,
+      "y": 744,
+      "zOrder": 10,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "Layer",
+      "name": "ANIM_SPEED",
+      "persistentUuid": "7a527dba-4f9e-4c44-984b-df43e846b4c8",
+      "width": 0,
+      "x": 625,
+      "y": 32,
+      "zOrder": 19,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 1134,
+      "keepRatio": true,
+      "layer": "FILTER",
+      "name": "FILTER",
+      "persistentUuid": "c480cd67-1564-41b6-a164-b5a817f0b765",
+      "width": 1994,
+      "x": -47,
+      "y": -10,
+      "zOrder": 20,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 90,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "LargeBuildingC",
+      "persistentUuid": "c29bfaef-4a45-4903-af08-f55e00f2ffaa",
+      "width": 0,
+      "x": 829,
+      "y": 673,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 419,
+      "keepRatio": true,
+      "layer": "",
+      "name": "Spawn",
+      "persistentUuid": "01eeb593-b897-469e-b5b5-5e71062ea09d",
+      "width": 322,
+      "x": 1946,
+      "y": 109,
+      "zOrder": 21,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 56.01041551010532,
+      "height": 49.42084836461958,
+      "keepRatio": true,
+      "layer": "",
+      "name": "Cloud1",
+      "persistentUuid": "7dd42607-0335-433a-bcd1-3be3ff63d212",
+      "width": 90,
+      "x": 175,
+      "y": 415,
+      "zOrder": 22,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 73,
+      "height": 56,
+      "keepRatio": true,
+      "layer": "",
+      "name": "Stool",
+      "persistentUuid": "b7aa5f3a-fd32-408e-a45b-d5c02e3b8ce9",
+      "width": 73,
+      "x": 313,
+      "y": 744,
+      "zOrder": 23,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "Stool",
+      "persistentUuid": "cccf2ea3-7d48-4148-86ac-2e5d95889db5",
+      "width": 0,
+      "x": 261,
+      "y": 752,
+      "zOrder": 23,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 122,
+      "height": 93,
+      "keepRatio": true,
+      "layer": "",
+      "name": "Stool",
+      "persistentUuid": "50eb7ebe-8e11-450e-8a24-39617cdd23b9",
+      "width": 122,
+      "x": 411,
+      "y": 747,
+      "zOrder": 23,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 146,
+      "keepRatio": true,
+      "layer": "",
+      "name": "Spawn",
+      "persistentUuid": "98c8aae1-ae41-41b8-a712-4ef81f5fe6c3",
+      "width": 164,
+      "x": 54,
+      "y": 586,
+      "zOrder": 24,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 1152,
+      "keepRatio": true,
+      "layer": "BlackScreen",
+      "name": "BlackScreen",
+      "persistentUuid": "5f08074a-4817-4d55-9b4d-c36f122c9419",
+      "width": 1984,
+      "x": -64,
+      "y": 0,
+      "zOrder": 25,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    }
+  ],
+  "objects": [
+    {
+      "assetStoreId": "479c508ead309e45d684605c3539fd2b3a3a3a1ea8a277f102e8366873aad249",
+      "name": "LargeBuildingA",
+      "type": "Scene3D::Model3DObject",
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "content": {
+        "centerLocation": "ModelOrigin",
+        "depth": 245,
+        "height": 245,
+        "keepAspectRatio": true,
+        "materialType": "StandardWithoutMetalness",
+        "modelResourceName": "Large Building A.glb",
+        "originLocation": "ModelOrigin",
+        "rotationX": 0,
+        "rotationY": 0,
+        "rotationZ": 90,
+        "width": 245,
+        "animations": []
+      }
+    },
+    {
+      "assetStoreId": "f9194ad48afb82325764044cec3b48a569dfd2c595031d18df3124d69fab4b03",
+      "name": "LargeBuildingC",
+      "type": "Scene3D::Model3DObject",
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "content": {
+        "centerLocation": "ModelOrigin",
+        "depth": 202,
+        "height": 202,
+        "keepAspectRatio": true,
+        "materialType": "StandardWithoutMetalness",
+        "modelResourceName": "Large Building C.glb",
+        "originLocation": "ModelOrigin",
+        "rotationX": 0,
+        "rotationY": 9,
+        "rotationZ": 90,
+        "width": 202,
+        "animations": []
+      }
+    },
+    {
+      "assetStoreId": "eefff8c14597e13842401e59df63d6bccf5c3d0591fd11deb20aac947013cbed",
+      "name": "LowWideA",
+      "type": "Scene3D::Model3DObject",
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "content": {
+        "centerLocation": "ModelOrigin",
+        "depth": 138,
+        "height": 138,
+        "keepAspectRatio": true,
+        "materialType": "StandardWithoutMetalness",
+        "modelResourceName": "Low Wide A.glb",
+        "originLocation": "ModelOrigin",
+        "rotationX": 90,
+        "rotationY": 0,
+        "rotationZ": 0,
+        "width": 138,
+        "animations": []
+      }
+    },
+    {
+      "assetStoreId": "",
+      "name": "Character",
+      "type": "Scene3D::Model3DObject",
+      "variables": [],
+      "effects": [],
+      "behaviors": [
+        {
+          "isFolded": true,
+          "name": "A3I",
+          "type": "A3F::A3I",
+          "Capability3d": "Object3D",
+          "AxesHelper": false,
+          "Blend": "Keep model blend mode",
+          "Opacity": 255,
+          "CastShadow": true,
+          "ReceiveShadow": false
+        },
+        {
+          "isFolded": true,
+          "maxSpeed": 60,
+          "name": "PlatformerObject",
+          "type": "PlatformBehavior::PlatformerObjectBehavior",
+          "gravity": 800,
+          "jumpSustainTime": 0,
+          "maxFallingSpeed": 1000,
+          "acceleration": 1500,
+          "canGoDownFromJumpthru": true,
+          "canGrabPlatforms": false,
+          "canGrabWithoutMoving": true,
+          "deceleration": 200,
+          "ignoreDefaultControls": true,
+          "jumpSpeed": 500,
+          "ladderClimbingSpeed": 150,
+          "slopeMaxAngle": 60,
+          "useLegacyTrajectory": false,
+          "xGrabTolerance": 10,
+          "yGrabOffset": 0
+        },
+        {
+          "name": "SmoothCamera",
+          "type": "SmoothCamera::SmoothCamera",
+          "LeftwardSpeed": 0.9,
+          "RightwardSpeed": 0.9,
+          "UpwardSpeed": 0.95,
+          "DownwardSpeed": 0.95,
+          "FollowOnX": true,
+          "FollowOnY": true,
+          "FollowFreeAreaLeft": 60,
+          "FollowFreeAreaRight": 60,
+          "FollowFreeAreaTop": 60,
+          "FollowFreeAreaBottom": 60,
+          "CameraOffsetX": 0,
+          "CameraOffsetY": -90,
+          "CameraDelay": 0,
+          "ForecastTime": 0,
+          "ForecastHistoryDuration": 0,
+          "LogLeftwardSpeed": 2.0247e-320,
+          "LogRightwardSpeed": 2.0247e-320,
+          "LogDownwardSpeed": 2.0247e-320,
+          "LogUpwardSpeed": 2.0247e-320,
+          "DelayedCenterX": 2.0247e-320,
+          "DelayedCenterY": 2.0247e-320,
+          "ForecastHistoryMeanX": 2.0247e-320,
+          "ForecastHistoryMeanY": 2.0247e-320,
+          "ForecastHistoryVarianceX": 2.0247e-320,
+          "ForecastHistoryCovariance": 2.0247e-320,
+          "ForecastHistoryLinearA": 2.0247e-320,
+          "ForecastHistoryLinearB": 2.0247e-320,
+          "ForecastedX": 2.0247e-320,
+          "ForecastedY": 2.0247e-320,
+          "ProjectedNewestX": 2.0247e-320,
+          "ProjectedNewestY": 2.0247e-320,
+          "ProjectedOldestX": 2.0247e-320,
+          "ProjectedOldestY": 2.0247e-320,
+          "ForecastHistoryVarianceY": 2.0247e-320,
+          "Index": 2.0247e-320,
+          "CameraDelayCatchUpSpeed": 0,
+          "CameraExtraDelay": 2.0247e-320,
+          "WaitingSpeedXMax": 2.0247e-320,
+          "WaitingSpeedYMax": 2.0247e-320,
+          "WaitingEnd": 2.0247e-320,
+          "CameraDelayCatchUpDuration": 2.0247e-320,
+          "LeftwardSpeedMax": 9000,
+          "RightwardSpeedMax": 9000,
+          "UpwardSpeedMax": 9000,
+          "DownwardSpeedMax": 9000,
+          "OldX": 9000.000000007454,
+          "OldY": 9000.000000007454,
+          "IsCalledManually": false
+        },
+        {
+          "name": "SmoothPlatformerCamera",
+          "type": "SmoothCamera::SmoothPlatformerCamera",
+          "PlatformerCharacter": "PlatformerObject",
+          "SmoothCamera": "SmoothCamera",
+          "JumpOriginY": 0,
+          "AirFollowFreeAreaTop": 0,
+          "AirFollowFreeAreaBottom": 0,
+          "FloorFollowFreeAreaTop": 0,
+          "FloorFollowFreeAreaBottom": 0,
+          "AirUpwardSpeed": 0.55,
+          "AirDownwardSpeed": 0.55,
+          "FloorUpwardSpeed": 0.5,
+          "FloorDownwardSpeed": 0.5,
+          "AirUpwardSpeedMax": 9000,
+          "AirDownwardSpeedMax": 9000,
+          "FloorUpwardSpeedMax": 9000,
+          "FloorDownwardSpeedMax": 9000
+        }
+      ],
+      "content": {
+        "centerLocation": "ModelOrigin",
+        "depth": 100,
+        "height": 100,
+        "keepAspectRatio": true,
+        "materialType": "StandardWithoutMetalness",
+        "modelResourceName": "..\\..\\Blender Saves\\BLENDER ANIMATIONS RENDERS\\FS(ANIMATION)7.glb",
+        "originLocation": "ModelOrigin",
+        "rotationX": 90,
+        "rotationY": 90,
+        "rotationZ": 90,
+        "width": 100,
+        "animations": [
+          {
+            "loop": true,
+            "name": "Idle",
+            "source": "Idle"
+          },
+          {
+            "loop": true,
+            "name": "Falling",
+            "source": "Falling"
+          },
+          {
+            "loop": false,
+            "name": "Jump",
+            "source": "Jump"
+          },
+          {
+            "loop": false,
+            "name": "Run to Stop",
+            "source": "Run to Stop"
+          },
+          {
+            "loop": true,
+            "name": "Running",
+            "source": "Running"
+          },
+          {
+            "loop": true,
+            "name": "Walk",
+            "source": "Walk"
+          },
+          {
+            "loop": true,
+            "name": "Slow Run",
+            "source": "Slow Run"
+          },
+          {
+            "loop": false,
+            "name": "Walk to Run",
+            "source": "Walk to Run"
+          },
+          {
+            "loop": false,
+            "name": "Run to Walk",
+            "source": "Run to Walk"
+          }
+        ]
+      }
+    },
+    {
+      "assetStoreId": "",
+      "bold": false,
+      "italic": false,
+      "name": "RunSpeed",
+      "smoothed": true,
+      "type": "TextObject::Text",
+      "underlined": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "string": "0",
+      "font": "",
+      "textAlignment": "left",
+      "characterSize": 50,
+      "color": {
+        "b": 0,
+        "g": 0,
+        "r": 0
+      },
+      "content": {
+        "bold": false,
+        "isOutlineEnabled": false,
+        "isShadowEnabled": false,
+        "italic": false,
+        "outlineColor": "255;255;255",
+        "outlineThickness": 2,
+        "shadowAngle": 90,
+        "shadowBlurRadius": 2,
+        "shadowColor": "0;0;0",
+        "shadowDistance": 4,
+        "shadowOpacity": 127,
+        "smoothed": true,
+        "underlined": false,
+        "text": "0",
+        "font": "",
+        "textAlignment": "left",
+        "verticalTextAlignment": "top",
+        "characterSize": 50,
+        "color": "0;0;0"
+      }
+    },
+    {
+      "assetStoreId": "",
+      "bold": false,
+      "italic": false,
+      "name": "Deceleration",
+      "smoothed": true,
+      "type": "TextObject::Text",
+      "underlined": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "string": "0",
+      "font": "",
+      "textAlignment": "left",
+      "characterSize": 50,
+      "color": {
+        "b": 0,
+        "g": 0,
+        "r": 0
+      },
+      "content": {
+        "bold": false,
+        "isOutlineEnabled": false,
+        "isShadowEnabled": false,
+        "italic": false,
+        "outlineColor": "255;255;255",
+        "outlineThickness": 2,
+        "shadowAngle": 90,
+        "shadowBlurRadius": 2,
+        "shadowColor": "0;0;0",
+        "shadowDistance": 4,
+        "shadowOpacity": 127,
+        "smoothed": true,
+        "underlined": false,
+        "text": "0",
+        "font": "",
+        "textAlignment": "left",
+        "verticalTextAlignment": "top",
+        "characterSize": 50,
+        "color": "0;0;0"
+      }
+    },
+    {
+      "assetStoreId": "6df108c7e2244937e498d8d6beff76be84fc7e8004d5e831fbb120a2ed2d0663",
+      "name": "ROAD",
+      "type": "Scene3D::Model3DObject",
+      "variables": [],
+      "effects": [],
+      "behaviors": [
+        {
+          "name": "A3I",
+          "type": "A3F::A3I",
+          "Capability3d": "Object3D",
+          "AxesHelper": false,
+          "Blend": "Keep model blend mode",
+          "Opacity": 255,
+          "CastShadow": false,
+          "ReceiveShadow": true
+        },
+        {
+          "name": "Platform",
+          "type": "PlatformBehavior::PlatformBehavior",
+          "canBeGrabbed": true,
+          "platformType": "NormalPlatform",
+          "yGrabOffset": 0
+        }
+      ],
+      "content": {
+        "centerLocation": "ObjectCenter",
+        "depth": 150,
+        "height": 150,
+        "keepAspectRatio": true,
+        "materialType": "StandardWithoutMetalness",
+        "modelResourceName": "Road Straight.glb",
+        "originLocation": "ObjectCenter",
+        "rotationX": 0,
+        "rotationY": 90,
+        "rotationZ": 0,
+        "width": 150,
+        "animations": []
+      }
+    },
+    {
+      "assetStoreId": "efc4370ffaa9c58cdd169335fc9b8e59a18d87ecbd56c604d3c64763ee90a516",
+      "name": "HOUSEPROTAGONIST",
+      "type": "Scene3D::Model3DObject",
+      "variables": [],
+      "effects": [],
+      "behaviors": [
+        {
+          "name": "A3I",
+          "type": "A3F::A3I",
+          "Capability3d": "Object3D",
+          "AxesHelper": false,
+          "Blend": "Keep model blend mode",
+          "Opacity": 255,
+          "CastShadow": true,
+          "ReceiveShadow": false
+        }
+      ],
+      "content": {
+        "centerLocation": "ModelOrigin",
+        "depth": 164,
+        "height": 164,
+        "keepAspectRatio": true,
+        "materialType": "StandardWithoutMetalness",
+        "modelResourceName": "House 2.glb",
+        "originLocation": "ModelOrigin",
+        "rotationX": 0,
+        "rotationY": 0,
+        "rotationZ": 0,
+        "width": 164,
+        "animations": []
+      }
+    },
+    {
+      "assetStoreId": "43bb1291d0f0605afe28c1285b0dde76dc52ec17e584cdb091491859ea44cc64",
+      "name": "Cloud1",
+      "type": "Scene3D::Model3DObject",
+      "variables": [],
+      "effects": [],
+      "behaviors": [
+        {
+          "isFolded": true,
+          "name": "A3I",
+          "type": "A3F::A3I",
+          "Capability3d": "Object3D",
+          "AxesHelper": false,
+          "Blend": "Keep model blend mode",
+          "Opacity": 255,
+          "CastShadow": true,
+          "ReceiveShadow": false
+        },
+        {
+          "name": "Tween",
+          "type": "Tween::TweenBehavior"
+        }
+      ],
+      "content": {
+        "centerLocation": "ModelOrigin",
+        "depth": 119,
+        "height": 119,
+        "keepAspectRatio": true,
+        "materialType": "StandardWithoutMetalness",
+        "modelResourceName": "Cloud 1.glb",
+        "originLocation": "ModelOrigin",
+        "rotationX": 0,
+        "rotationY": 0,
+        "rotationZ": 0,
+        "width": 119,
+        "animations": []
+      }
+    },
+    {
+      "assetStoreId": "40fc9b9ad0d45c025938d00907f6216a3761eca129c05b74482e51c95151d1aa",
+      "name": "Cloud2",
+      "type": "Scene3D::Model3DObject",
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "content": {
+        "centerLocation": "ModelOrigin",
+        "depth": 171,
+        "height": 171,
+        "keepAspectRatio": true,
+        "materialType": "StandardWithoutMetalness",
+        "modelResourceName": "Cloud 2.glb",
+        "originLocation": "ModelOrigin",
+        "rotationX": 0,
+        "rotationY": 0,
+        "rotationZ": 0,
+        "width": 171,
+        "animations": []
+      }
+    },
+    {
+      "assetStoreId": "4f3373495115316e3ec8e913b8a4b707acc8c10aef94cd979900c2a3c9c1e480",
+      "name": "Cloud3",
+      "type": "Scene3D::Model3DObject",
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "content": {
+        "centerLocation": "ModelOrigin",
+        "depth": 145,
+        "height": 145,
+        "keepAspectRatio": true,
+        "materialType": "StandardWithoutMetalness",
+        "modelResourceName": "Cloud 3.glb",
+        "originLocation": "ModelOrigin",
+        "rotationX": 0,
+        "rotationY": 0,
+        "rotationZ": 0,
+        "width": 145,
+        "animations": []
+      }
+    },
+    {
+      "assetStoreId": "4ba9f261acaa9a647589cc19fa6177ff379c04e4f7698e0b7bc401859cfa180c",
+      "name": "Cloud4",
+      "type": "Scene3D::Model3DObject",
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "content": {
+        "centerLocation": "ModelOrigin",
+        "depth": 324,
+        "height": 324,
+        "keepAspectRatio": true,
+        "materialType": "StandardWithoutMetalness",
+        "modelResourceName": "Cloud 4.glb",
+        "originLocation": "ModelOrigin",
+        "rotationX": 0,
+        "rotationY": 0,
+        "rotationZ": 0,
+        "width": 324,
+        "animations": []
+      }
+    },
+    {
+      "assetStoreId": "347da0d26b09244ad78b790a783e092228ff968d6f5d12d80c9898b10b5aaffb",
+      "name": "Cloud5",
+      "type": "Scene3D::Model3DObject",
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "content": {
+        "centerLocation": "ModelOrigin",
+        "depth": 99,
+        "height": 99,
+        "keepAspectRatio": true,
+        "materialType": "StandardWithoutMetalness",
+        "modelResourceName": "Cloud 1.glb2",
+        "originLocation": "ModelOrigin",
+        "rotationX": 90,
+        "rotationY": 0,
+        "rotationZ": 90,
+        "width": 99,
+        "animations": []
+      }
+    },
+    {
+      "assetStoreId": "5f718a498fe73a2df3e516188211cdd807467205f6e16708a4097fad7f0cc767",
+      "name": "BuildingBrown",
+      "type": "Scene3D::Model3DObject",
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "content": {
+        "centerLocation": "ModelOrigin",
+        "depth": 169,
+        "height": 169,
+        "keepAspectRatio": true,
+        "materialType": "StandardWithoutMetalness",
+        "modelResourceName": "Building E Without Base.glb",
+        "originLocation": "ModelOrigin",
+        "rotationX": 0,
+        "rotationY": 0,
+        "rotationZ": 0,
+        "width": 169,
+        "animations": []
+      }
+    },
+    {
+      "assetStoreId": "ebe299f3b2e959bd1d9e1ed1cd69a86dd5826eebf527057d8ecb3e9dcd4e04a4",
+      "name": "BuildingGreenandBrown",
+      "type": "Scene3D::Model3DObject",
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "content": {
+        "centerLocation": "ModelOrigin",
+        "depth": 169,
+        "height": 169,
+        "keepAspectRatio": true,
+        "materialType": "StandardWithoutMetalness",
+        "modelResourceName": "Building D Without Base.glb",
+        "originLocation": "ModelOrigin",
+        "rotationX": 90,
+        "rotationY": 0,
+        "rotationZ": 0,
+        "width": 169,
+        "animations": []
+      }
+    },
+    {
+      "assetStoreId": "548036e39fd23666e89da639c7f295bdcd9e3838f133f304b6f81b6d12ff50c1",
+      "name": "Buildingx2",
+      "type": "Scene3D::Model3DObject",
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "content": {
+        "centerLocation": "ModelOrigin",
+        "depth": 229,
+        "height": 229,
+        "keepAspectRatio": true,
+        "materialType": "StandardWithoutMetalness",
+        "modelResourceName": "Building H.glb",
+        "originLocation": "ModelOrigin",
+        "rotationX": 90,
+        "rotationY": 0,
+        "rotationZ": 0,
+        "width": 229,
+        "animations": []
+      }
+    },
+    {
+      "assetStoreId": "2425a3f75c67c9d47832f957768b7d1504dd6ce71df9f67a52671ab5eab8b7ae",
+      "name": "BuildingShop",
+      "type": "Scene3D::Model3DObject",
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "content": {
+        "centerLocation": "ModelOrigin",
+        "depth": 150,
+        "height": 150,
+        "keepAspectRatio": true,
+        "materialType": "StandardWithoutMetalness",
+        "modelResourceName": "Building A.glb",
+        "originLocation": "ModelOrigin",
+        "rotationX": 90,
+        "rotationY": 0,
+        "rotationZ": 0,
+        "width": 150,
+        "animations": []
+      }
+    },
+    {
+      "assetStoreId": "5fc95e4fb4fcb29e3c50f3cedba1d7f979483c81abc3b7609208e7b1c76fbdcb",
+      "name": "PathTilesLong",
+      "type": "Scene3D::Model3DObject",
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "content": {
+        "centerLocation": "ModelOrigin",
+        "depth": 48,
+        "height": 48,
+        "keepAspectRatio": true,
+        "materialType": "StandardWithoutMetalness",
+        "modelResourceName": "Path Tiles Long.glb",
+        "originLocation": "ModelOrigin",
+        "rotationX": 0,
+        "rotationY": 90,
+        "rotationZ": 0,
+        "width": 48,
+        "animations": []
+      }
+    },
+    {
+      "assetStoreId": "ba263f146093058b13a56778936576a1824d235f41a4b318c7f4b59018f2ecc1",
+      "name": "BirchTree4",
+      "type": "Scene3D::Model3DObject",
+      "variables": [],
+      "effects": [],
+      "behaviors": [
+        {
+          "name": "A3I",
+          "type": "A3F::A3I",
+          "Capability3d": "Object3D",
+          "AxesHelper": false,
+          "Blend": "Keep model blend mode",
+          "Opacity": 255,
+          "CastShadow": true,
+          "ReceiveShadow": false
+        }
+      ],
+      "content": {
+        "centerLocation": "ModelOrigin",
+        "depth": 320,
+        "height": 320,
+        "keepAspectRatio": true,
+        "materialType": "StandardWithoutMetalness",
+        "modelResourceName": "Birch Tree 4.glb",
+        "originLocation": "ModelOrigin",
+        "rotationX": 0,
+        "rotationY": 90,
+        "rotationZ": 0,
+        "width": 320,
+        "animations": []
+      }
+    },
+    {
+      "assetStoreId": "",
+      "name": "Platform",
+      "type": "Scene3D::Cube3DObject",
+      "variables": [],
+      "effects": [],
+      "behaviors": [
+        {
+          "name": "A3I",
+          "type": "A3F::A3I",
+          "Capability3d": "Object3D",
+          "AxesHelper": false,
+          "Blend": "Keep model blend mode",
+          "Opacity": 255,
+          "CastShadow": false,
+          "ReceiveShadow": true
+        },
+        {
+          "canBeGrabbed": true,
+          "name": "Platform",
+          "platformType": "NormalPlatform",
+          "type": "PlatformBehavior::PlatformBehavior",
+          "yGrabOffset": 0
+        }
+      ],
+      "content": {
+        "width": 100,
+        "height": 100,
+        "depth": 100,
+        "enableTextureTransparency": false,
+        "facesOrientation": "Y",
+        "frontFaceResourceName": "",
+        "backFaceResourceName": "",
+        "backFaceUpThroughWhichAxisRotation": "X",
+        "leftFaceResourceName": "",
+        "rightFaceResourceName": "",
+        "topFaceResourceName": "New3DBox_Top2",
+        "bottomFaceResourceName": "",
+        "frontFaceVisible": true,
+        "backFaceVisible": false,
+        "leftFaceVisible": true,
+        "rightFaceVisible": true,
+        "topFaceVisible": true,
+        "bottomFaceVisible": true,
+        "frontFaceResourceRepeat": false,
+        "backFaceResourceRepeat": false,
+        "leftFaceResourceRepeat": false,
+        "rightFaceResourceRepeat": false,
+        "topFaceResourceRepeat": false,
+        "bottomFaceResourceRepeat": false,
+        "materialType": "StandardWithoutMetalness"
+      }
+    },
+    {
+      "assetStoreId": "",
+      "name": "LIGHT",
+      "type": "Scene3D::Cube3DObject",
+      "variables": [],
+      "effects": [],
+      "behaviors": [
+        {
+          "isFolded": true,
+          "name": "A3I",
+          "type": "A3F::A3I",
+          "Capability3d": "Object3D",
+          "AxesHelper": false,
+          "Blend": "Keep model blend mode",
+          "Opacity": 255,
+          "CastShadow": false,
+          "ReceiveShadow": false
+        },
+        {
+          "name": "A3L",
+          "type": "A3F::A3L",
+          "Capability3d": "Object3D",
+          "Type": "Point Light",
+          "Color": "255;255;255",
+          "Intensity": 3,
+          "Distance": 600,
+          "SpotAngle": 90,
+          "SpotPenumbra": 1,
+          "CastShadow": true,
+          "ShadowMapSize": "1024px",
+          "ShadowRange": 512,
+          "ShadowDepthBias": 0,
+          "ShadowNormalBias": 0,
+          "LightHelper": true,
+          "ShadowHelper": true
+        }
+      ],
+      "content": {
+        "width": 100,
+        "height": 100,
+        "depth": 100,
+        "enableTextureTransparency": false,
+        "facesOrientation": "Y",
+        "frontFaceResourceName": "New3DBox2_Front",
+        "backFaceResourceName": "New3DBox2_Back",
+        "backFaceUpThroughWhichAxisRotation": "X",
+        "leftFaceResourceName": "New3DBox2_Left",
+        "rightFaceResourceName": "New3DBox2_Right",
+        "topFaceResourceName": "New3DBox2_Top",
+        "bottomFaceResourceName": "New3DBox2_Bottom",
+        "frontFaceVisible": true,
+        "backFaceVisible": false,
+        "leftFaceVisible": true,
+        "rightFaceVisible": true,
+        "topFaceVisible": true,
+        "bottomFaceVisible": true,
+        "frontFaceResourceRepeat": false,
+        "backFaceResourceRepeat": false,
+        "leftFaceResourceRepeat": false,
+        "rightFaceResourceRepeat": false,
+        "topFaceResourceRepeat": false,
+        "bottomFaceResourceRepeat": false,
+        "materialType": "Basic"
+      }
+    },
+    {
+      "assetStoreId": "",
+      "bold": false,
+      "italic": false,
+      "name": "ANIM_SPEED",
+      "smoothed": true,
+      "type": "TextObject::Text",
+      "underlined": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "string": "0",
+      "font": "",
+      "textAlignment": "left",
+      "characterSize": 50,
+      "color": {
+        "b": 0,
+        "g": 0,
+        "r": 0
+      },
+      "content": {
+        "bold": false,
+        "isOutlineEnabled": false,
+        "isShadowEnabled": false,
+        "italic": false,
+        "outlineColor": "255;255;255",
+        "outlineThickness": 2,
+        "shadowAngle": 90,
+        "shadowBlurRadius": 2,
+        "shadowColor": "0;0;0",
+        "shadowDistance": 4,
+        "shadowOpacity": 127,
+        "smoothed": true,
+        "underlined": false,
+        "text": "0",
+        "font": "",
+        "textAlignment": "left",
+        "verticalTextAlignment": "top",
+        "characterSize": 50,
+        "color": "0;0;0"
+      }
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "FILTER",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "NewSprite",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "NewSprite3",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 64,
+                        "y": 0
+                      },
+                      {
+                        "x": 64,
+                        "y": 64
+                      },
+                      {
+                        "x": 0,
+                        "y": 64
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "Spawn",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [
+        {
+          "name": "ObjectSpawner",
+          "type": "ObjectSpawner::ObjectSpawner",
+          "SpawnPeriod": 5,
+          "OffsetX": 0,
+          "OffsetY": 0,
+          "JustSpawnedAnObject": false,
+          "MaxQuantityReached": false,
+          "MaxQuantity": 5,
+          "SpawnerCapacity": 0,
+          "UnlimitedCapacity": true,
+          "RandomPosition": true
+        }
+      ],
+      "animations": [
+        {
+          "name": "NewSprite",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "NewSprite4",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 64,
+                        "y": 0
+                      },
+                      {
+                        "x": 64,
+                        "y": 64
+                      },
+                      {
+                        "x": 0,
+                        "y": 64
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "assetStoreId": "53b3ef1d185bd6144771a1f7bcea5d0c65baaf879eec70d3721ba99d0c60703e",
+      "name": "Stool",
+      "type": "Scene3D::Model3DObject",
+      "variables": [],
+      "effects": [],
+      "behaviors": [
+        {
+          "name": "A3I",
+          "type": "A3F::A3I",
+          "Capability3d": "Object3D",
+          "AxesHelper": false,
+          "Blend": "Keep model blend mode",
+          "Opacity": 255,
+          "CastShadow": true,
+          "ReceiveShadow": false
+        },
+        {
+          "canBeGrabbed": true,
+          "name": "Platform",
+          "platformType": "NormalPlatform",
+          "type": "PlatformBehavior::PlatformBehavior",
+          "yGrabOffset": 0
+        }
+      ],
+      "content": {
+        "centerLocation": "ModelOrigin",
+        "depth": 34,
+        "height": 34,
+        "keepAspectRatio": true,
+        "materialType": "StandardWithoutMetalness",
+        "modelResourceName": "Stool.glb",
+        "originLocation": "ModelOrigin",
+        "rotationX": 0,
+        "rotationY": 90,
+        "rotationZ": 0,
+        "width": 34,
+        "animations": []
+      }
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "LOGO_GAME",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [
+        {
+          "effectType": "DropShadow",
+          "name": "Effect",
+          "doubleParameters": {
+            "alpha": 1,
+            "blur": 0,
+            "distance": 10,
+            "padding": 0,
+            "quality": 20,
+            "rotation": 90
+          },
+          "stringParameters": {
+            "color": "0;0;0"
+          },
+          "booleanParameters": {
+            "shadowOnly": false
+          }
+        }
+      ],
+      "behaviors": [
+        {
+          "name": "ButtonFSM",
+          "type": "ButtonStates::ButtonFSM",
+          "ShouldCheckHovering": true,
+          "State": "Idle",
+          "TouchId": 0,
+          "TouchIsInside": false,
+          "MouseIsInside": false,
+          "Index": 2.0247e-320
+        },
+        {
+          "name": "ButtonScaleTween",
+          "type": "ButtonStates::ButtonScaleTween",
+          "Scale": "Scale",
+          "ButtonFSM": "ButtonFSM",
+          "Tween": "Tween",
+          "IdleScale": 2.2,
+          "FocusedScale": 2.5,
+          "FadeInDuration": 0.1,
+          "FadeOutDuration": 0.2,
+          "PressedScale": 2.2,
+          "FadeInEasing": "easeInOutQuad",
+          "FadeOutEasing": "easeInOutQuad",
+          "PreviousState": "Idle"
+        },
+        {
+          "name": "Tween",
+          "type": "Tween::TweenBehavior"
+        }
+      ],
+      "animations": [
+        {
+          "name": "C:\\Users\\Angelo\\Desktop\\Game Logo\\1",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "C:\\Users\\Angelo\\Desktop\\Game Logo\\17",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 16,
+                        "y": 25
+                      },
+                      {
+                        "x": 232,
+                        "y": 25
+                      },
+                      {
+                        "x": 232,
+                        "y": 159
+                      },
+                      {
+                        "x": 16,
+                        "y": 159
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "C:\\Users\\Angelo\\Desktop\\Game Logo\\18",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 16,
+                        "y": 25
+                      },
+                      {
+                        "x": 232,
+                        "y": 25
+                      },
+                      {
+                        "x": 232,
+                        "y": 159
+                      },
+                      {
+                        "x": 16,
+                        "y": 159
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "C:\\Users\\Angelo\\Desktop\\Game Logo\\19",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 16,
+                        "y": 25
+                      },
+                      {
+                        "x": 232,
+                        "y": 25
+                      },
+                      {
+                        "x": 232,
+                        "y": 159
+                      },
+                      {
+                        "x": 16,
+                        "y": 159
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "C:\\Users\\Angelo\\Desktop\\Game Logo\\20",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 16,
+                        "y": 25
+                      },
+                      {
+                        "x": 232,
+                        "y": 25
+                      },
+                      {
+                        "x": 232,
+                        "y": 159
+                      },
+                      {
+                        "x": 16,
+                        "y": 159
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "C:\\Users\\Angelo\\Desktop\\Game Logo\\21",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 16,
+                        "y": 25
+                      },
+                      {
+                        "x": 232,
+                        "y": 25
+                      },
+                      {
+                        "x": 232,
+                        "y": 159
+                      },
+                      {
+                        "x": 16,
+                        "y": 159
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "C:\\Users\\Angelo\\Desktop\\Game Logo\\22",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 16,
+                        "y": 25
+                      },
+                      {
+                        "x": 232,
+                        "y": 25
+                      },
+                      {
+                        "x": 232,
+                        "y": 159
+                      },
+                      {
+                        "x": 16,
+                        "y": 159
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "C:\\Users\\Angelo\\Desktop\\Game Logo\\23",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 16,
+                        "y": 25
+                      },
+                      {
+                        "x": 232,
+                        "y": 25
+                      },
+                      {
+                        "x": 232,
+                        "y": 159
+                      },
+                      {
+                        "x": 16,
+                        "y": 159
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "C:\\Users\\Angelo\\Desktop\\Game Logo\\24",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 16,
+                        "y": 25
+                      },
+                      {
+                        "x": 232,
+                        "y": 25
+                      },
+                      {
+                        "x": 232,
+                        "y": 159
+                      },
+                      {
+                        "x": 16,
+                        "y": 159
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "C:\\Users\\Angelo\\Desktop\\Game Logo\\2.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 16,
+                        "y": 25
+                      },
+                      {
+                        "x": 232,
+                        "y": 25
+                      },
+                      {
+                        "x": 232,
+                        "y": 159
+                      },
+                      {
+                        "x": 16,
+                        "y": 159
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "C:\\Users\\Angelo\\Desktop\\Game Logo\\3.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 16,
+                        "y": 25
+                      },
+                      {
+                        "x": 232,
+                        "y": 25
+                      },
+                      {
+                        "x": 232,
+                        "y": 159
+                      },
+                      {
+                        "x": 16,
+                        "y": 159
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "C:\\Users\\Angelo\\Desktop\\Game Logo\\4.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 16,
+                        "y": 25
+                      },
+                      {
+                        "x": 232,
+                        "y": 25
+                      },
+                      {
+                        "x": 232,
+                        "y": 159
+                      },
+                      {
+                        "x": 16,
+                        "y": 159
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "C:\\Users\\Angelo\\Desktop\\Game Logo\\5.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 16,
+                        "y": 25
+                      },
+                      {
+                        "x": 232,
+                        "y": 25
+                      },
+                      {
+                        "x": 232,
+                        "y": 159
+                      },
+                      {
+                        "x": 16,
+                        "y": 159
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "C:\\Users\\Angelo\\Desktop\\Game Logo\\6.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 16,
+                        "y": 25
+                      },
+                      {
+                        "x": 232,
+                        "y": 25
+                      },
+                      {
+                        "x": 232,
+                        "y": 159
+                      },
+                      {
+                        "x": 16,
+                        "y": 159
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "C:\\Users\\Angelo\\Desktop\\Game Logo\\7.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 16,
+                        "y": 25
+                      },
+                      {
+                        "x": 232,
+                        "y": 25
+                      },
+                      {
+                        "x": 232,
+                        "y": 159
+                      },
+                      {
+                        "x": 16,
+                        "y": 159
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "C:\\Users\\Angelo\\Desktop\\Game Logo\\8.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 16,
+                        "y": 25
+                      },
+                      {
+                        "x": 232,
+                        "y": 25
+                      },
+                      {
+                        "x": 232,
+                        "y": 159
+                      },
+                      {
+                        "x": 16,
+                        "y": 159
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "C:\\Users\\Angelo\\Desktop\\Game Logo\\9.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 16,
+                        "y": 25
+                      },
+                      {
+                        "x": 232,
+                        "y": 25
+                      },
+                      {
+                        "x": 232,
+                        "y": 159
+                      },
+                      {
+                        "x": 16,
+                        "y": 159
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "C:\\Users\\Angelo\\Desktop\\Game Logo\\10.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 16,
+                        "y": 25
+                      },
+                      {
+                        "x": 232,
+                        "y": 25
+                      },
+                      {
+                        "x": 232,
+                        "y": 159
+                      },
+                      {
+                        "x": 16,
+                        "y": 159
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "C:\\Users\\Angelo\\Desktop\\Game Logo\\11.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 16,
+                        "y": 25
+                      },
+                      {
+                        "x": 232,
+                        "y": 25
+                      },
+                      {
+                        "x": 232,
+                        "y": 159
+                      },
+                      {
+                        "x": 16,
+                        "y": 159
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "C:\\Users\\Angelo\\Desktop\\Game Logo\\12.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 16,
+                        "y": 25
+                      },
+                      {
+                        "x": 232,
+                        "y": 25
+                      },
+                      {
+                        "x": 232,
+                        "y": 159
+                      },
+                      {
+                        "x": 16,
+                        "y": 159
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "C:\\Users\\Angelo\\Desktop\\Game Logo\\13.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 16,
+                        "y": 25
+                      },
+                      {
+                        "x": 232,
+                        "y": 25
+                      },
+                      {
+                        "x": 232,
+                        "y": 159
+                      },
+                      {
+                        "x": 16,
+                        "y": 159
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "C:\\Users\\Angelo\\Desktop\\Game Logo\\25",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 16,
+                        "y": 25
+                      },
+                      {
+                        "x": 232,
+                        "y": 25
+                      },
+                      {
+                        "x": 232,
+                        "y": 159
+                      },
+                      {
+                        "x": 16,
+                        "y": 159
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "C:\\Users\\Angelo\\Desktop\\Game Logo\\26",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 16,
+                        "y": 25
+                      },
+                      {
+                        "x": 232,
+                        "y": 25
+                      },
+                      {
+                        "x": 232,
+                        "y": 159
+                      },
+                      {
+                        "x": 16,
+                        "y": 159
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "C:\\Users\\Angelo\\Desktop\\Game Logo\\27",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 16,
+                        "y": 25
+                      },
+                      {
+                        "x": 232,
+                        "y": 25
+                      },
+                      {
+                        "x": 232,
+                        "y": 159
+                      },
+                      {
+                        "x": 16,
+                        "y": 159
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "C:\\Users\\Angelo\\Desktop\\Game Logo\\28",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 16,
+                        "y": 25
+                      },
+                      {
+                        "x": 232,
+                        "y": 25
+                      },
+                      {
+                        "x": 232,
+                        "y": 159
+                      },
+                      {
+                        "x": 16,
+                        "y": 159
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "C:\\Users\\Angelo\\Desktop\\Game Logo\\29",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 16,
+                        "y": 25
+                      },
+                      {
+                        "x": 232,
+                        "y": 25
+                      },
+                      {
+                        "x": 232,
+                        "y": 159
+                      },
+                      {
+                        "x": 16,
+                        "y": 159
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "C:\\Users\\Angelo\\Desktop\\Game Logo\\30",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 16,
+                        "y": 25
+                      },
+                      {
+                        "x": 232,
+                        "y": 25
+                      },
+                      {
+                        "x": 232,
+                        "y": 159
+                      },
+                      {
+                        "x": 16,
+                        "y": 159
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "C:\\Users\\Angelo\\Desktop\\Game Logo\\31",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 16,
+                        "y": 25
+                      },
+                      {
+                        "x": 232,
+                        "y": 25
+                      },
+                      {
+                        "x": 232,
+                        "y": 159
+                      },
+                      {
+                        "x": 16,
+                        "y": 159
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "C:\\Users\\Angelo\\Desktop\\Game Logo\\1.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 16,
+                        "y": 25
+                      },
+                      {
+                        "x": 232,
+                        "y": 25
+                      },
+                      {
+                        "x": 232,
+                        "y": 159
+                      },
+                      {
+                        "x": 16,
+                        "y": 159
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "objectsFolderStructure": {
+    "folderName": "__ROOT",
+    "children": [
+      {
+        "objectName": "Character"
+      },
+      {
+        "folderName": "Clouds",
+        "children": [
+          {
+            "objectName": "Cloud5"
+          },
+          {
+            "objectName": "Cloud4"
+          },
+          {
+            "objectName": "Cloud3"
+          },
+          {
+            "objectName": "Cloud1"
+          },
+          {
+            "objectName": "Cloud2"
+          }
+        ]
+      },
+      {
+        "folderName": "Buildings",
+        "children": [
+          {
+            "objectName": "BuildingShop"
+          },
+          {
+            "objectName": "Buildingx2"
+          },
+          {
+            "objectName": "BuildingGreenandBrown"
+          },
+          {
+            "objectName": "BuildingBrown"
+          },
+          {
+            "objectName": "HOUSEPROTAGONIST"
+          },
+          {
+            "objectName": "LowWideA"
+          },
+          {
+            "objectName": "LargeBuildingC"
+          },
+          {
+            "objectName": "LargeBuildingA"
+          }
+        ]
+      },
+      {
+        "objectName": "LIGHT"
+      },
+      {
+        "objectName": "RunSpeed"
+      },
+      {
+        "objectName": "Deceleration"
+      },
+      {
+        "objectName": "ANIM_SPEED"
+      },
+      {
+        "objectName": "ROAD"
+      },
+      {
+        "objectName": "FILTER"
+      },
+      {
+        "objectName": "PathTilesLong"
+      },
+      {
+        "objectName": "BirchTree4"
+      },
+      {
+        "objectName": "Platform"
+      },
+      {
+        "objectName": "Spawn"
+      },
+      {
+        "objectName": "LOGO_GAME"
+      },
+      {
+        "objectName": "Stool"
+      }
+    ]
+  },
+  "events": [
+    {
+      "colorB": 228,
+      "colorG": 176,
+      "colorR": 74,
+      "creationTime": 0,
+      "name": "Movement",
+      "source": "",
+      "type": "BuiltinCommonInstructions::Group",
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "KeyPressed"
+              },
+              "parameters": [
+                "Character",
+                "a"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "PlatformBehavior::SimulateLeftKey"
+              },
+              "parameters": [
+                "Character",
+                "PlatformerObject"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "KeyPressed"
+              },
+              "parameters": [
+                "Character",
+                "d"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "PlatformBehavior::SimulateRightKey"
+              },
+              "parameters": [
+                "Character",
+                "PlatformerObject"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "KeyPressed"
+              },
+              "parameters": [
+                "Character",
+                "w"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "PlatformBehavior::SimulateJumpKey"
+              },
+              "parameters": [
+                "Character",
+                "PlatformerObject"
+              ]
+            }
+          ]
+        }
+      ],
+      "parameters": []
+    },
+    {
+      "colorB": 228,
+      "colorG": 176,
+      "colorR": 74,
+      "creationTime": 0,
+      "name": "Animation",
+      "source": "",
+      "type": "BuiltinCommonInstructions::Group",
+      "events": [
+        {
+          "colorB": 228,
+          "colorG": 176,
+          "colorR": 74,
+          "creationTime": 0,
+          "name": "Flip",
+          "source": "",
+          "type": "BuiltinCommonInstructions::Group",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "PlatformBehavior::PlatformerObjectBehavior::IsUsingControl"
+                  },
+                  "parameters": [
+                    "Character",
+                    "PlatformerObject",
+                    "\"Left\""
+                  ]
+                },
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "PlatformBehavior::PlatformerObjectBehavior::IsUsingControl"
+                  },
+                  "parameters": [
+                    "Character",
+                    "PlatformerObject",
+                    "\"Right\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "FlippableCapability::FlippableBehavior::FlipX"
+                  },
+                  "parameters": [
+                    "Character",
+                    "Flippable",
+                    "yes"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "PlatformBehavior::PlatformerObjectBehavior::IsUsingControl"
+                  },
+                  "parameters": [
+                    "Character",
+                    "PlatformerObject",
+                    "\"Right\""
+                  ]
+                },
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "PlatformBehavior::PlatformerObjectBehavior::IsUsingControl"
+                  },
+                  "parameters": [
+                    "Character",
+                    "PlatformerObject",
+                    "\"Left\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "FlippableCapability::FlippableBehavior::FlipX"
+                  },
+                  "parameters": [
+                    "Character",
+                    "Flippable",
+                    "no"
+                  ]
+                }
+              ]
+            }
+          ],
+          "parameters": []
+        },
+        {
+          "colorB": 228,
+          "colorG": 176,
+          "colorR": 74,
+          "creationTime": 0,
+          "name": "Running",
+          "source": "",
+          "type": "BuiltinCommonInstructions::Group",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Comment",
+              "color": {
+                "b": 109,
+                "g": 230,
+                "r": 255,
+                "textB": 0,
+                "textG": 0,
+                "textR": 0
+              },
+              "comment": "Check if player is on floor"
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "PlatformBehavior::IsOnFloor"
+                  },
+                  "parameters": [
+                    "Character",
+                    "PlatformerObject"
+                  ]
+                }
+              ],
+              "actions": [],
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Comment",
+                  "color": {
+                    "b": 109,
+                    "g": 230,
+                    "r": 255,
+                    "textB": 0,
+                    "textG": 0,
+                    "textR": 0
+                  },
+                  "comment": "Check if player IS NOT moving"
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "inverted": true,
+                        "value": "PlatformBehavior::PlatformerObjectBehavior::IsMovingEvenALittle"
+                      },
+                      "parameters": [
+                        "Character",
+                        "PlatformerObject"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "PlatformBehavior::MaxSpeed"
+                      },
+                      "parameters": [
+                        "Character",
+                        "PlatformerObject",
+                        "<=",
+                        "60"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                      },
+                      "parameters": [
+                        "Character",
+                        "Animation",
+                        "=",
+                        "\"Idle\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "PlatformBehavior::MaxSpeed"
+                      },
+                      "parameters": [
+                        "Character",
+                        "PlatformerObject",
+                        "=",
+                        "60"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "PlatformBehavior::Deceleration"
+                      },
+                      "parameters": [
+                        "Character",
+                        "PlatformerObject",
+                        "=",
+                        "200"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Comment",
+                  "color": {
+                    "b": 109,
+                    "g": 230,
+                    "r": 255,
+                    "textB": 0,
+                    "textG": 0,
+                    "textR": 0
+                  },
+                  "comment": "Check if player IS moving"
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "PlatformBehavior::PlatformerObjectBehavior::IsMovingEvenALittle"
+                      },
+                      "parameters": [
+                        "Character",
+                        "PlatformerObject"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "PlatformBehavior::MaxSpeed"
+                      },
+                      "parameters": [
+                        "Character",
+                        "PlatformerObject",
+                        "<=",
+                        "60"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                      },
+                      "parameters": [
+                        "Character",
+                        "Animation",
+                        "=",
+                        "\"Walk\""
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "PlatformBehavior::PlatformerObjectBehavior::IsMovingEvenALittle"
+                      },
+                      "parameters": [
+                        "Character",
+                        "PlatformerObject"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "PlatformBehavior::MaxSpeed"
+                      },
+                      "parameters": [
+                        "Character",
+                        "PlatformerObject",
+                        ">=",
+                        "90"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                      },
+                      "parameters": [
+                        "Character",
+                        "Animation",
+                        "=",
+                        "\"Running\""
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Comment",
+                  "color": {
+                    "b": 109,
+                    "g": 230,
+                    "r": 255,
+                    "textB": 0,
+                    "textG": 0,
+                    "textR": 0
+                  },
+                  "comment": "Increase speed after holding shift"
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "CollisionNP"
+                      },
+                      "parameters": [
+                        "Character",
+                        "Stool",
+                        "",
+                        "",
+                        "yes"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "AnimatableCapability::AnimatableBehavior::SetSpeedScale"
+                      },
+                      "parameters": [
+                        "Character",
+                        "Animation",
+                        "=",
+                        "1"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "PlatformBehavior::MaxSpeed"
+                      },
+                      "parameters": [
+                        "Character",
+                        "PlatformerObject",
+                        "-",
+                        "5"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "PlatformBehavior::Deceleration"
+                      },
+                      "parameters": [
+                        "Character",
+                        "PlatformerObject",
+                        "=",
+                        "60"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "KeyPressed"
+                      },
+                      "parameters": [
+                        "",
+                        "LShift"
+                      ]
+                    }
+                  ],
+                  "actions": [],
+                  "events": [
+                    {
+                      "type": "BuiltinCommonInstructions::Comment",
+                      "color": {
+                        "b": 109,
+                        "g": 230,
+                        "r": 255,
+                        "textB": 0,
+                        "textG": 0,
+                        "textR": 0
+                      },
+                      "comment": "If moving while holding shift, increase speed and set to run anim"
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "PlatformBehavior::PlatformerObjectBehavior::IsMovingEvenALittle"
+                          },
+                          "parameters": [
+                            "Character",
+                            "PlatformerObject"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "PlatformBehavior::MaxSpeed"
+                          },
+                          "parameters": [
+                            "Character",
+                            "PlatformerObject",
+                            "<",
+                            "90"
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "AnimatableCapability::AnimatableBehavior::SetSpeedScale"
+                          },
+                          "parameters": [
+                            "Character",
+                            "Animation",
+                            "=",
+                            "1.2"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "PlatformBehavior::MaxSpeed"
+                          },
+                          "parameters": [
+                            "Character",
+                            "PlatformerObject",
+                            "+",
+                            "5"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                          },
+                          "parameters": [
+                            "Character",
+                            "Animation",
+                            "=",
+                            "\"Running\""
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::Comment",
+                      "color": {
+                        "b": 109,
+                        "g": 230,
+                        "r": 255,
+                        "textB": 0,
+                        "textG": 0,
+                        "textR": 0
+                      },
+                      "comment": "If not moving but holding shift, set to normal speed and set to idle anim\n"
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "inverted": true,
+                            "value": "PlatformBehavior::PlatformerObjectBehavior::IsMovingEvenALittle"
+                          },
+                          "parameters": [
+                            "Character",
+                            "PlatformerObject"
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "AnimatableCapability::AnimatableBehavior::SetSpeedScale"
+                          },
+                          "parameters": [
+                            "Character",
+                            "Animation",
+                            "=",
+                            "1"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "PlatformBehavior::MaxSpeed"
+                          },
+                          "parameters": [
+                            "Character",
+                            "PlatformerObject",
+                            "=",
+                            "60"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                          },
+                          "parameters": [
+                            "Character",
+                            "Animation",
+                            "=",
+                            "\"Idle\""
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Comment",
+                  "color": {
+                    "b": 109,
+                    "g": 230,
+                    "r": 255,
+                    "textB": 0,
+                    "textG": 0,
+                    "textR": 0
+                  },
+                  "comment": "Decrease speed after releasing shift"
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "inverted": true,
+                        "value": "KeyPressed"
+                      },
+                      "parameters": [
+                        "",
+                        "LShift"
+                      ]
+                    }
+                  ],
+                  "actions": [],
+                  "events": [
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "PlatformBehavior::PlatformerObjectBehavior::IsMovingEvenALittle"
+                          },
+                          "parameters": [
+                            "Character",
+                            "PlatformerObject"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "PlatformBehavior::MaxSpeed"
+                          },
+                          "parameters": [
+                            "Character",
+                            "PlatformerObject",
+                            ">",
+                            "60"
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "AnimatableCapability::AnimatableBehavior::SetSpeedScale"
+                          },
+                          "parameters": [
+                            "Character",
+                            "Animation",
+                            "=",
+                            "1"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "PlatformBehavior::MaxSpeed"
+                          },
+                          "parameters": [
+                            "Character",
+                            "PlatformerObject",
+                            "-",
+                            "5"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "PlatformBehavior::Deceleration"
+                          },
+                          "parameters": [
+                            "Character",
+                            "PlatformerObject",
+                            "=",
+                            "60"
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "parameters": []
+        },
+        {
+          "colorB": 228,
+          "colorG": 176,
+          "colorR": 74,
+          "creationTime": 0,
+          "name": "Jumping",
+          "source": "",
+          "type": "BuiltinCommonInstructions::Group",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "PlatformBehavior::IsJumping"
+                  },
+                  "parameters": [
+                    "Character",
+                    "PlatformerObject"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                  },
+                  "parameters": [
+                    "Character",
+                    "Animation",
+                    "=",
+                    "\"Jump\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::SetSpeedScale"
+                  },
+                  "parameters": [
+                    "Character",
+                    "Animation",
+                    "=",
+                    "1.1"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "PlatformBehavior::IsJumping"
+                  },
+                  "parameters": [
+                    "Character",
+                    "PlatformerObject"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                  },
+                  "parameters": [
+                    "Character",
+                    "Animation",
+                    "=",
+                    "\"Jump\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::SetSpeedScale"
+                  },
+                  "parameters": [
+                    "Character",
+                    "Animation",
+                    "=",
+                    "1"
+                  ]
+                }
+              ]
+            }
+          ],
+          "parameters": []
+        },
+        {
+          "colorB": 228,
+          "colorG": 176,
+          "colorR": 74,
+          "creationTime": 0,
+          "name": "Falling",
+          "source": "",
+          "type": "BuiltinCommonInstructions::Group",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "PlatformBehavior::IsFalling"
+                  },
+                  "parameters": [
+                    "Character",
+                    "PlatformerObject"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "PlatformBehavior::CurrentFallSpeed"
+                  },
+                  "parameters": [
+                    "Character",
+                    "PlatformerObject",
+                    ">",
+                    "500"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                  },
+                  "parameters": [
+                    "Character",
+                    "Animation",
+                    "=",
+                    "\"Falling\""
+                  ]
+                }
+              ]
+            }
+          ],
+          "parameters": []
+        }
+      ],
+      "parameters": []
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [],
+      "actions": [
+        {
+          "type": {
+            "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+          },
+          "parameters": [
+            "RunSpeed",
+            "Text",
+            "=",
+            "\"Runspeed: \" + ToString(round(Character.PlatformerObject::MaxSpeed()))"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [],
+      "actions": [
+        {
+          "type": {
+            "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+          },
+          "parameters": [
+            "Deceleration",
+            "Text",
+            "=",
+            "\"Deceleration: \" + ToString(round(Character.PlatformerObject::Deceleration()))"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [],
+      "actions": [
+        {
+          "type": {
+            "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+          },
+          "parameters": [
+            "ANIM_SPEED",
+            "Text",
+            "=",
+            "\"SPEED ANIM: \" + ToString(Character.Animation::SpeedScale())"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [],
+      "actions": []
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [],
+      "actions": [
+        {
+          "type": {
+            "value": "LinkedObjects::LinkObjects"
+          },
+          "parameters": [
+            "Character",
+            "Character",
+            "LIGHT"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "LinkedObjects::PickObjectsLinkedTo"
+          },
+          "parameters": [
+            "",
+            "Character",
+            "LIGHT",
+            ""
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "MettreXY"
+          },
+          "parameters": [
+            "LIGHT",
+            "=",
+            "Character.X() + 150",
+            "=",
+            "400"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [],
+      "actions": [
+        {
+          "type": {
+            "value": "ObjectSpawner::ObjectSpawner::SpawnObject"
+          },
+          "parameters": [
+            "Spawn",
+            "ObjectSpawner",
+            "Cloud1",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [],
+      "actions": [
+        {
+          "type": {
+            "value": "AddForceXY"
+          },
+          "parameters": [
+            "Cloud1",
+            "-5",
+            "0",
+            "0"
+          ]
+        },
+        {
+          "type": {
+            "value": "SeparateFromObjects"
+          },
+          "parameters": [
+            "Cloud1",
+            "Cloud1",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "DepartScene"
+          },
+          "parameters": [
+            "LOGO_GAME"
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "CentreCamera"
+          },
+          "parameters": [
+            "",
+            "LOGO_GAME",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "ActivateBehavior"
+          },
+          "parameters": [
+            "Character",
+            "PlatformerObject",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "ActivateBehavior"
+          },
+          "parameters": [
+            "Character",
+            "SmoothCamera",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "ActivateBehavior"
+          },
+          "parameters": [
+            "Character",
+            "SmoothPlatformerCamera",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "ActivateBehavior"
+          },
+          "parameters": [
+            "Character",
+            "A3I",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "AnimatableCapability::AnimatableBehavior::SetName"
+          },
+          "parameters": [
+            "Character",
+            "Animation",
+            "=",
+            "\"Idle\""
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [],
+      "actions": [
+        {
+          "type": {
+            "value": "ActivateBehavior"
+          },
+          "parameters": [
+            "Character",
+            "SmoothCamera",
+            "yes"
+          ]
+        },
+        {
+          "type": {
+            "value": "ActivateBehavior"
+          },
+          "parameters": [
+            "Character",
+            "SmoothPlatformerCamera",
+            "yes"
+          ]
+        },
+        {
+          "type": {
+            "value": "ActivateBehavior"
+          },
+          "parameters": [
+            "Character",
+            "A3I",
+            "yes"
+          ]
+        },
+        {
+          "type": {
+            "value": "ActivateBehavior"
+          },
+          "parameters": [
+            "Character",
+            "PlatformerObject",
+            "yes"
+          ]
+        },
+        {
+          "type": {
+            "value": "ZoomCamera"
+          },
+          "parameters": [
+            "",
+            "4.5",
+            "",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "Scene3D::TurnCameraTowardObject"
+          },
+          "parameters": [
+            "",
+            "Character",
+            "",
+            "",
+            "yes"
+          ]
+        },
+        {
+          "type": {
+            "value": "SmoothCamera::SmoothCamera::SetRightwardSpeed"
+          },
+          "parameters": [
+            "Character",
+            "SmoothCamera",
+            ".2",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "SmoothCamera::SmoothCamera::SetUpwardSpeed"
+          },
+          "parameters": [
+            "Character",
+            "SmoothCamera",
+            ".2",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "SmoothCamera::SmoothCamera::SetDownwardSpeed"
+          },
+          "parameters": [
+            "Character",
+            "SmoothCamera",
+            ".2",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "SmoothCamera::SmoothCamera::SetLeftwardSpeed"
+          },
+          "parameters": [
+            "Character",
+            "SmoothCamera",
+            ".2",
+            ""
+          ]
+        }
+      ]
+    }
+  ],
+  "layers": [
+    {
+      "ambientLightColorB": 200,
+      "ambientLightColorG": 200,
+      "ambientLightColorR": 200,
+      "camera3DFarPlaneDistance": 10000,
+      "camera3DFieldOfView": 45,
+      "camera3DNearPlaneDistance": 3,
+      "cameraType": "",
+      "followBaseLayerCamera": false,
+      "isLightingLayer": false,
+      "isLocked": false,
+      "name": "",
+      "renderingType": "",
+      "visibility": true,
+      "cameras": [
+        {
+          "defaultSize": true,
+          "defaultViewport": true,
+          "height": 0,
+          "viewportBottom": 1,
+          "viewportLeft": 0,
+          "viewportRight": 1,
+          "viewportTop": 0,
+          "width": 0
+        }
+      ],
+      "effects": [
+        {
+          "effectType": "Scene3D::AmbientLight",
+          "name": "Effect2",
+          "doubleParameters": {
+            "intensity": 0.5
+          },
+          "stringParameters": {
+            "color": "255;255;255"
+          },
+          "booleanParameters": {}
+        }
+      ]
+    },
+    {
+      "ambientLightColorB": 200,
+      "ambientLightColorG": 200,
+      "ambientLightColorR": 200,
+      "camera3DFarPlaneDistance": 10000,
+      "camera3DFieldOfView": 45,
+      "camera3DNearPlaneDistance": 3,
+      "cameraType": "",
+      "followBaseLayerCamera": false,
+      "isLightingLayer": false,
+      "isLocked": false,
+      "name": "Layer",
+      "renderingType": "",
+      "visibility": true,
+      "cameras": [],
+      "effects": []
+    },
+    {
+      "ambientLightColorB": 200,
+      "ambientLightColorG": 200,
+      "ambientLightColorR": 200,
+      "camera3DFarPlaneDistance": 10000,
+      "camera3DFieldOfView": 45,
+      "camera3DNearPlaneDistance": 3,
+      "cameraType": "",
+      "followBaseLayerCamera": false,
+      "isLightingLayer": false,
+      "isLocked": true,
+      "name": "FILTER",
+      "renderingType": "",
+      "visibility": true,
+      "cameras": [],
+      "effects": [
+        {
+          "effectType": "CRT",
+          "name": "Effect",
+          "doubleParameters": {
+            "animationFrequency": 90,
+            "animationSpeed": 1,
+            "curvature": 10,
+            "lineContrast": 1,
+            "lineWidth": 5,
+            "noise": 0.3,
+            "noiseSize": 1,
+            "padding": 0,
+            "vignetting": 0.1,
+            "vignettingAlpha": 1,
+            "vignettingBlur": 0.1
+          },
+          "stringParameters": {},
+          "booleanParameters": {
+            "verticalLine": false
+          }
+        },
+        {
+          "effectType": "Night",
+          "name": "Effect2",
+          "doubleParameters": {
+            "intensity": 0.5,
+            "opacity": 0.8
+          },
+          "stringParameters": {},
+          "booleanParameters": {}
+        }
+      ]
+    },
+    {
+      "ambientLightColorB": 200,
+      "ambientLightColorG": 200,
+      "ambientLightColorR": 200,
+      "camera3DFarPlaneDistance": 10000,
+      "camera3DFieldOfView": 45,
+      "camera3DNearPlaneDistance": 3,
+      "cameraType": "",
+      "followBaseLayerCamera": false,
+      "isLightingLayer": false,
+      "isLocked": false,
+      "name": "CLOUD SPAWN",
+      "renderingType": "",
+      "visibility": true,
+      "cameras": [],
+      "effects": [
+        {
+          "effectType": "Scene3D::HemisphereLight",
+          "name": "3D Light",
+          "doubleParameters": {
+            "elevation": 45,
+            "intensity": 1,
+            "rotation": 0
+          },
+          "stringParameters": {
+            "groundColor": "64;64;64",
+            "skyColor": "255;255;255",
+            "top": "Y-"
+          },
+          "booleanParameters": {}
+        }
+      ]
+    },
+    {
+      "ambientLightColorB": 200,
+      "ambientLightColorG": 200,
+      "ambientLightColorR": 200,
+      "camera3DFarPlaneDistance": 10000,
+      "camera3DFieldOfView": 45,
+      "camera3DNearPlaneDistance": 3,
+      "cameraType": "",
+      "followBaseLayerCamera": false,
+      "isLightingLayer": false,
+      "isLocked": false,
+      "name": "BlackScreen",
+      "renderingType": "",
+      "visibility": true,
+      "cameras": [],
+      "effects": [
+        {
+          "effectType": "Scene3D::HemisphereLight",
+          "name": "3D Light",
+          "doubleParameters": {
+            "elevation": 45,
+            "intensity": 1,
+            "rotation": 0
+          },
+          "stringParameters": {
+            "groundColor": "64;64;64",
+            "skyColor": "255;255;255",
+            "top": "Y-"
+          },
+          "booleanParameters": {}
+        }
+      ]
+    }
+  ],
+  "behaviorsSharedData": [
+    {
+      "name": "A3I",
+      "type": "A3F::A3I"
+    },
+    {
+      "name": "A3L",
+      "type": "A3F::A3L"
+    },
+    {
+      "name": "Animation",
+      "type": "AnimatableCapability::AnimatableBehavior"
+    },
+    {
+      "name": "ButtonFSM",
+      "type": "ButtonStates::ButtonFSM"
+    },
+    {
+      "name": "ButtonScaleTween",
+      "type": "ButtonStates::ButtonScaleTween"
+    },
+    {
+      "name": "Effect",
+      "type": "EffectCapability::EffectBehavior"
+    },
+    {
+      "name": "Flippable",
+      "type": "FlippableCapability::FlippableBehavior"
+    },
+    {
+      "name": "Object3D",
+      "type": "Scene3D::Base3DBehavior"
+    },
+    {
+      "name": "ObjectSpawner",
+      "type": "ObjectSpawner::ObjectSpawner"
+    },
+    {
+      "name": "Opacity",
+      "type": "OpacityCapability::OpacityBehavior"
+    },
+    {
+      "name": "Platform",
+      "type": "PlatformBehavior::PlatformBehavior"
+    },
+    {
+      "name": "PlatformerObject",
+      "type": "PlatformBehavior::PlatformerObjectBehavior"
+    },
+    {
+      "name": "Resizable",
+      "type": "ResizableCapability::ResizableBehavior"
+    },
+    {
+      "name": "Scale",
+      "type": "ScalableCapability::ScalableBehavior"
+    },
+    {
+      "name": "SmoothCamera",
+      "type": "SmoothCamera::SmoothCamera"
+    },
+    {
+      "name": "SmoothPlatformerCamera",
+      "type": "SmoothCamera::SmoothPlatformerCamera"
+    },
+    {
+      "name": "Text",
+      "type": "TextContainerCapability::TextContainerBehavior"
+    },
+    {
+      "name": "Tween",
+      "type": "Tween::TweenBehavior"
+    }
+  ]
+}

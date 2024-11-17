@@ -1,0 +1,1140 @@
+{
+  "firstLayout": "",
+  "gdVersion": {
+    "build": 218,
+    "major": 5,
+    "minor": 4,
+    "revision": 0
+  },
+  "properties": {
+    "adaptGameResolutionAtRuntime": true,
+    "antialiasingMode": "MSAA",
+    "antialisingEnabledOnMobile": false,
+    "folderProject": true,
+    "orientation": "default",
+    "packageName": "com.example.gamename",
+    "pixelsRounding": true,
+    "projectUuid": "40d66e1a-b564-4206-9e44-37087f03bc67",
+    "scaleMode": "nearest",
+    "sizeOnStartupMode": "adaptHeight",
+    "templateSlug": "",
+    "useExternalSourceFiles": false,
+    "version": "1.0.0",
+    "name": "Flip Side",
+    "description": "",
+    "author": "",
+    "windowWidth": 1920,
+    "windowHeight": 1080,
+    "latestCompilationDirectory": "",
+    "maxFPS": 24,
+    "minFPS": 24,
+    "verticalSync": false,
+    "platformSpecificAssets": {
+      "android-icon-144": "",
+      "android-icon-192": "",
+      "android-icon-36": "",
+      "android-icon-48": "",
+      "android-icon-72": "",
+      "android-icon-96": "",
+      "android-windowSplashScreenAnimatedIcon": "",
+      "desktop-icon-512": "",
+      "ios-icon-100": "",
+      "ios-icon-1024": "",
+      "ios-icon-114": "",
+      "ios-icon-120": "",
+      "ios-icon-144": "",
+      "ios-icon-152": "",
+      "ios-icon-167": "",
+      "ios-icon-180": "",
+      "ios-icon-20": "",
+      "ios-icon-29": "",
+      "ios-icon-40": "",
+      "ios-icon-50": "",
+      "ios-icon-57": "",
+      "ios-icon-58": "",
+      "ios-icon-60": "",
+      "ios-icon-72": "",
+      "ios-icon-76": "",
+      "ios-icon-80": "",
+      "ios-icon-87": ""
+    },
+    "loadingScreen": {
+      "backgroundColor": 0,
+      "backgroundFadeInDuration": 0.2,
+      "backgroundImageResourceName": "",
+      "gdevelopLogoStyle": "light",
+      "logoAndProgressFadeInDuration": 0.2,
+      "logoAndProgressLogoFadeInDelay": 0,
+      "minDuration": 1.5,
+      "progressBarColor": 16777215,
+      "progressBarHeight": 20,
+      "progressBarMaxWidth": 200,
+      "progressBarMinWidth": 40,
+      "progressBarWidthPercent": 30,
+      "showGDevelopSplash": true,
+      "showProgressBar": true
+    },
+    "watermark": {
+      "placement": "bottom-left",
+      "showWatermark": true
+    },
+    "authorIds": [],
+    "authorUsernames": [],
+    "categories": [],
+    "playableDevices": [],
+    "extensionProperties": [],
+    "platforms": [
+      {
+        "name": "GDevelop JS platform"
+      }
+    ],
+    "currentPlatform": "GDevelop JS platform"
+  },
+  "resources": {
+    "resources": [
+      {
+        "file": "assets/Driveway Long.glb",
+        "kind": "model3D",
+        "metadata": "",
+        "name": "Driveway Long.glb",
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/3D Suburban City/38c6a1a6a6009f232bb93f58c13ab0cb448f92f878664a8f553816295b3666b1_Driveway Long.glb",
+          "name": "Driveway Long.glb"
+        }
+      },
+      {
+        "file": "assets/Large Building A.glb",
+        "kind": "model3D",
+        "metadata": "",
+        "name": "Large Building A.glb",
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/3D Commercial City/b54377d2a14ccea581e29b2ad3f44c26e28e7dc1caac448f41f0097a268bebb2_Large Building A.glb",
+          "name": "Large Building A.glb"
+        }
+      },
+      {
+        "file": "assets/Large Building C.glb",
+        "kind": "model3D",
+        "metadata": "",
+        "name": "Large Building C.glb",
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/3D Commercial City/080369c24a9ab124c9c67b5811988ca3813e64f1f1a787fd2ef356122c941d50_Large Building C.glb",
+          "name": "Large Building C.glb"
+        }
+      },
+      {
+        "file": "assets/Low Wide A.glb",
+        "kind": "model3D",
+        "metadata": "",
+        "name": "Low Wide A.glb",
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/3D Commercial City/fc740e3cfce8bbc69d8be8ade910103ad76c1b9e45ab6f481690be0ebe7dd871_Low Wide A.glb",
+          "name": "Low Wide A.glb"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "462569868_1215267672914146_3926683442073663738_n.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "C:\\Users\\Angelo\\Desktop\\462569868_1215267672914146_3926683442073663738_n.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "SPRITE2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "C:\\Users\\Angelo\\Desktop\\SPRITE2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "SPRITE3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "C:\\Users\\Angelo\\Desktop\\SPRITE3.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "SPRITE4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "C:\\Users\\Angelo\\Desktop\\SPRITE4.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "SPRITE5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "C:\\Users\\Angelo\\Desktop\\SPRITE5.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "SPRITE6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "C:\\Users\\Angelo\\Desktop\\SPRITE6.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "SPRITE.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "C:\\Users\\Angelo\\Desktop\\SPRITE.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/C__Users_Angelo_Desktop_SPRITE.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "C:\\Users\\Angelo\\Desktop\\SPRITE",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/C__Users_Angelo_Desktop_SPRITE2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "C:\\Users\\Angelo\\Desktop\\SPRITE2",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/C__Users_Angelo_Desktop_SPRITE3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "C:\\Users\\Angelo\\Desktop\\SPRITE3",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/C__Users_Angelo_Desktop_SPRITE4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "C:\\Users\\Angelo\\Desktop\\SPRITE4",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/C__Users_Angelo_Desktop_SPRITE5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "C:\\Users\\Angelo\\Desktop\\SPRITE5",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/C__Users_Angelo_Desktop_SPRITE6.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "C:\\Users\\Angelo\\Desktop\\SPRITE6",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "../../Blender Saves/BLENDER ANIMATIONS RENDERS/FS(ANIMATION)7.glb",
+        "kind": "model3D",
+        "metadata": "",
+        "name": "..\\..\\Blender Saves\\BLENDER ANIMATIONS RENDERS\\FS(ANIMATION)7.glb",
+        "userAdded": false
+      },
+      {
+        "file": "assets/Road Straight.glb",
+        "kind": "model3D",
+        "metadata": "",
+        "name": "Road Straight.glb",
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/3D City Builder/Ground/2ea5a63fd65bf7e1fe279b9aba3dbab09542d853aedbc86b717f3c04dd78b14f_Road Straight.glb",
+          "name": "Road Straight.glb"
+        }
+      },
+      {
+        "file": "assets/House 2.glb",
+        "kind": "model3D",
+        "metadata": "",
+        "name": "House 2.glb",
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/3D Classical Buildings/3f510d86d9547d9ea157b83305a3f64ddd4e360e794ce9b85e1148f1248d04eb_House 2.glb",
+          "name": "House 2.glb"
+        }
+      },
+      {
+        "file": "assets/Cloud 1.glb",
+        "kind": "model3D",
+        "metadata": "",
+        "name": "Cloud 1.glb",
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/3D Platformer Pack/343554d29a1a192f6fedaaa97f4b09b94993a1c821fe19262c16999c50f9ab66_Cloud 1.glb",
+          "name": "Cloud 1.glb"
+        }
+      },
+      {
+        "file": "assets/Cloud 2.glb",
+        "kind": "model3D",
+        "metadata": "",
+        "name": "Cloud 2.glb",
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/3D Platformer Pack/cdeabb56e2554be6682366558ea042f1044f2401a18e4c054982541e088c5616_Cloud 2.glb",
+          "name": "Cloud 2.glb"
+        }
+      },
+      {
+        "file": "assets/Cloud 3.glb",
+        "kind": "model3D",
+        "metadata": "",
+        "name": "Cloud 3.glb",
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/3D Platformer Pack/d53aa1d9875f6bac720c4d4585c8bf5633142841125e8834f04fb85c82d19f77_Cloud 3.glb",
+          "name": "Cloud 3.glb"
+        }
+      },
+      {
+        "file": "assets/Cloud 4.glb",
+        "kind": "model3D",
+        "metadata": "",
+        "name": "Cloud 4.glb",
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/3D Platformer Pack/e058f7c2450e544cf9a3a09ccc602e503e4b92c28677374e46ff944919b2998f_Cloud 4.glb",
+          "name": "Cloud 4.glb"
+        }
+      },
+      {
+        "file": "assets/Cloud2.glb",
+        "kind": "model3D",
+        "metadata": "",
+        "name": "Cloud 1.glb2",
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/3D Platformer Game Kit/ef9b0b1e925f21d2125a0567bf72a6def765b4a7eafd5e93930d2bec56ee2e65_Cloud 1.glb",
+          "name": "Cloud 1.glb"
+        }
+      },
+      {
+        "file": "assets/Building E Without Base.glb",
+        "kind": "model3D",
+        "metadata": "",
+        "name": "Building E Without Base.glb",
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/3D City Builder/Building/01410c96aad98c251f9c1c955728212a54d33005e66c0306d438770d1fd04bcb_Building E Without Base.glb",
+          "name": "Building E Without Base.glb"
+        }
+      },
+      {
+        "file": "assets/Building D Without Base.glb",
+        "kind": "model3D",
+        "metadata": "",
+        "name": "Building D Without Base.glb",
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/3D City Builder/Building/e8339ab8dd5e9d669d5980da7a4b908c9e1e9133cc941240493a32f91dfa2467_Building D Without Base.glb",
+          "name": "Building D Without Base.glb"
+        }
+      },
+      {
+        "file": "assets/Building H.glb",
+        "kind": "model3D",
+        "metadata": "",
+        "name": "Building H.glb",
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/3D City Builder/Building/1cf4591c9942aae02ba5bde39e2e39010ee48348e645c40bcb4e0f6871d67352_Building H.glb",
+          "name": "Building H.glb"
+        }
+      },
+      {
+        "file": "assets/Building A.glb",
+        "kind": "model3D",
+        "metadata": "",
+        "name": "Building A.glb",
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/3D City Builder/Building/48032a1d9fb5bf5ade02beb82305686f27234ac56c29f1e12b8a4f64865139cc_Building A.glb",
+          "name": "Building A.glb"
+        }
+      },
+      {
+        "file": "assets/Ground Grass.glb",
+        "kind": "model3D",
+        "metadata": "",
+        "name": "Ground Grass.glb",
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/3D Nature/Ground/eae30308d0ab890f80f05b9d2dddfeea58492c026287b5d5331ef36c292012fc_Ground Grass.glb",
+          "name": "Ground Grass.glb"
+        }
+      },
+      {
+        "file": "assets/Path Tiles Long.glb",
+        "kind": "model3D",
+        "metadata": "",
+        "name": "Path Tiles Long.glb",
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/3D Suburban City/06168e40c01cd327cad1377d2a69f268d3250f05316693bb83a3e0d519cf4aff_Path Tiles Long.glb",
+          "name": "Path Tiles Long.glb"
+        }
+      },
+      {
+        "file": "assets/Birch Tree 4.glb",
+        "kind": "model3D",
+        "metadata": "",
+        "name": "Birch Tree 4.glb",
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/3D Rocks and Trees/Plant/b7832e0b7053386e01a0b73bad3491b7167d9e68b02a7b7670d7a8e89ade06fc_Birch Tree 4.glb",
+          "name": "Birch Tree 4.glb"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/New image.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "New image",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite2",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Cube Grass Single.glb",
+        "kind": "model3D",
+        "metadata": "",
+        "name": "Cube Grass Single.glb",
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/3D Platformer Game Kit/Platform/Platform/f34f133c82fff3b3d3d74d46a881bda728d0ce60180d477f97c79353bf116c67_Cube Grass Single.glb",
+          "name": "Cube Grass Single.glb"
+        }
+      },
+      {
+        "file": "assets/Grass.glb",
+        "kind": "model3D",
+        "metadata": "",
+        "name": "Grass.glb",
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/3D Medieval Hexagon Pack/1ae20720a4613a3f2a3b415bcdce48d47b436e78ba64a8254e519bf818b6bd66_Grass.glb",
+          "name": "Grass.glb"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/New3DBox_Top.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{},\"localFilePath\":\"assets/New3DBox_Top.png\"}",
+        "name": "New3DBox_Top",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Tile High.glb",
+        "kind": "model3D",
+        "metadata": "",
+        "name": "Tile High.glb",
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/3D City Kit (Roads)/Ground/c24bb8e059ee4d40cd8797a3ab180d35f58077a303aaa22760239c6f99a06f26_Tile High.glb",
+          "name": "Tile High.glb"
+        }
+      },
+      {
+        "file": "assets/Road Straight2.glb",
+        "kind": "model3D",
+        "metadata": "",
+        "name": "Road Straight.glb2",
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/3D City Kit (Roads)/Ground/01e0d2aa154aaca671e074c6fb5f92e37a75cf9606a88e889a0a2b0934e64122_Road Straight.glb",
+          "name": "Road Straight.glb"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/New3DBox2_Front.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "New3DBox2_Front",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/New3DBox2_Back.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "New3DBox2_Back",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/New3DBox2_Left.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "New3DBox2_Left",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/New3DBox2_Right.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "New3DBox2_Right",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/New3DBox2_Top.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "New3DBox2_Top",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/New3DBox2_Bottom.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "New3DBox2_Bottom",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/NewSprite4.png\"}",
+        "name": "NewSprite3",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/New image2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "New image2",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/New3DBox_Top2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "New3DBox_Top2",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite4",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Stool.glb",
+        "kind": "model3D",
+        "metadata": "",
+        "name": "Stool.glb",
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/3D Sushi Restaurant/Furniture/4531372cdd3d3ed8f82890f052cfe9e5a94dd72cf91c11189c902ad984fd2cd1_Stool.glb",
+          "name": "Stool.glb"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "1.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"C:/Users/Angelo/Desktop/Game Logo/1.png\",\"extension\":\".png\"}",
+        "name": "C:\\Users\\Angelo\\Desktop\\Game Logo\\1.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "2.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"C:/Users/Angelo/Desktop/Game Logo/2.png\",\"extension\":\".png\"}",
+        "name": "C:\\Users\\Angelo\\Desktop\\Game Logo\\2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "3.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"C:/Users/Angelo/Desktop/Game Logo/3.png\",\"extension\":\".png\"}",
+        "name": "C:\\Users\\Angelo\\Desktop\\Game Logo\\3.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "4.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"C:/Users/Angelo/Desktop/Game Logo/4.png\",\"extension\":\".png\"}",
+        "name": "C:\\Users\\Angelo\\Desktop\\Game Logo\\4.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "5.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"C:/Users/Angelo/Desktop/Game Logo/5.png\",\"extension\":\".png\"}",
+        "name": "C:\\Users\\Angelo\\Desktop\\Game Logo\\5.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "6.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"C:/Users/Angelo/Desktop/Game Logo/6.png\",\"extension\":\".png\"}",
+        "name": "C:\\Users\\Angelo\\Desktop\\Game Logo\\6.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "7.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"C:/Users/Angelo/Desktop/Game Logo/7.png\",\"extension\":\".png\"}",
+        "name": "C:\\Users\\Angelo\\Desktop\\Game Logo\\7.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "8.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"C:/Users/Angelo/Desktop/Game Logo/8.png\",\"extension\":\".png\"}",
+        "name": "C:\\Users\\Angelo\\Desktop\\Game Logo\\8.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "9.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"C:/Users/Angelo/Desktop/Game Logo/9.png\",\"extension\":\".png\"}",
+        "name": "C:\\Users\\Angelo\\Desktop\\Game Logo\\9.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "10.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"C:/Users/Angelo/Desktop/Game Logo/10.png\",\"extension\":\".png\"}",
+        "name": "C:\\Users\\Angelo\\Desktop\\Game Logo\\10.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "11.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"C:/Users/Angelo/Desktop/Game Logo/11.png\",\"extension\":\".png\"}",
+        "name": "C:\\Users\\Angelo\\Desktop\\Game Logo\\11.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "12.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"C:/Users/Angelo/Desktop/Game Logo/12.png\",\"extension\":\".png\"}",
+        "name": "C:\\Users\\Angelo\\Desktop\\Game Logo\\12.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "13.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"C:/Users/Angelo/Desktop/Game Logo/13.png\",\"extension\":\".png\"}",
+        "name": "C:\\Users\\Angelo\\Desktop\\Game Logo\\13.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/C__Users_Angelo_Desktop_Game Logo_1.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/C__Users_Angelo_Desktop_Game Logo_1.png\"}",
+        "name": "C:\\Users\\Angelo\\Desktop\\Game Logo\\1",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/C__Users_Angelo_Desktop_Game Logo_2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/C__Users_Angelo_Desktop_Game Logo_2.png\"}",
+        "name": "C:\\Users\\Angelo\\Desktop\\Game Logo\\2",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/C__Users_Angelo_Desktop_Game Logo_3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/C__Users_Angelo_Desktop_Game Logo_3.png\"}",
+        "name": "C:\\Users\\Angelo\\Desktop\\Game Logo\\3",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/C__Users_Angelo_Desktop_Game Logo_4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/C__Users_Angelo_Desktop_Game Logo_4.png\"}",
+        "name": "C:\\Users\\Angelo\\Desktop\\Game Logo\\4",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/C__Users_Angelo_Desktop_Game Logo_5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/C__Users_Angelo_Desktop_Game Logo_5.png\"}",
+        "name": "C:\\Users\\Angelo\\Desktop\\Game Logo\\5",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/C__Users_Angelo_Desktop_Game Logo_6.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/C__Users_Angelo_Desktop_Game Logo_6.png\"}",
+        "name": "C:\\Users\\Angelo\\Desktop\\Game Logo\\6",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/C__Users_Angelo_Desktop_Game Logo_7.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/C__Users_Angelo_Desktop_Game Logo_7.png\"}",
+        "name": "C:\\Users\\Angelo\\Desktop\\Game Logo\\7",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/C__Users_Angelo_Desktop_Game Logo_8.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/C__Users_Angelo_Desktop_Game Logo_8.png\"}",
+        "name": "C:\\Users\\Angelo\\Desktop\\Game Logo\\8",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/C__Users_Angelo_Desktop_Game Logo_9.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "C:\\Users\\Angelo\\Desktop\\Game Logo\\9",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/C__Users_Angelo_Desktop_Game Logo_10.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "C:\\Users\\Angelo\\Desktop\\Game Logo\\10",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/C__Users_Angelo_Desktop_Game Logo_11.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "C:\\Users\\Angelo\\Desktop\\Game Logo\\11",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/C__Users_Angelo_Desktop_Game Logo_12.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "C:\\Users\\Angelo\\Desktop\\Game Logo\\12",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/C__Users_Angelo_Desktop_Game Logo_13.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "C:\\Users\\Angelo\\Desktop\\Game Logo\\13",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/C__Users_Angelo_Desktop_Game Logo_14.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "C:\\Users\\Angelo\\Desktop\\Game Logo\\14",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/C__Users_Angelo_Desktop_Game Logo_15.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "C:\\Users\\Angelo\\Desktop\\Game Logo\\15",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/C__Users_Angelo_Desktop_Game Logo_16.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "C:\\Users\\Angelo\\Desktop\\Game Logo\\16",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/C__Users_Angelo_Desktop_Game Logo_17.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "C:\\Users\\Angelo\\Desktop\\Game Logo\\17",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/C__Users_Angelo_Desktop_Game Logo_18.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "C:\\Users\\Angelo\\Desktop\\Game Logo\\18",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/C__Users_Angelo_Desktop_Game Logo_19.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "C:\\Users\\Angelo\\Desktop\\Game Logo\\19",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/C__Users_Angelo_Desktop_Game Logo_20.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "C:\\Users\\Angelo\\Desktop\\Game Logo\\20",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/C__Users_Angelo_Desktop_Game Logo_21.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "C:\\Users\\Angelo\\Desktop\\Game Logo\\21",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/C__Users_Angelo_Desktop_Game Logo_22.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "C:\\Users\\Angelo\\Desktop\\Game Logo\\22",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/C__Users_Angelo_Desktop_Game Logo_23.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "C:\\Users\\Angelo\\Desktop\\Game Logo\\23",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/C__Users_Angelo_Desktop_Game Logo_24.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "C:\\Users\\Angelo\\Desktop\\Game Logo\\24",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/C__Users_Angelo_Desktop_Game Logo_25.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "C:\\Users\\Angelo\\Desktop\\Game Logo\\25",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/C__Users_Angelo_Desktop_Game Logo_26.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "C:\\Users\\Angelo\\Desktop\\Game Logo\\26",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/C__Users_Angelo_Desktop_Game Logo_27.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "C:\\Users\\Angelo\\Desktop\\Game Logo\\27",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/C__Users_Angelo_Desktop_Game Logo_28.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "C:\\Users\\Angelo\\Desktop\\Game Logo\\28",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/C__Users_Angelo_Desktop_Game Logo_29.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "C:\\Users\\Angelo\\Desktop\\Game Logo\\29",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/C__Users_Angelo_Desktop_Game Logo_30.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "C:\\Users\\Angelo\\Desktop\\Game Logo\\30",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/C__Users_Angelo_Desktop_Game Logo_31.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "C:\\Users\\Angelo\\Desktop\\Game Logo\\31",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite6.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite5",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "PLAY button.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "PLAY button.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "PLAY button 2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "C:\\Users\\Angelo\\Desktop\\PLAY button 2.png",
+        "smoothed": false,
+        "userAdded": false
+      }
+    ],
+    "resourceFolders": []
+  },
+  "objects": [
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "BlackScreen",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "NewSprite",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "NewSprite5",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 64,
+                        "y": 0
+                      },
+                      {
+                        "x": 64,
+                        "y": 64
+                      },
+                      {
+                        "x": 0,
+                        "y": 64
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "objectsFolderStructure": {
+    "folderName": "__ROOT",
+    "children": [
+      {
+        "objectName": "BlackScreen"
+      }
+    ]
+  },
+  "objectsGroups": [],
+  "variables": [],
+  "layouts": [
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/startingscreen"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/reality"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/dream"
+    }
+  ],
+  "externalEvents": [],
+  "eventsFunctionsExtensions": [
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/eventsFunctionsExtensions/buttonstates"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/eventsFunctionsExtensions/smoothcamera"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/eventsFunctionsExtensions/objectspawner"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/eventsFunctionsExtensions/camerashake3d"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/eventsFunctionsExtensions/a3f"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/eventsFunctionsExtensions/thirdpersoncamera"
+    }
+  ],
+  "externalLayouts": [],
+  "externalSourceFiles": []
+}
