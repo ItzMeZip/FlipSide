@@ -11,14 +11,14 @@
   "uiSettings": {
     "grid": false,
     "gridType": "rectangular",
-    "gridWidth": 128,
-    "gridHeight": 128,
+    "gridWidth": 5,
+    "gridHeight": 5,
     "gridOffsetX": 0,
     "gridOffsetY": 0,
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 3.3635792882522253,
+    "zoomFactor": 2.045294289472477,
     "windowMask": false
   },
   "objectsGroups": [],
@@ -75,24 +75,6 @@
     {
       "angle": 0,
       "customSize": true,
-      "depth": 150,
-      "height": 1,
-      "keepRatio": true,
-      "layer": "",
-      "name": "ROAD",
-      "persistentUuid": "49973ffe-b43f-475a-813f-96a90f90e19c",
-      "width": 126,
-      "x": 151,
-      "y": 744,
-      "z": 100,
-      "zOrder": 10,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
       "depth": 176,
       "height": 167,
       "keepRatio": true,
@@ -102,9 +84,9 @@
       "persistentUuid": "27eaaae6-eb33-43c7-a32a-a490826cf82a",
       "sealed": true,
       "width": 207,
-      "x": 136,
-      "y": 748,
-      "z": -150,
+      "x": 120,
+      "y": 744,
+      "z": -120,
       "zOrder": 11,
       "numberProperties": [],
       "stringProperties": [],
@@ -150,18 +132,17 @@
     {
       "angle": 0,
       "customSize": true,
-      "depth": 2000,
+      "depth": 5000,
       "height": 1040,
-      "keepRatio": true,
       "layer": "",
       "locked": true,
       "name": "Platform",
       "persistentUuid": "e6f3a491-e756-4d2a-9f40-c574ad102e58",
       "sealed": true,
-      "width": 2000,
-      "x": -43,
+      "width": 12359,
+      "x": -4829,
       "y": 744,
-      "z": -1500,
+      "z": -2500,
       "zOrder": 17,
       "numberProperties": [],
       "stringProperties": [],
@@ -237,48 +218,14 @@
     {
       "angle": 0,
       "customSize": true,
-      "depth": 1,
-      "height": 419,
-      "keepRatio": true,
-      "layer": "",
-      "name": "Spawn",
-      "persistentUuid": "01eeb593-b897-469e-b5b5-5e71062ea09d",
-      "width": 322,
-      "x": 1946,
-      "y": 109,
-      "zOrder": 21,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 56.01041551010532,
-      "height": 49.42084836461958,
-      "keepRatio": true,
-      "layer": "",
-      "name": "Cloud1",
-      "persistentUuid": "7dd42607-0335-433a-bcd1-3be3ff63d212",
-      "width": 90,
-      "x": 175,
-      "y": 415,
-      "zOrder": 22,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 73,
-      "height": 56,
+      "depth": 67,
+      "height": 51,
       "keepRatio": true,
       "layer": "",
       "name": "Stool",
       "persistentUuid": "b7aa5f3a-fd32-408e-a45b-d5c02e3b8ce9",
-      "width": 73,
-      "x": 313,
+      "width": 67,
+      "x": 310,
       "y": 744,
       "zOrder": 23,
       "numberProperties": [],
@@ -304,14 +251,14 @@
     {
       "angle": 0,
       "customSize": true,
-      "depth": 122,
-      "height": 93,
+      "depth": 98,
+      "height": 75,
       "keepRatio": true,
       "layer": "",
       "name": "Stool",
       "persistentUuid": "50eb7ebe-8e11-450e-8a24-39617cdd23b9",
-      "width": 122,
-      "x": 411,
+      "width": 98,
+      "x": 399,
       "y": 747,
       "zOrder": 23,
       "numberProperties": [],
@@ -379,11 +326,506 @@
       "layer": "",
       "name": "TileLow",
       "persistentUuid": "b4f7f7ce-76c6-48b8-a2f1-cc36a65eb635",
-      "width": 1329,
-      "x": 88,
+      "width": 8010,
+      "x": -291,
       "y": 743,
       "z": -25,
       "zOrder": 28,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "locked": true,
+      "name": "BuildingGreenandBrown",
+      "persistentUuid": "bb7277a5-2a08-41a5-b5e2-01673ff984ea",
+      "sealed": true,
+      "width": 0,
+      "x": -232,
+      "y": 751,
+      "z": -70,
+      "zOrder": 29,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "Buildingx2",
+      "persistentUuid": "9d44869e-ad5d-4ef8-8c37-0e98a12e6c51",
+      "width": 0,
+      "x": 627,
+      "y": 751,
+      "z": -70,
+      "zOrder": 30,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 150,
+      "height": 3,
+      "keepRatio": true,
+      "layer": "",
+      "locked": true,
+      "name": "Main_Road",
+      "persistentUuid": "b572f56a-8390-4868-a083-ff3a4515cd1a",
+      "sealed": true,
+      "width": 127,
+      "x": -221,
+      "y": 744,
+      "z": 100,
+      "zOrder": 10,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 150,
+      "height": 1,
+      "keepRatio": true,
+      "layer": "",
+      "name": "RoadCorner",
+      "persistentUuid": "b4d46f2f-a7e0-44a6-b9fa-37b451b2c829",
+      "width": 150,
+      "x": -359,
+      "y": 744,
+      "z": 100,
+      "zOrder": 31,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 150,
+      "height": 3,
+      "keepRatio": true,
+      "layer": "",
+      "name": "Main_Road",
+      "persistentUuid": "fc7b148d-42ae-49e9-8f8e-0937ef438da1",
+      "width": 126,
+      "x": -95,
+      "y": 744,
+      "z": 100,
+      "zOrder": 10,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 150,
+      "height": 3,
+      "keepRatio": true,
+      "layer": "",
+      "name": "Main_Road",
+      "persistentUuid": "96b1ca3c-fa11-4e00-beae-f84fafb607e1",
+      "width": 126,
+      "x": 31,
+      "y": 744,
+      "z": 100,
+      "zOrder": 10,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 150,
+      "height": 3,
+      "keepRatio": true,
+      "layer": "",
+      "name": "Main_Road",
+      "persistentUuid": "ce56576a-7552-456b-a827-c4f74a8fb955",
+      "width": 126,
+      "x": 157,
+      "y": 744,
+      "z": 100,
+      "zOrder": 10,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 150,
+      "height": 3,
+      "keepRatio": true,
+      "layer": "",
+      "name": "Main_Road",
+      "persistentUuid": "1df45a1c-fdde-4448-af5c-45cd1b3ac735",
+      "width": 126,
+      "x": 283,
+      "y": 744,
+      "z": 100,
+      "zOrder": 10,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "BuildingGreenandBrown",
+      "persistentUuid": "bec7ffef-d5a1-4136-8558-c767db2579ee",
+      "width": 0,
+      "x": -44,
+      "y": 751,
+      "z": -70,
+      "zOrder": 29,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "locked": true,
+      "name": "BuildingShop",
+      "persistentUuid": "90c8fa56-ffef-45fa-a2db-72249643f82b",
+      "sealed": true,
+      "width": 0,
+      "x": -508,
+      "y": 744,
+      "z": 100,
+      "zOrder": 32,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 150,
+      "height": 2,
+      "keepRatio": true,
+      "layer": "",
+      "name": "Main_Road_Sideways",
+      "persistentUuid": "6d8aa8d9-a56e-4ff8-9c0a-b9adad377e4b",
+      "width": 150,
+      "x": -359,
+      "y": 744,
+      "z": 250,
+      "zOrder": 33,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "locked": true,
+      "name": "BuildingShop",
+      "persistentUuid": "98d57646-9806-463b-8d45-f5025f827c44",
+      "rotationY": -90,
+      "sealed": true,
+      "width": 0,
+      "x": -365,
+      "y": 743,
+      "z": -50,
+      "zOrder": 32,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 50,
+      "height": 1,
+      "keepRatio": true,
+      "layer": "",
+      "name": "TileLow",
+      "persistentUuid": "7e79deea-057a-4371-b174-51d1553d2aa2",
+      "width": 148,
+      "x": -440,
+      "y": 736,
+      "z": -30,
+      "zOrder": 34,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 14,
+      "keepRatio": true,
+      "layer": "",
+      "name": "Obstacle",
+      "persistentUuid": "8f8cefde-a39e-4512-ad63-b8c3d43f22b0",
+      "width": 3,
+      "x": -304,
+      "y": 722,
+      "zOrder": 35,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 135,
+      "keepRatio": true,
+      "layer": "",
+      "name": "Obstacle",
+      "persistentUuid": "a4c61010-d9ca-4b9b-bff5-c129bd5f1a0c",
+      "width": 11,
+      "x": -451,
+      "y": 605,
+      "zOrder": 35,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "GrassLeafs",
+      "persistentUuid": "8da3047b-07a8-4c5a-8a0a-48848a318089",
+      "width": 0,
+      "x": 344,
+      "y": 742,
+      "z": 200,
+      "zOrder": 36,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "GrassLeafs",
+      "persistentUuid": "db3d308d-8548-4cc1-be5a-f25c86256757",
+      "width": 0,
+      "x": 315,
+      "y": 742,
+      "z": 250,
+      "zOrder": 36,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "GrassLeafs",
+      "persistentUuid": "a7fd7206-4be4-433d-80ec-e2c76935f980",
+      "width": 0,
+      "x": 273,
+      "y": 742,
+      "z": 190,
+      "zOrder": 36,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "GrassLeafsLarge",
+      "persistentUuid": "4abfe90a-0b85-477a-8585-78d3486937a5",
+      "width": 0,
+      "x": 231,
+      "y": 742,
+      "z": 232,
+      "zOrder": 37,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "GrassLeafsLarge",
+      "persistentUuid": "599ec2c2-1b85-49fb-a63b-7bf9bdac8609",
+      "width": 0,
+      "x": 180,
+      "y": 742,
+      "z": 232,
+      "zOrder": 37,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "GrassLeafsLarge",
+      "persistentUuid": "ec34398f-ad72-4d53-bad1-06514d7e5db7",
+      "width": 0,
+      "x": 79,
+      "y": 742,
+      "z": 261,
+      "zOrder": 37,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "GrassLeafsLarge",
+      "persistentUuid": "3ce51033-2ca7-4522-8a53-371267901702",
+      "width": 0,
+      "x": -43,
+      "y": 742,
+      "z": 287,
+      "zOrder": 37,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "GrassLarge",
+      "persistentUuid": "90f15859-7fef-49c1-b4bf-1906a3f928d9",
+      "width": 0,
+      "x": -125,
+      "y": 742,
+      "z": 250,
+      "zOrder": 38,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 291,
+      "height": 216,
+      "keepRatio": true,
+      "layer": "",
+      "name": "CommonTree1",
+      "persistentUuid": "92688e0d-5ca7-4193-b8b9-e701a52f7d9a",
+      "width": 263,
+      "x": 99,
+      "y": 741,
+      "z": 250,
+      "zOrder": 39,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "Willow1",
+      "persistentUuid": "97c3f0e4-40f9-4038-aaf5-17d738b0f697",
+      "width": 0,
+      "x": -98,
+      "y": 747,
+      "z": 300,
+      "zOrder": 40,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "CommonTree3",
+      "persistentUuid": "19d6d41a-417c-4a8b-967a-c26d905553a6",
+      "width": 0,
+      "x": 293,
+      "y": 739,
+      "z": 225,
+      "zOrder": 41,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 162,
+      "height": 270,
+      "keepRatio": true,
+      "layer": "",
+      "name": "CommonTree4",
+      "persistentUuid": "217d2396-3bc8-4795-8778-0e580aaec80d",
+      "width": 142,
+      "x": -153,
+      "y": 736,
+      "z": -40,
+      "zOrder": 42,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 64,
+      "keepRatio": true,
+      "layer": "",
+      "name": "Tree_Opacity_Checker",
+      "persistentUuid": "5f00a734-d357-41a7-a532-f3195462a23d",
+      "width": 164,
+      "x": 277,
+      "y": 631,
+      "zOrder": 43,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -475,20 +917,19 @@
           "ReceiveShadow": false
         },
         {
-          "isFolded": true,
+          "gravity": 600,
+          "jumpSpeed": 300,
+          "maxFallingSpeed": 1000,
           "name": "PlatformerObject",
           "type": "PlatformBehavior::PlatformerObjectBehavior",
           "maxSpeed": 60,
-          "gravity": 800,
           "jumpSustainTime": 0,
-          "maxFallingSpeed": 1000,
           "acceleration": 1500,
           "canGoDownFromJumpthru": true,
           "canGrabPlatforms": false,
           "canGrabWithoutMoving": true,
           "deceleration": 200,
           "ignoreDefaultControls": true,
-          "jumpSpeed": 500,
           "ladderClimbingSpeed": 150,
           "slopeMaxAngle": 60,
           "useLegacyTrajectory": false,
@@ -496,6 +937,7 @@
           "yGrabOffset": 0
         },
         {
+          "isFolded": true,
           "name": "SmoothCamera",
           "type": "SmoothCamera::SmoothCamera",
           "LeftwardSpeed": 0.9,
@@ -714,7 +1156,7 @@
     },
     {
       "assetStoreId": "6df108c7e2244937e498d8d6beff76be84fc7e8004d5e831fbb120a2ed2d0663",
-      "name": "ROAD",
+      "name": "Main_Road",
       "type": "Scene3D::Model3DObject",
       "variables": [],
       "effects": [],
@@ -921,7 +1363,18 @@
       "type": "Scene3D::Model3DObject",
       "variables": [],
       "effects": [],
-      "behaviors": [],
+      "behaviors": [
+        {
+          "name": "A3I",
+          "type": "A3F::A3I",
+          "Capability3d": "Object3D",
+          "AxesHelper": false,
+          "Blend": "Keep model blend mode",
+          "Opacity": 255,
+          "CastShadow": true,
+          "ReceiveShadow": false
+        }
+      ],
       "content": {
         "centerLocation": "ModelOrigin",
         "depth": 169,
@@ -930,7 +1383,7 @@
         "materialType": "StandardWithoutMetalness",
         "modelResourceName": "Building D Without Base.glb",
         "originLocation": "ModelOrigin",
-        "rotationX": 90,
+        "rotationX": 0,
         "rotationY": 0,
         "rotationZ": 0,
         "width": 169,
@@ -952,7 +1405,7 @@
         "materialType": "StandardWithoutMetalness",
         "modelResourceName": "Building H.glb",
         "originLocation": "ModelOrigin",
-        "rotationX": 90,
+        "rotationX": 0,
         "rotationY": 0,
         "rotationZ": 0,
         "width": 229,
@@ -963,7 +1416,13 @@
       "assetStoreId": "2425a3f75c67c9d47832f957768b7d1504dd6ce71df9f67a52671ab5eab8b7ae",
       "name": "BuildingShop",
       "type": "Scene3D::Model3DObject",
-      "variables": [],
+      "variables": [
+        {
+          "name": "Variable",
+          "type": "number",
+          "value": 0
+        }
+      ],
       "effects": [],
       "behaviors": [],
       "content": {
@@ -974,32 +1433,10 @@
         "materialType": "StandardWithoutMetalness",
         "modelResourceName": "Building A.glb",
         "originLocation": "ModelOrigin",
-        "rotationX": 90,
-        "rotationY": 0,
-        "rotationZ": 0,
-        "width": 150,
-        "animations": []
-      }
-    },
-    {
-      "assetStoreId": "5fc95e4fb4fcb29e3c50f3cedba1d7f979483c81abc3b7609208e7b1c76fbdcb",
-      "name": "PathTilesLong",
-      "type": "Scene3D::Model3DObject",
-      "variables": [],
-      "effects": [],
-      "behaviors": [],
-      "content": {
-        "centerLocation": "ModelOrigin",
-        "depth": 48,
-        "height": 48,
-        "keepAspectRatio": true,
-        "materialType": "StandardWithoutMetalness",
-        "modelResourceName": "Path Tiles Long.glb",
-        "originLocation": "ModelOrigin",
         "rotationX": 0,
         "rotationY": 90,
         "rotationZ": 0,
-        "width": 48,
+        "width": 150,
         "animations": []
       }
     },
@@ -1103,7 +1540,7 @@
           "Capability3d": "Object3D",
           "AxesHelper": false,
           "Blend": "Keep model blend mode",
-          "Opacity": 255,
+          "Opacity": 0,
           "CastShadow": false,
           "ReceiveShadow": false
         },
@@ -1121,9 +1558,9 @@
           "ShadowMapSize": "1024px",
           "ShadowRange": 512,
           "ShadowDepthBias": 0,
-          "ShadowNormalBias": 0,
-          "LightHelper": true,
-          "ShadowHelper": true
+          "ShadowNormalBias": 1,
+          "LightHelper": false,
+          "ShadowHelper": false
         }
       ],
       "content": {
@@ -1347,7 +1784,7 @@
           "Blend": "Keep model blend mode",
           "Opacity": 255,
           "CastShadow": true,
-          "ReceiveShadow": false
+          "ReceiveShadow": true
         },
         {
           "name": "Platform",
@@ -2439,9 +2876,9 @@
         "materialType": "StandardWithoutMetalness",
         "modelResourceName": "Grass Large.glb",
         "originLocation": "ModelOrigin",
-        "rotationX": 90,
+        "rotationX": 0,
         "rotationY": 0,
-        "rotationZ": -90,
+        "rotationZ": 0,
         "width": 18,
         "animations": []
       }
@@ -2461,9 +2898,9 @@
         "materialType": "StandardWithoutMetalness",
         "modelResourceName": "Grass Leafs Large.glb",
         "originLocation": "ModelOrigin",
-        "rotationX": 90,
+        "rotationX": 0,
         "rotationY": 0,
-        "rotationZ": -90,
+        "rotationZ": 0,
         "width": 22,
         "animations": []
       }
@@ -2483,9 +2920,9 @@
         "materialType": "StandardWithoutMetalness",
         "modelResourceName": "Grass Leafs.glb",
         "originLocation": "ModelOrigin",
-        "rotationX": 90,
+        "rotationX": 0,
         "rotationY": 0,
-        "rotationZ": -90,
+        "rotationZ": 0,
         "width": 12,
         "animations": []
       }
@@ -2529,6 +2966,320 @@
         "width": 150,
         "animations": []
       }
+    },
+    {
+      "assetStoreId": "507997127750cf27d4b5f696358448dafee8c3412b82f04fed45766f202a8678",
+      "name": "RoadCorner",
+      "type": "Scene3D::Model3DObject",
+      "variables": [],
+      "effects": [],
+      "behaviors": [
+        {
+          "isFolded": true,
+          "name": "A3I",
+          "type": "A3F::A3I",
+          "Capability3d": "Object3D",
+          "AxesHelper": false,
+          "Blend": "Keep model blend mode",
+          "Opacity": 255,
+          "CastShadow": false,
+          "ReceiveShadow": true
+        }
+      ],
+      "content": {
+        "centerLocation": "ModelOrigin",
+        "depth": 150,
+        "height": 150,
+        "keepAspectRatio": true,
+        "materialType": "StandardWithoutMetalness",
+        "modelResourceName": "Road Corner.glb",
+        "originLocation": "ModelOrigin",
+        "rotationX": 0,
+        "rotationY": 0,
+        "rotationZ": 0,
+        "width": 150,
+        "animations": []
+      }
+    },
+    {
+      "assetStoreId": "6df108c7e2244937e498d8d6beff76be84fc7e8004d5e831fbb120a2ed2d0663",
+      "name": "Main_Road_Sideways",
+      "type": "Scene3D::Model3DObject",
+      "variables": [],
+      "effects": [],
+      "behaviors": [
+        {
+          "name": "A3I",
+          "type": "A3F::A3I",
+          "Capability3d": "Object3D",
+          "AxesHelper": false,
+          "Blend": "Keep model blend mode",
+          "Opacity": 255,
+          "CastShadow": false,
+          "ReceiveShadow": true
+        },
+        {
+          "canBeGrabbed": true,
+          "name": "Platform",
+          "platformType": "NormalPlatform",
+          "type": "PlatformBehavior::PlatformBehavior",
+          "yGrabOffset": 0
+        }
+      ],
+      "content": {
+        "centerLocation": "ObjectCenter",
+        "depth": 150,
+        "height": 150,
+        "keepAspectRatio": true,
+        "materialType": "StandardWithoutMetalness",
+        "modelResourceName": "Road Straight.glb",
+        "originLocation": "ObjectCenter",
+        "rotationX": 0,
+        "rotationY": 0,
+        "rotationZ": 0,
+        "width": 150,
+        "animations": []
+      }
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "Obstacle",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [
+        {
+          "canBeGrabbed": true,
+          "name": "Platform",
+          "platformType": "NormalPlatform",
+          "type": "PlatformBehavior::PlatformBehavior",
+          "yGrabOffset": 0
+        }
+      ],
+      "animations": [
+        {
+          "name": "NewSprite",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "NewSprite17",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 64,
+                        "y": 0
+                      },
+                      {
+                        "x": 64,
+                        "y": 64
+                      },
+                      {
+                        "x": 0,
+                        "y": 64
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "assetStoreId": "16fac9714ba0a9eb3c83984910c70b11affca1b4e6a8bed49c22af1d30f957da",
+      "name": "CommonTree1",
+      "type": "Scene3D::Model3DObject",
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "content": {
+        "centerLocation": "ModelOrigin",
+        "depth": 250,
+        "height": 250,
+        "keepAspectRatio": true,
+        "materialType": "StandardWithoutMetalness",
+        "modelResourceName": "Common Tree 1.glb",
+        "originLocation": "ModelOrigin",
+        "rotationX": 0,
+        "rotationY": 30,
+        "rotationZ": 0,
+        "width": 250,
+        "animations": []
+      }
+    },
+    {
+      "assetStoreId": "64b00d731b6865c3f8c961201be87c209673323eda67f501d63359a381c8ff9a",
+      "name": "Willow1",
+      "type": "Scene3D::Model3DObject",
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "content": {
+        "centerLocation": "ModelOrigin",
+        "depth": 256,
+        "height": 256,
+        "keepAspectRatio": true,
+        "materialType": "StandardWithoutMetalness",
+        "modelResourceName": "Willow 1.glb",
+        "originLocation": "ModelOrigin",
+        "rotationX": 0,
+        "rotationY": 90,
+        "rotationZ": 0,
+        "width": 256,
+        "animations": []
+      }
+    },
+    {
+      "assetStoreId": "7612ce8098ea9724bf7d7287213a1422bad9bb9555bb1115becb0dc25c1962d7",
+      "name": "CommonTree3",
+      "type": "Scene3D::Model3DObject",
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "content": {
+        "centerLocation": "ModelOrigin",
+        "depth": 311,
+        "height": 311,
+        "keepAspectRatio": true,
+        "materialType": "StandardWithoutMetalness",
+        "modelResourceName": "Common Tree 3.glb",
+        "originLocation": "ModelOrigin",
+        "rotationX": 0,
+        "rotationY": 0,
+        "rotationZ": 0,
+        "width": 311,
+        "animations": []
+      }
+    },
+    {
+      "assetStoreId": "c9cb03adae5a82ecd62c86c548125aae778bf810e48015158de70eb8d8fae8ae",
+      "name": "CommonTree4",
+      "type": "Scene3D::Model3DObject",
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "content": {
+        "centerLocation": "ModelOrigin",
+        "depth": 251,
+        "height": 251,
+        "keepAspectRatio": true,
+        "materialType": "StandardWithoutMetalness",
+        "modelResourceName": "Common Tree 4.glb",
+        "originLocation": "ModelOrigin",
+        "rotationX": 0,
+        "rotationY": 180,
+        "rotationZ": 0,
+        "width": 251,
+        "animations": []
+      }
+    },
+    {
+      "assetStoreId": "7612ce8098ea9724bf7d7287213a1422bad9bb9555bb1115becb0dc25c1962d7",
+      "name": "CommonTree5",
+      "type": "Scene3D::Model3DObject",
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "content": {
+        "centerLocation": "ModelOrigin",
+        "depth": 311,
+        "height": 311,
+        "keepAspectRatio": true,
+        "materialType": "StandardWithoutMetalness",
+        "modelResourceName": "Common Tree 3.glb",
+        "originLocation": "ModelOrigin",
+        "rotationX": 90,
+        "rotationY": 0,
+        "rotationZ": -90,
+        "width": 311,
+        "animations": []
+      }
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "Tree_Opacity_Checker",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "NewSprite",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "NewSprite18",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 64,
+                        "y": 0
+                      },
+                      {
+                        "x": 64,
+                        "y": 64
+                      },
+                      {
+                        "x": 0,
+                        "y": 64
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ],
   "objectsFolderStructure": {
@@ -2536,6 +3287,23 @@
     "children": [
       {
         "objectName": "Character"
+      },
+      {
+        "folderName": "Road",
+        "children": [
+          {
+            "objectName": "RoadCorner"
+          },
+          {
+            "objectName": "Main_Road"
+          },
+          {
+            "objectName": "Main_Road_Sideways"
+          },
+          {
+            "objectName": "TileLow"
+          }
+        ]
       },
       {
         "folderName": "Clouds",
@@ -2613,19 +3381,16 @@
         "objectName": "ANIM_SPEED"
       },
       {
-        "objectName": "ROAD"
-      },
-      {
         "objectName": "FILTER"
-      },
-      {
-        "objectName": "PathTilesLong"
       },
       {
         "objectName": "BirchTree4"
       },
       {
         "objectName": "Platform"
+      },
+      {
+        "objectName": "Obstacle"
       },
       {
         "objectName": "Spawn"
@@ -2637,7 +3402,22 @@
         "objectName": "Stool"
       },
       {
-        "objectName": "TileLow"
+        "objectName": "CommonTree1"
+      },
+      {
+        "objectName": "Willow1"
+      },
+      {
+        "objectName": "CommonTree3"
+      },
+      {
+        "objectName": "Tree_Opacity_Checker"
+      },
+      {
+        "objectName": "CommonTree4"
+      },
+      {
+        "objectName": "CommonTree5"
       }
     ]
   },
@@ -3816,7 +4596,59 @@
             "value": "Wait"
           },
           "parameters": [
-            "13"
+            "7"
+          ]
+        },
+        {
+          "type": {
+            "value": "SmoothCamera::SmoothCamera::SetLeftwardSpeed"
+          },
+          "parameters": [
+            "Character",
+            "SmoothCamera",
+            ".4",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "SmoothCamera::SmoothCamera::SetDownwardSpeed"
+          },
+          "parameters": [
+            "Character",
+            "SmoothCamera",
+            ".4",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "SmoothCamera::SmoothCamera::SetUpwardSpeed"
+          },
+          "parameters": [
+            "Character",
+            "SmoothCamera",
+            ".4",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "SmoothCamera::SmoothCamera::SetRightwardSpeed"
+          },
+          "parameters": [
+            "Character",
+            "SmoothCamera",
+            ".4",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "Wait"
+          },
+          "parameters": [
+            "4"
           ]
         },
         {
@@ -3870,6 +4702,71 @@
             "Character",
             "SmoothCamera",
             ".9",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "CollisionNP"
+          },
+          "parameters": [
+            "Character",
+            "Tree_Opacity_Checker",
+            "",
+            "",
+            ""
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "A3F::ChangeOpacity"
+          },
+          "parameters": [
+            "",
+            "CommonTree3",
+            "Object3D",
+            "\"=\"",
+            "100",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "inverted": true,
+            "value": "CollisionNP"
+          },
+          "parameters": [
+            "Character",
+            "Tree_Opacity_Checker",
+            "",
+            "",
+            ""
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "A3F::ChangeOpacity"
+          },
+          "parameters": [
+            "",
+            "CommonTree3",
+            "Object3D",
+            "\"=\"",
+            "255",
             ""
           ]
         }

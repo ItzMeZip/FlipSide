@@ -9,7 +9,7 @@
   "title": "",
   "v": 245,
   "uiSettings": {
-    "grid": true,
+    "grid": false,
     "gridType": "rectangular",
     "gridWidth": 128,
     "gridHeight": 128,
@@ -17,8 +17,8 @@
     "gridOffsetY": 0,
     "gridColor": 10401023,
     "gridAlpha": 0.8,
-    "snap": true,
-    "zoomFactor": 0.29879853636069054,
+    "snap": false,
+    "zoomFactor": 0.6622955665506386,
     "windowMask": false
   },
   "objectsGroups": [],
@@ -35,7 +35,7 @@
       "persistentUuid": "05e58d9a-89e4-4eb9-a596-e91cc53dc105",
       "width": 640,
       "x": 640,
-      "y": 128,
+      "y": 216,
       "zOrder": 0,
       "numberProperties": [],
       "stringProperties": [],
@@ -52,7 +52,7 @@
       "persistentUuid": "b7d7b930-3e83-44c9-9f28-f9090fb22958",
       "width": 374,
       "x": 778,
-      "y": 512,
+      "y": 600,
       "zOrder": 4,
       "numberProperties": [],
       "stringProperties": [],
@@ -71,6 +71,40 @@
       "x": 0,
       "y": 0,
       "zOrder": 5,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 152,
+      "keepRatio": true,
+      "layer": "",
+      "name": "G_KA",
+      "persistentUuid": "03bb9da6-a99e-488c-84fa-5e8602bbb86d",
+      "width": 256,
+      "x": 980,
+      "y": 112,
+      "zOrder": 6,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 144,
+      "keepRatio": true,
+      "layer": "",
+      "name": "Made_by",
+      "persistentUuid": "1efed8da-640d-44d5-a9e3-fdb657b95d1e",
+      "width": 256,
+      "x": 727,
+      "y": 114,
+      "zOrder": 7,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -1319,6 +1353,478 @@
           ]
         }
       ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "G_KA",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [
+        {
+          "effectType": "ColorReplace",
+          "name": "Effect",
+          "doubleParameters": {
+            "epsilon": 0.4
+          },
+          "stringParameters": {
+            "newColor": "255;255;255",
+            "originalColor": "0;0;0"
+          },
+          "booleanParameters": {}
+        },
+        {
+          "effectType": "DropShadow",
+          "name": "Effect2",
+          "doubleParameters": {
+            "alpha": 1,
+            "blur": 1,
+            "distance": 1,
+            "padding": 0,
+            "quality": 20,
+            "rotation": 0
+          },
+          "stringParameters": {
+            "color": "0;0;0"
+          },
+          "booleanParameters": {
+            "shadowOnly": false
+          }
+        }
+      ],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "NewSprite",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.1,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "NewSprite12",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 335,
+                        "y": 266
+                      },
+                      {
+                        "x": 1584,
+                        "y": 266
+                      },
+                      {
+                        "x": 1584,
+                        "y": 813
+                      },
+                      {
+                        "x": 335,
+                        "y": 813
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "NewSprite13",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 335,
+                        "y": 266
+                      },
+                      {
+                        "x": 1584,
+                        "y": 266
+                      },
+                      {
+                        "x": 1584,
+                        "y": 813
+                      },
+                      {
+                        "x": 335,
+                        "y": 813
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "NewSprite14",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 335,
+                        "y": 266
+                      },
+                      {
+                        "x": 1584,
+                        "y": 266
+                      },
+                      {
+                        "x": 1584,
+                        "y": 813
+                      },
+                      {
+                        "x": 335,
+                        "y": 813
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "NewSprite15",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 335,
+                        "y": 266
+                      },
+                      {
+                        "x": 1584,
+                        "y": 266
+                      },
+                      {
+                        "x": 1584,
+                        "y": 813
+                      },
+                      {
+                        "x": 335,
+                        "y": 813
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "NewSprite16",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 335,
+                        "y": 266
+                      },
+                      {
+                        "x": 1584,
+                        "y": 266
+                      },
+                      {
+                        "x": 1584,
+                        "y": 813
+                      },
+                      {
+                        "x": 335,
+                        "y": 813
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "Made_by",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [
+        {
+          "effectType": "ColorReplace",
+          "name": "Effect2",
+          "doubleParameters": {
+            "epsilon": 0.4
+          },
+          "stringParameters": {
+            "newColor": "255;255;255",
+            "originalColor": "0;0;0"
+          },
+          "booleanParameters": {}
+        },
+        {
+          "effectType": "DropShadow",
+          "name": "Effect",
+          "doubleParameters": {
+            "alpha": 1,
+            "blur": 1,
+            "distance": 1,
+            "padding": 0,
+            "quality": 20,
+            "rotation": 0
+          },
+          "stringParameters": {
+            "color": "0;0;0"
+          },
+          "booleanParameters": {
+            "shadowOnly": false
+          }
+        }
+      ],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "C:\\Users\\Angelo\\Desktop\\SPRITE\\made-0001",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.1,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "C:\\Users\\Angelo\\Desktop\\SPRITE\\made-0001",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 76,
+                        "y": 292
+                      },
+                      {
+                        "x": 1748,
+                        "y": 292
+                      },
+                      {
+                        "x": 1748,
+                        "y": 890
+                      },
+                      {
+                        "x": 76,
+                        "y": 890
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "C:\\Users\\Angelo\\Desktop\\SPRITE\\made0",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 76,
+                        "y": 292
+                      },
+                      {
+                        "x": 1748,
+                        "y": 292
+                      },
+                      {
+                        "x": 1748,
+                        "y": 890
+                      },
+                      {
+                        "x": 76,
+                        "y": 890
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "C:\\Users\\Angelo\\Desktop\\SPRITE\\made1",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 76,
+                        "y": 292
+                      },
+                      {
+                        "x": 1748,
+                        "y": 292
+                      },
+                      {
+                        "x": 1748,
+                        "y": 890
+                      },
+                      {
+                        "x": 76,
+                        "y": 890
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "C:\\Users\\Angelo\\Desktop\\SPRITE\\made2",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 76,
+                        "y": 292
+                      },
+                      {
+                        "x": 1748,
+                        "y": 292
+                      },
+                      {
+                        "x": 1748,
+                        "y": 890
+                      },
+                      {
+                        "x": 76,
+                        "y": 890
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "C:\\Users\\Angelo\\Desktop\\SPRITE\\made3",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 76,
+                        "y": 292
+                      },
+                      {
+                        "x": 1748,
+                        "y": 292
+                      },
+                      {
+                        "x": 1748,
+                        "y": 890
+                      },
+                      {
+                        "x": 76,
+                        "y": 890
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ],
   "objectsFolderStructure": {
@@ -1329,6 +1835,12 @@
       },
       {
         "objectName": "Play_Button"
+      },
+      {
+        "objectName": "G_KA"
+      },
+      {
+        "objectName": "Made_by"
       }
     ]
   },
@@ -1359,6 +1871,114 @@
             "\"Backward\"",
             "",
             ""
+          ]
+        },
+        {
+          "type": {
+            "value": "OpacityCapability::OpacityBehavior::SetValue"
+          },
+          "parameters": [
+            "Game_Logo",
+            "Opacity",
+            "=",
+            "0"
+          ]
+        },
+        {
+          "type": {
+            "value": "OpacityCapability::OpacityBehavior::SetValue"
+          },
+          "parameters": [
+            "Play_Button",
+            "Opacity",
+            "=",
+            "0"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "OpacityCapability::OpacityBehavior::Value"
+          },
+          "parameters": [
+            "Game_Logo",
+            "Opacity",
+            "<=",
+            "255"
+          ]
+        },
+        {
+          "type": {
+            "value": "FlashTransitionPainter::FlashTransitionPainter::PaintEffectIsEnd"
+          },
+          "parameters": [
+            "Transition",
+            "FlashTransitionPainter",
+            ""
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "OpacityCapability::OpacityBehavior::SetValue"
+          },
+          "parameters": [
+            "Game_Logo",
+            "Opacity",
+            "+",
+            "3"
+          ]
+        },
+        {
+          "type": {
+            "value": "Wait"
+          },
+          "parameters": [
+            "2"
+          ]
+        }
+      ],
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "OpacityCapability::OpacityBehavior::Value"
+              },
+              "parameters": [
+                "Play_Button",
+                "Opacity",
+                "<=",
+                "255"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "OpacityCapability::OpacityBehavior::SetValue"
+              },
+              "parameters": [
+                "Play_Button",
+                "Opacity",
+                "+",
+                "5"
+              ]
+            },
+            {
+              "type": {
+                "value": "Wait"
+              },
+              "parameters": [
+                "5"
+              ]
+            }
           ]
         }
       ]
@@ -1484,6 +2104,14 @@
               "type": "BuiltinCommonInstructions::Standard",
               "conditions": [],
               "actions": [
+                {
+                  "type": {
+                    "value": "Wait"
+                  },
+                  "parameters": [
+                    "3"
+                  ]
+                },
                 {
                   "type": {
                     "value": "Scene"

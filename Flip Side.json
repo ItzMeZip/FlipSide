@@ -1088,6 +1088,234 @@
           "identifier": "https://asset-resources.gdevelop.io/public-resources/3D City Kit (Roads)/Ground/7e308316ecf8a54b6f4e5fcfe6cee752ef2d12530683dab78822661f52c57f11_Tile Low.glb",
           "name": "Tile Low.glb"
         }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite8.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite7",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite8.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite8",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite9.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite9",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite10.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite10",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite11.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite11",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite12.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite12",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite13.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite13",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite14.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite14",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite15.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite15",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite16.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite16",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "C:/Users/Angelo/Desktop/SPRITE/made-0001.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "C:\\Users\\Angelo\\Desktop\\SPRITE\\made-0001.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/C__Users_Angelo_Desktop_SPRITE_made-0001.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "C:\\Users\\Angelo\\Desktop\\SPRITE\\made-0001",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/C__Users_Angelo_Desktop_SPRITE_made0.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "C:\\Users\\Angelo\\Desktop\\SPRITE\\made0",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/C__Users_Angelo_Desktop_SPRITE_made1.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "C:\\Users\\Angelo\\Desktop\\SPRITE\\made1",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/C__Users_Angelo_Desktop_SPRITE_made2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "C:\\Users\\Angelo\\Desktop\\SPRITE\\made2",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/C__Users_Angelo_Desktop_SPRITE_made3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "C:\\Users\\Angelo\\Desktop\\SPRITE\\made3",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Road Bend.glb",
+        "kind": "model3D",
+        "metadata": "",
+        "name": "Road Bend.glb",
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/3D City Kit (Roads)/Ground/12e5d612ecde68cdda96d3e48b7c7de88221b35721c4af03607eecbf691d9f99_Road Bend.glb",
+          "name": "Road Bend.glb"
+        }
+      },
+      {
+        "file": "assets/Road Corner.glb",
+        "kind": "model3D",
+        "metadata": "",
+        "name": "Road Corner.glb",
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/3D City Builder/Ground/64206d8f0fad9400406e853e998e7c88660c8fdf2dc59d715e863feff4b0e578_Road Corner.glb",
+          "name": "Road Corner.glb"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite17.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite17",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Common Tree 1.glb",
+        "kind": "model3D",
+        "metadata": "",
+        "name": "Common Tree 1.glb",
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/3D Rocks and Trees/Plant/7c4f3d2324ecd1f8910652478dd7bcb1ac714b260c66a562318c3f72c37bb404_Common Tree 1.glb",
+          "name": "Common Tree 1.glb"
+        }
+      },
+      {
+        "file": "assets/Willow 1.glb",
+        "kind": "model3D",
+        "metadata": "",
+        "name": "Willow 1.glb",
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/3D Rocks and Trees/Plant/3253947f37d4ad3819dbf41983df8fefe1f2c67f49b584168f6bf2a70917abe6_Willow 1.glb",
+          "name": "Willow 1.glb"
+        }
+      },
+      {
+        "file": "assets/Common Tree 3.glb",
+        "kind": "model3D",
+        "metadata": "",
+        "name": "Common Tree 3.glb",
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/3D Rocks and Trees/Plant/704840e55f48c3a7bc60fa8bf7b98b35a72eb244b61b1758eacfaa042f8da5a0_Common Tree 3.glb",
+          "name": "Common Tree 3.glb"
+        }
+      },
+      {
+        "file": "assets/Common Tree 4.glb",
+        "kind": "model3D",
+        "metadata": "",
+        "name": "Common Tree 4.glb",
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/3D Rocks and Trees/Plant/79dd91741d24352562a206734cc2d282a5ddfc1796b3df98a0ffd385e018d84a_Common Tree 4.glb",
+          "name": "Common Tree 4.glb"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite18.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/NewSprite18.png\"}",
+        "name": "NewSprite18",
+        "smoothed": false,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
