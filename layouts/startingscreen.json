@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": true,
-    "zoomFactor": 0.5250860067782503,
+    "zoomFactor": 0.29879853636069054,
     "windowMask": false
   },
   "objectsGroups": [],
@@ -35,25 +35,8 @@
       "persistentUuid": "05e58d9a-89e4-4eb9-a596-e91cc53dc105",
       "width": 640,
       "x": 640,
-      "y": 256,
+      "y": 128,
       "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 1,
-      "height": 1152,
-      "keepRatio": true,
-      "layer": "Black Screen",
-      "name": "BlackScreen",
-      "persistentUuid": "3adafc9e-1c22-4262-bfa1-eff72a3b02b9",
-      "width": 1920,
-      "x": 0,
-      "y": 0,
-      "zOrder": 3,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -69,8 +52,25 @@
       "persistentUuid": "b7d7b930-3e83-44c9-9f28-f9090fb22958",
       "width": 374,
       "x": 778,
-      "y": 640,
+      "y": 512,
       "zOrder": 4,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 1152,
+      "keepRatio": true,
+      "layer": "Black Screen",
+      "name": "Transition",
+      "persistentUuid": "595533be-c596-48ba-bca0-41fb07f3f71f",
+      "width": 1920,
+      "x": 0,
+      "y": 0,
+      "zOrder": 5,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -1345,48 +1345,20 @@
           ]
         }
       ],
-      "actions": []
-    },
-    {
-      "type": "BuiltinCommonInstructions::Standard",
-      "conditions": [
+      "actions": [
         {
           "type": {
-            "value": "OpacityCapability::OpacityBehavior::Value"
+            "value": "FlashTransitionPainter::FlashTransitionPainter::PaintEffect"
           },
           "parameters": [
-            "BlackScreen",
-            "Opacity",
-            "<=",
-            "255"
-          ]
-        }
-      ],
-      "actions": [],
-      "events": [
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [],
-          "actions": [
-            {
-              "type": {
-                "value": "OpacityCapability::OpacityBehavior::SetValue"
-              },
-              "parameters": [
-                "BlackScreen",
-                "Opacity",
-                "-",
-                "5"
-              ]
-            },
-            {
-              "type": {
-                "value": "Wait"
-              },
-              "parameters": [
-                "1"
-              ]
-            }
+            "Transition",
+            "FlashTransitionPainter",
+            "\"0;0;0\"",
+            "5",
+            "\"Flash\"",
+            "\"Backward\"",
+            "",
+            ""
           ]
         }
       ]
@@ -1415,25 +1387,6 @@
             "Animation",
             "=",
             "\"PlayPressed\""
-          ]
-        }
-      ],
-      "events": [
-        {
-          "disabled": true,
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [],
-          "actions": [
-            {
-              "type": {
-                "value": "Scene"
-              },
-              "parameters": [
-                "",
-                "\"Reality\"",
-                "yes"
-              ]
-            }
           ]
         }
       ]
@@ -1465,21 +1418,82 @@
             "\"Play\""
           ]
         }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "ButtonStates::ButtonFSM::IsClicked"
+          },
+          "parameters": [
+            "Play_Button",
+            "ButtonFSM",
+            ""
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "AnimatableCapability::AnimatableBehavior::SetName"
+          },
+          "parameters": [
+            "Play_Button",
+            "Animation",
+            "=",
+            "\"Play\""
+          ]
+        }
       ],
       "events": [
         {
-          "disabled": true,
           "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [],
+          "conditions": [
+            {
+              "type": {
+                "value": "FlashTransitionPainter::FlashTransitionPainter::PaintEffectIsEnd"
+              },
+              "parameters": [
+                "Transition",
+                "FlashTransitionPainter",
+                ""
+              ]
+            }
+          ],
           "actions": [
             {
               "type": {
-                "value": "Scene"
+                "value": "FlashTransitionPainter::FlashTransitionPainter::PaintEffect"
               },
               "parameters": [
+                "Transition",
+                "FlashTransitionPainter",
+                "\"0;0;0\"",
+                "2",
+                "\"Flash\"",
+                "\"Forward\"",
                 "",
-                "\"Reality\"",
-                "yes"
+                ""
+              ]
+            }
+          ],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Scene"
+                  },
+                  "parameters": [
+                    "",
+                    "\"Reality\"",
+                    ""
+                  ]
+                }
               ]
             }
           ]
@@ -1578,7 +1592,7 @@
       "isLocked": false,
       "name": "Black Screen",
       "renderingType": "",
-      "visibility": false,
+      "visibility": true,
       "cameras": [],
       "effects": [
         {
@@ -1619,6 +1633,10 @@
     {
       "name": "Effect",
       "type": "EffectCapability::EffectBehavior"
+    },
+    {
+      "name": "FlashTransitionPainter",
+      "type": "FlashTransitionPainter::FlashTransitionPainter"
     },
     {
       "name": "Flippable",

@@ -1017,78 +1017,124 @@
         "name": "C:\\Users\\Angelo\\Desktop\\PLAY button 2.png",
         "smoothed": false,
         "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite7.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite6",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/New3DBox_Top3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "New3DBox_Top3",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/New3DBox_Top4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "New3DBox_Top4",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Grass Large.glb",
+        "kind": "model3D",
+        "metadata": "",
+        "name": "Grass Large.glb",
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/3D Nature/Plant/9b54d6ff274153a6bea718eefbc7573449e70a308a8a40324ef0a6aca3e1b826_Grass Large.glb",
+          "name": "Grass Large.glb"
+        }
+      },
+      {
+        "file": "assets/Grass Leafs Large.glb",
+        "kind": "model3D",
+        "metadata": "",
+        "name": "Grass Leafs Large.glb",
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/3D Nature/Plant/c74057f1047f41683a98b4405c2b9fd033a88bb3cdbd85d5ba575a15d439a03b_Grass Leafs Large.glb",
+          "name": "Grass Leafs Large.glb"
+        }
+      },
+      {
+        "file": "assets/Grass Leafs.glb",
+        "kind": "model3D",
+        "metadata": "",
+        "name": "Grass Leafs.glb",
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/3D Nature/Plant/11ecab9763238724806f03bc33d472557bf5c5fbbd5f89a68f142d23aabd5e00_Grass Leafs.glb",
+          "name": "Grass Leafs.glb"
+        }
+      },
+      {
+        "file": "assets/Tile Low.glb",
+        "kind": "model3D",
+        "metadata": "",
+        "name": "Tile Low.glb",
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/3D City Kit (Roads)/Ground/7e308316ecf8a54b6f4e5fcfe6cee752ef2d12530683dab78822661f52c57f11_Tile Low.glb",
+          "name": "Tile Low.glb"
+        }
       }
     ],
     "resourceFolders": []
   },
   "objects": [
     {
-      "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
-      "name": "BlackScreen",
-      "type": "Sprite",
-      "updateIfNotVisible": false,
+      "name": "Transition",
+      "type": "PrimitiveDrawing::Drawer",
       "variables": [],
       "effects": [],
-      "behaviors": [],
-      "animations": [
+      "behaviors": [
         {
-          "name": "NewSprite",
-          "useMultipleDirections": false,
-          "directions": [
-            {
-              "looping": false,
-              "metadata": "{\"pskl\":{}}",
-              "timeBetweenFrames": 0.08,
-              "sprites": [
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "NewSprite5",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 0,
-                        "y": 0
-                      },
-                      {
-                        "x": 64,
-                        "y": 0
-                      },
-                      {
-                        "x": 64,
-                        "y": 64
-                      },
-                      {
-                        "x": 0,
-                        "y": 64
-                      }
-                    ]
-                  ]
-                }
-              ]
-            }
-          ]
+          "name": "FlashTransitionPainter",
+          "type": "FlashTransitionPainter::FlashTransitionPainter",
+          "Progress": 0,
+          "Duration": 0,
+          "Type": "",
+          "Direction": "",
+          "MaxOpacity": 255,
+          "Index": 0,
+          "Value": 0
         }
-      ]
+      ],
+      "fillOpacity": 255,
+      "outlineSize": 1,
+      "outlineOpacity": 255,
+      "absoluteCoordinates": false,
+      "clearBetweenFrames": true,
+      "antialiasing": "none",
+      "fillColor": {
+        "r": 0,
+        "g": 0,
+        "b": 0
+      },
+      "outlineColor": {
+        "r": 0,
+        "g": 0,
+        "b": 0
+      }
     }
   ],
   "objectsFolderStructure": {
     "folderName": "__ROOT",
     "children": [
       {
-        "objectName": "BlackScreen"
+        "objectName": "Transition"
       }
     ]
   },
@@ -1110,6 +1156,10 @@
   ],
   "externalEvents": [],
   "eventsFunctionsExtensions": [
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/eventsFunctionsExtensions/flashtransitionpainter"
+    },
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
       "referenceTo": "/eventsFunctionsExtensions/buttonstates"
