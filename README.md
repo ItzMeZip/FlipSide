@@ -11,7 +11,8 @@ Version Control: Github
 
 # Use Case: Designed for casual gamers, casual story loving users who enjoy 2d/3d style platformers. The game is PG 13 and is available currently for WINDOWS.
 
-
+PUBLIC REPOSITORY
+[https://github.com/ItzMeZip/FlipSide/settings]
 ## Collaborators
 ### Angelo N. Cabana
 ### Duane Benedict A. Mahinay
