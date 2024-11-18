@@ -11062,7 +11062,6 @@
           "comment": "SCHOOL"
         },
         {
-          "disabled": true,
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
