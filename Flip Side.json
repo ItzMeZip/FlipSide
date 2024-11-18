@@ -3143,6 +3143,511 @@
         "name": "25.png",
         "smoothed": false,
         "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "house1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "house1.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "house2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "house2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "house3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "house3.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "building.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "building.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "building2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "building2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "building3 .png",
+        "kind": "image",
+        "metadata": "",
+        "name": "building3 .png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "building1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "building1.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "building3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "building3.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "building4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "building4.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "building5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "building5.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "building6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "building6.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "short1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "short1.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "short2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "short2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "short3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "short3.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "TREE.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "TREE.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "TREE2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "TREE2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "TREE3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "TREE3.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "TREE4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "TREE4.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "TREE5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "TREE5.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "TREE6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "TREE6.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "catto.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "catto.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite25.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite25",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite26.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite26",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite27.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite27",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite28.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite28",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "26.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"26.png\",\"extension\":\".png\"}",
+        "name": "26.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "27.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"27.png\",\"extension\":\".png\"}",
+        "name": "27.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "28.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"28.png\",\"extension\":\".png\"}",
+        "name": "28.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "29.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"29.png\",\"extension\":\".png\"}",
+        "name": "29.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "30.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"30.png\",\"extension\":\".png\"}",
+        "name": "30.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "31.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"31.png\",\"extension\":\".png\"}",
+        "name": "31.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "32.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"32.png\",\"extension\":\".png\"}",
+        "name": "32.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "33.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"33.png\",\"extension\":\".png\"}",
+        "name": "33.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "34.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"34.png\",\"extension\":\".png\"}",
+        "name": "34.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "35.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"35.png\",\"extension\":\".png\"}",
+        "name": "35.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "36.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"36.png\",\"extension\":\".png\"}",
+        "name": "36.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "37.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"37.png\",\"extension\":\".png\"}",
+        "name": "37.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/26.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "26",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/27.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "27",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/28.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "28",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/29.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "29",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/30.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "30",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/31.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "31",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/32.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "32",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/33.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "33",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/34.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "34",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/35.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "35",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/36.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "36",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/37.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "37",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/38.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "38",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/39.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "39",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/40.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "40",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/And Just Like That.aac",
+        "kind": "audio",
+        "metadata": "",
+        "name": "e988bd501f87293c044d1291cf7cb45fcbe8d8db1bb9208a40a215bbb9343e3d_And Just Like That.aac",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Music/Uplifting/e988bd501f87293c044d1291cf7cb45fcbe8d8db1bb9208a40a215bbb9343e3d_And Just Like That.aac",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "file": "assets/18 - i beat the final dungeon and all i got was this lousy triangle.aac",
+        "kind": "audio",
+        "metadata": "",
+        "name": "e8e669cf8c921f2f3beca9768b09ed48ce1d60259e67a37d5c1a31f042ae4352_18 - i beat the final dungeon and all i got was this lousy triangle.aac",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Ragnar Random/Fakebit Chiptune Music/e8e669cf8c921f2f3beca9768b09ed48ce1d60259e67a37d5c1a31f042ae4352_18 - i beat the final dungeon and all i got was this lousy triangle.aac",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "crayon.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "crayon.png",
+        "smoothed": false,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -3183,6 +3688,1003 @@
         "g": 0,
         "b": 0
       }
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "TransitionOG",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "26",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.03,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "26",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 650,
+                        "y": 427
+                      },
+                      {
+                        "x": 1177,
+                        "y": 427
+                      },
+                      {
+                        "x": 1177,
+                        "y": 808
+                      },
+                      {
+                        "x": 650,
+                        "y": 808
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "26.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 650,
+                        "y": 427
+                      },
+                      {
+                        "x": 1177,
+                        "y": 427
+                      },
+                      {
+                        "x": 1177,
+                        "y": 808
+                      },
+                      {
+                        "x": 650,
+                        "y": 808
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "27",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 650,
+                        "y": 427
+                      },
+                      {
+                        "x": 1177,
+                        "y": 427
+                      },
+                      {
+                        "x": 1177,
+                        "y": 808
+                      },
+                      {
+                        "x": 650,
+                        "y": 808
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "27.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 650,
+                        "y": 427
+                      },
+                      {
+                        "x": 1177,
+                        "y": 427
+                      },
+                      {
+                        "x": 1177,
+                        "y": 808
+                      },
+                      {
+                        "x": 650,
+                        "y": 808
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "28",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 650,
+                        "y": 427
+                      },
+                      {
+                        "x": 1177,
+                        "y": 427
+                      },
+                      {
+                        "x": 1177,
+                        "y": 808
+                      },
+                      {
+                        "x": 650,
+                        "y": 808
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "28.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 650,
+                        "y": 427
+                      },
+                      {
+                        "x": 1177,
+                        "y": 427
+                      },
+                      {
+                        "x": 1177,
+                        "y": 808
+                      },
+                      {
+                        "x": 650,
+                        "y": 808
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "29",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 650,
+                        "y": 427
+                      },
+                      {
+                        "x": 1177,
+                        "y": 427
+                      },
+                      {
+                        "x": 1177,
+                        "y": 808
+                      },
+                      {
+                        "x": 650,
+                        "y": 808
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "29.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 650,
+                        "y": 427
+                      },
+                      {
+                        "x": 1177,
+                        "y": 427
+                      },
+                      {
+                        "x": 1177,
+                        "y": 808
+                      },
+                      {
+                        "x": 650,
+                        "y": 808
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "30",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 650,
+                        "y": 427
+                      },
+                      {
+                        "x": 1177,
+                        "y": 427
+                      },
+                      {
+                        "x": 1177,
+                        "y": 808
+                      },
+                      {
+                        "x": 650,
+                        "y": 808
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "30.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 650,
+                        "y": 427
+                      },
+                      {
+                        "x": 1177,
+                        "y": 427
+                      },
+                      {
+                        "x": 1177,
+                        "y": 808
+                      },
+                      {
+                        "x": 650,
+                        "y": 808
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "31",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 650,
+                        "y": 427
+                      },
+                      {
+                        "x": 1177,
+                        "y": 427
+                      },
+                      {
+                        "x": 1177,
+                        "y": 808
+                      },
+                      {
+                        "x": 650,
+                        "y": 808
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "31.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 650,
+                        "y": 427
+                      },
+                      {
+                        "x": 1177,
+                        "y": 427
+                      },
+                      {
+                        "x": 1177,
+                        "y": 808
+                      },
+                      {
+                        "x": 650,
+                        "y": 808
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "32",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 650,
+                        "y": 427
+                      },
+                      {
+                        "x": 1177,
+                        "y": 427
+                      },
+                      {
+                        "x": 1177,
+                        "y": 808
+                      },
+                      {
+                        "x": 650,
+                        "y": 808
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "33",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 650,
+                        "y": 427
+                      },
+                      {
+                        "x": 1177,
+                        "y": 427
+                      },
+                      {
+                        "x": 1177,
+                        "y": 808
+                      },
+                      {
+                        "x": 650,
+                        "y": 808
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "32.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 650,
+                        "y": 427
+                      },
+                      {
+                        "x": 1177,
+                        "y": 427
+                      },
+                      {
+                        "x": 1177,
+                        "y": 808
+                      },
+                      {
+                        "x": 650,
+                        "y": 808
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "34",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 650,
+                        "y": 427
+                      },
+                      {
+                        "x": 1177,
+                        "y": 427
+                      },
+                      {
+                        "x": 1177,
+                        "y": 808
+                      },
+                      {
+                        "x": 650,
+                        "y": 808
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "33.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 650,
+                        "y": 427
+                      },
+                      {
+                        "x": 1177,
+                        "y": 427
+                      },
+                      {
+                        "x": 1177,
+                        "y": 808
+                      },
+                      {
+                        "x": 650,
+                        "y": 808
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "35",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 650,
+                        "y": 427
+                      },
+                      {
+                        "x": 1177,
+                        "y": 427
+                      },
+                      {
+                        "x": 1177,
+                        "y": 808
+                      },
+                      {
+                        "x": 650,
+                        "y": 808
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "34.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 650,
+                        "y": 427
+                      },
+                      {
+                        "x": 1177,
+                        "y": 427
+                      },
+                      {
+                        "x": 1177,
+                        "y": 808
+                      },
+                      {
+                        "x": 650,
+                        "y": 808
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "36",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 650,
+                        "y": 427
+                      },
+                      {
+                        "x": 1177,
+                        "y": 427
+                      },
+                      {
+                        "x": 1177,
+                        "y": 808
+                      },
+                      {
+                        "x": 650,
+                        "y": 808
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "35.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 650,
+                        "y": 427
+                      },
+                      {
+                        "x": 1177,
+                        "y": 427
+                      },
+                      {
+                        "x": 1177,
+                        "y": 808
+                      },
+                      {
+                        "x": 650,
+                        "y": 808
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "37",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 650,
+                        "y": 427
+                      },
+                      {
+                        "x": 1177,
+                        "y": 427
+                      },
+                      {
+                        "x": 1177,
+                        "y": 808
+                      },
+                      {
+                        "x": 650,
+                        "y": 808
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "36.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 650,
+                        "y": 427
+                      },
+                      {
+                        "x": 1177,
+                        "y": 427
+                      },
+                      {
+                        "x": 1177,
+                        "y": 808
+                      },
+                      {
+                        "x": 650,
+                        "y": 808
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "38",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 650,
+                        "y": 427
+                      },
+                      {
+                        "x": 1177,
+                        "y": 427
+                      },
+                      {
+                        "x": 1177,
+                        "y": 808
+                      },
+                      {
+                        "x": 650,
+                        "y": 808
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "37.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 650,
+                        "y": 427
+                      },
+                      {
+                        "x": 1177,
+                        "y": 427
+                      },
+                      {
+                        "x": 1177,
+                        "y": 808
+                      },
+                      {
+                        "x": 650,
+                        "y": 808
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "39",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 650,
+                        "y": 427
+                      },
+                      {
+                        "x": 1177,
+                        "y": 427
+                      },
+                      {
+                        "x": 1177,
+                        "y": 808
+                      },
+                      {
+                        "x": 650,
+                        "y": 808
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "40",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 650,
+                        "y": 427
+                      },
+                      {
+                        "x": 1177,
+                        "y": 427
+                      },
+                      {
+                        "x": 1177,
+                        "y": 808
+                      },
+                      {
+                        "x": 650,
+                        "y": 808
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ],
   "objectsFolderStructure": {
@@ -3190,6 +4692,9 @@
     "children": [
       {
         "objectName": "Transition"
+      },
+      {
+        "objectName": "TransitionOG"
       }
     ]
   },
@@ -3207,6 +4712,11 @@
     },
     {
       "name": "Flip",
+      "type": "boolean",
+      "value": false
+    },
+    {
+      "name": "CatDelete",
       "type": "boolean",
       "value": false
     }

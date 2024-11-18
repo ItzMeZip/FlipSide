@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 1.7911979166667562,
+    "zoomFactor": 1.2031142879249919,
     "windowMask": false
   },
   "objectsGroups": [],
@@ -106,24 +106,6 @@
       "y": 750,
       "z": -70,
       "zOrder": 15,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 57,
-      "height": 176,
-      "keepRatio": true,
-      "layer": "",
-      "name": "Tree6",
-      "persistentUuid": "9020de02-555d-4dd2-97b4-4b712362cc81",
-      "width": 163,
-      "x": 290,
-      "y": 104,
-      "z": -100,
-      "zOrder": 16,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -1000,23 +982,6 @@
       "y": 645,
       "z": 230,
       "zOrder": 48,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 8,
-      "height": 435,
-      "keepRatio": true,
-      "layer": "",
-      "name": "Spawn",
-      "persistentUuid": "71ded260-c3ce-4c1e-980f-ac24b7a65236",
-      "width": 491,
-      "x": 29,
-      "y": 102,
-      "zOrder": 49,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -2454,15 +2419,16 @@
     },
     {
       "angle": 0,
-      "customSize": false,
-      "height": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 35,
       "keepRatio": true,
       "layer": "",
       "name": "E_Interaction",
       "persistentUuid": "202e2e2d-086e-476e-8483-56c04e12f57f",
-      "width": 0,
-      "x": 2154,
-      "y": 673,
+      "width": 35,
+      "x": 1750,
+      "y": 409,
       "zOrder": 83,
       "numberProperties": [],
       "stringProperties": [],
@@ -3293,6 +3259,19 @@
           "Opacity": 255,
           "CastShadow": true,
           "ReceiveShadow": false
+        },
+        {
+          "name": "ObjectSpawner",
+          "type": "ObjectSpawner::ObjectSpawner",
+          "SpawnPeriod": 3,
+          "OffsetX": 0,
+          "OffsetY": 0,
+          "JustSpawnedAnObject": false,
+          "MaxQuantityReached": false,
+          "MaxQuantity": 0,
+          "SpawnerCapacity": 0,
+          "UnlimitedCapacity": true,
+          "RandomPosition": true
         },
         {
           "name": "Tween",
@@ -9770,16 +9749,6 @@
               "actions": [
                 {
                   "type": {
-                    "value": "Scene"
-                  },
-                  "parameters": [
-                    "",
-                    "\"Dream\"",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
                     "value": "SetBooleanVariable"
                   },
                   "parameters": [
@@ -9806,6 +9775,16 @@
                     "Character_Position_X",
                     "=",
                     "Character.X()"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Scene"
+                  },
+                  "parameters": [
+                    "",
+                    "\"Dream\"",
+                    ""
                   ]
                 }
               ]
@@ -10685,7 +10664,7 @@
       "colorR": 74,
       "creationTime": 0,
       "folded": true,
-      "name": "Text",
+      "name": "LINKING",
       "source": "",
       "type": "BuiltinCommonInstructions::Group",
       "events": [
@@ -10862,9 +10841,9 @@
           "parameters": [
             "Spawn",
             "=",
-            "Character.X() + 100",
+            "Character.X() + 400",
             "=",
-            "Character.Y() - 600"
+            "Character.Y() - 900"
           ]
         }
       ]
@@ -10898,6 +10877,7 @@
       ]
     },
     {
+      "disabled": true,
       "type": "BuiltinCommonInstructions::Standard",
       "conditions": [],
       "actions": [
@@ -10907,7 +10887,7 @@
           },
           "parameters": [
             "Cloud1",
-            "-50",
+            "-200",
             "0",
             "0"
           ]
@@ -10918,6 +10898,35 @@
           },
           "parameters": [
             "Cloud1",
+            "Cloud1",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "disabled": true,
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "ObjectSpawner::ObjectSpawner::MaxQuantity"
+          },
+          "parameters": [
+            "Cloud1",
+            "ObjectSpawner",
+            ">=",
+            "20",
+            ""
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "Delete"
+          },
+          "parameters": [
             "Cloud1",
             ""
           ]
@@ -10994,6 +11003,19 @@
                 "Animation",
                 "=",
                 "\"Idle\""
+              ]
+            },
+            {
+              "type": {
+                "value": "PlaySoundCanal"
+              },
+              "parameters": [
+                "",
+                "e988bd501f87293c044d1291cf7cb45fcbe8d8db1bb9208a40a215bbb9343e3d_And Just Like That.aac",
+                "",
+                "yes",
+                "50",
+                ""
               ]
             }
           ]
@@ -11706,9 +11728,9 @@
                   "parameters": [
                     "Character",
                     "=",
-                    "2154",
+                    "1750",
                     "=",
-                    "673"
+                    "409"
                   ]
                 },
                 {
@@ -11757,6 +11779,7 @@
           "actions": [],
           "events": [
             {
+              "disabled": true,
               "type": "BuiltinCommonInstructions::Standard",
               "conditions": [
                 {
@@ -11924,6 +11947,32 @@
                 "Character",
                 "SmoothCamera",
                 "10",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "BooleanVariable"
+              },
+              "parameters": [
+                "CatDelete",
+                "True",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Delete"
+              },
+              "parameters": [
+                "Cat3d",
                 ""
               ]
             }
@@ -12097,6 +12146,39 @@
       "isLightingLayer": false,
       "isLocked": false,
       "name": "BlackScreen",
+      "renderingType": "",
+      "visibility": true,
+      "cameras": [],
+      "effects": [
+        {
+          "effectType": "Scene3D::HemisphereLight",
+          "name": "3D Light",
+          "doubleParameters": {
+            "elevation": 45,
+            "intensity": 1,
+            "rotation": 0
+          },
+          "stringParameters": {
+            "groundColor": "64;64;64",
+            "skyColor": "255;255;255",
+            "top": "Y-"
+          },
+          "booleanParameters": {}
+        }
+      ]
+    },
+    {
+      "ambientLightColorB": 200,
+      "ambientLightColorG": 200,
+      "ambientLightColorR": 200,
+      "camera3DFarPlaneDistance": 10000,
+      "camera3DFieldOfView": 45,
+      "camera3DNearPlaneDistance": 3,
+      "cameraType": "",
+      "followBaseLayerCamera": false,
+      "isLightingLayer": false,
+      "isLocked": false,
+      "name": "TRANSITION",
       "renderingType": "",
       "visibility": true,
       "cameras": [],

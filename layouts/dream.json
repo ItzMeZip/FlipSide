@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 2.756660758664006,
+    "zoomFactor": 1.6215651521552994,
     "windowMask": false
   },
   "objectsGroups": [],
@@ -58,26 +58,6 @@
     },
     {
       "angle": 0,
-      "customSize": true,
-      "depth": 176,
-      "height": 167,
-      "keepRatio": true,
-      "layer": "",
-      "locked": true,
-      "name": "HOUSEPROTAGONIST",
-      "persistentUuid": "27eaaae6-eb33-43c7-a32a-a490826cf82a",
-      "sealed": true,
-      "width": 207,
-      "x": 120,
-      "y": 744,
-      "z": -120,
-      "zOrder": 11,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
       "customSize": false,
       "height": 0,
       "keepRatio": true,
@@ -110,41 +90,6 @@
       "initialVariables": []
     },
     {
-      "angle": 90,
-      "customSize": false,
-      "height": 0,
-      "keepRatio": true,
-      "layer": "",
-      "name": "LargeBuilding1",
-      "persistentUuid": "c29bfaef-4a45-4903-af08-f55e00f2ffaa",
-      "width": 0,
-      "x": 794,
-      "y": 743,
-      "z": -72,
-      "zOrder": 9,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 3,
-      "height": 384,
-      "keepRatio": true,
-      "layer": "",
-      "name": "LOGO_GAME",
-      "opacity": 0,
-      "persistentUuid": "453d7e3a-1945-4850-90eb-fbff694aee07",
-      "width": 483,
-      "x": 669,
-      "y": -384,
-      "zOrder": 26,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
       "angle": 0,
       "customSize": true,
       "depth": 1,
@@ -165,100 +110,6 @@
     },
     {
       "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "keepRatio": true,
-      "layer": "",
-      "locked": true,
-      "name": "BuildingGreenandBrown",
-      "persistentUuid": "bb7277a5-2a08-41a5-b5e2-01673ff984ea",
-      "sealed": true,
-      "width": 0,
-      "x": -232,
-      "y": 751,
-      "z": -70,
-      "zOrder": 29,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "keepRatio": true,
-      "layer": "",
-      "locked": true,
-      "name": "BuildingwithShop",
-      "persistentUuid": "9d44869e-ad5d-4ef8-8c37-0e98a12e6c51",
-      "sealed": true,
-      "width": 0,
-      "x": 627,
-      "y": 751,
-      "z": -70,
-      "zOrder": 30,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "keepRatio": true,
-      "layer": "",
-      "locked": true,
-      "name": "BuildingShop",
-      "persistentUuid": "90c8fa56-ffef-45fa-a2db-72249643f82b",
-      "sealed": true,
-      "width": 0,
-      "x": -508,
-      "y": 744,
-      "z": 100,
-      "zOrder": 32,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "keepRatio": true,
-      "layer": "",
-      "locked": true,
-      "name": "BuildingShop",
-      "persistentUuid": "98d57646-9806-463b-8d45-f5025f827c44",
-      "rotationY": -90,
-      "sealed": true,
-      "width": 0,
-      "x": -365,
-      "y": 743,
-      "z": -50,
-      "zOrder": 32,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 1,
-      "height": 14,
-      "keepRatio": true,
-      "layer": "",
-      "name": "Obstacle",
-      "persistentUuid": "8f8cefde-a39e-4512-ad63-b8c3d43f22b0",
-      "width": 3,
-      "x": -304,
-      "y": 722,
-      "zOrder": 35,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
       "customSize": true,
       "depth": 1,
       "height": 135,
@@ -267,8 +118,8 @@
       "name": "Obstacle",
       "persistentUuid": "a4c61010-d9ca-4b9b-bff5-c129bd5f1a0c",
       "width": 11,
-      "x": -451,
-      "y": 605,
+      "x": -46,
+      "y": 619,
       "zOrder": 35,
       "numberProperties": [],
       "stringProperties": [],
@@ -346,23 +197,6 @@
     },
     {
       "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "keepRatio": true,
-      "layer": "",
-      "name": "Cat3d",
-      "persistentUuid": "f400d1ca-3cfd-44e4-93bd-eaf30f1b4245",
-      "width": 0,
-      "x": 903,
-      "y": 576,
-      "z": 50,
-      "zOrder": 51,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
       "customSize": true,
       "depth": 7,
       "height": 32,
@@ -434,132 +268,6 @@
       "initialVariables": []
     },
     {
-      "angle": 90,
-      "customSize": false,
-      "height": 0,
-      "keepRatio": true,
-      "layer": "",
-      "locked": true,
-      "name": "LargeBuilding1",
-      "persistentUuid": "ed710ac2-52e0-41cf-b7d6-6c2987213576",
-      "sealed": true,
-      "width": 0,
-      "x": 1048,
-      "y": 747,
-      "z": -72,
-      "zOrder": 56,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 9,
-      "height": 16,
-      "keepRatio": true,
-      "layer": "",
-      "name": "Trashcan",
-      "persistentUuid": "253da7fd-cebb-4f52-973a-dd1d1971e00f",
-      "width": 8,
-      "x": 1108,
-      "y": 744,
-      "zOrder": 57,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 9,
-      "height": 16,
-      "keepRatio": true,
-      "layer": "",
-      "name": "Trashcan",
-      "persistentUuid": "4962135d-ab60-4026-b626-9f169dffd0ff",
-      "width": 8,
-      "x": 1112,
-      "y": 744,
-      "z": 7,
-      "zOrder": 57,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 9,
-      "height": 16,
-      "keepRatio": true,
-      "layer": "",
-      "name": "Trashcan",
-      "persistentUuid": "ad54c734-962b-4c4e-b971-582f5ef39d56",
-      "width": 8,
-      "x": 1115,
-      "y": 744,
-      "z": -7,
-      "zOrder": 57,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 21,
-      "height": 23,
-      "keepRatio": true,
-      "layer": "",
-      "name": "BoxA",
-      "persistentUuid": "663eb33d-9610-4a88-ba83-f5140e05d36f",
-      "rotationY": 30,
-      "width": 24,
-      "x": 1135,
-      "y": 746,
-      "zOrder": 58,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 17,
-      "height": 19,
-      "keepRatio": true,
-      "layer": "",
-      "name": "BoxA",
-      "persistentUuid": "0ef20359-6d87-4c74-aa32-1bdeaf31a3d4",
-      "rotationY": -30,
-      "width": 20,
-      "x": 1146,
-      "y": 723,
-      "zOrder": 58,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 21,
-      "height": 23,
-      "keepRatio": true,
-      "layer": "",
-      "name": "BoxA",
-      "persistentUuid": "407c41d8-c998-4538-92ec-a4bd752205b2",
-      "width": 24,
-      "x": 1151,
-      "y": 746,
-      "z": 10,
-      "zOrder": 58,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
       "angle": 0,
       "customSize": true,
       "depth": 0,
@@ -623,64 +331,6 @@
       "x": 1165,
       "y": 688,
       "zOrder": 59,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "keepRatio": true,
-      "layer": "",
-      "locked": true,
-      "name": "Building7",
-      "persistentUuid": "fbd7b3da-962d-4810-9570-e4432b4ff5e3",
-      "sealed": true,
-      "width": 0,
-      "x": 1352,
-      "y": 744,
-      "z": -100,
-      "zOrder": 60,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "keepRatio": true,
-      "layer": "",
-      "locked": true,
-      "name": "Building7",
-      "persistentUuid": "df894443-fbf4-4921-88d4-c3f782dc68bf",
-      "sealed": true,
-      "width": 0,
-      "x": 1567,
-      "y": 744,
-      "z": -100,
-      "zOrder": 60,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 140,
-      "height": 309,
-      "keepRatio": true,
-      "layer": "",
-      "locked": true,
-      "name": "TrainStationBuilding",
-      "persistentUuid": "345b7b1f-025a-4b6a-b15c-cfd210bdc05b",
-      "sealed": true,
-      "width": 137,
-      "x": 1791,
-      "y": 752,
-      "z": -75,
-      "zOrder": 61,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -938,35 +588,15 @@
     {
       "angle": 0,
       "customSize": true,
-      "depth": 140,
-      "height": 309,
-      "keepRatio": true,
-      "layer": "",
-      "locked": true,
-      "name": "TrainStationBuilding",
-      "persistentUuid": "882226c5-13e8-4a41-adc6-4c26dc861b23",
-      "sealed": true,
-      "width": 137,
-      "x": 2075,
-      "y": 758,
-      "z": -75,
-      "zOrder": 61,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
       "depth": 1,
-      "height": 21,
+      "height": 8,
       "keepRatio": true,
       "layer": "",
       "name": "Obstacle",
       "persistentUuid": "022fcdbe-b31d-406b-aad8-36ef7a77d8bb",
       "width": 134,
       "x": 1724,
-      "y": 448,
+      "y": 461,
       "zOrder": 65,
       "numberProperties": [],
       "stringProperties": [],
@@ -1106,26 +736,6 @@
       "y": 744,
       "z": -19,
       "zOrder": 72,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 90,
-      "height": 524,
-      "keepRatio": true,
-      "layer": "",
-      "locked": true,
-      "name": "SCHOOL",
-      "persistentUuid": "09351dc5-496c-45e8-b66a-97aec2cdc5c4",
-      "sealed": true,
-      "width": 959,
-      "x": 2729,
-      "y": 717,
-      "z": -470,
-      "zOrder": 73,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -2703,7 +2313,7 @@
       "width": 0,
       "x": -96,
       "y": 748,
-      "zOrder": 0,
+      "zOrder": 1,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -2719,7 +2329,7 @@
       "width": 0,
       "x": -144,
       "y": 748,
-      "zOrder": 0,
+      "zOrder": 1,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -2735,101 +2345,444 @@
       "width": 0,
       "x": -192,
       "y": 748,
+      "zOrder": 1,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 212,
+      "keepRatio": true,
+      "layer": "",
+      "name": "HouseSprite",
+      "persistentUuid": "2e0ae313-2ed7-4bc0-af85-c83535d98fac",
+      "width": 265,
+      "x": 9,
+      "y": 556,
       "zOrder": 0,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 245,
+      "keepRatio": true,
+      "layer": "",
+      "name": "TallBuildign",
+      "persistentUuid": "8b168c99-3aae-4809-a740-718798e87a8e",
+      "width": 436,
+      "x": 423,
+      "y": 509,
+      "zOrder": 0,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 245,
+      "keepRatio": true,
+      "layer": "",
+      "name": "TallBuildign",
+      "persistentUuid": "6c57ed31-5985-41b7-92a4-0e81902a4094",
+      "width": 235,
+      "x": 687,
+      "y": 511,
+      "zOrder": 0,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 117,
+      "keepRatio": true,
+      "layer": "",
+      "locked": true,
+      "name": "TallBuildign",
+      "persistentUuid": "ec86d0a8-4072-4d9a-887d-669b8f1c5508",
+      "sealed": true,
+      "width": 196,
+      "x": 949,
+      "y": 644,
+      "zOrder": 0,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 244,
+      "keepRatio": true,
+      "layer": "",
+      "locked": true,
+      "name": "ShortBuilding",
+      "persistentUuid": "31157353-dd75-49fd-a137-361aa2bcbfe4",
+      "sealed": true,
+      "width": 306,
+      "x": 1195,
+      "y": 518,
+      "zOrder": 0,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 244,
+      "keepRatio": true,
+      "layer": "",
+      "name": "ShortBuilding",
+      "persistentUuid": "e48e5c21-16bb-49ec-a5e7-0f08d426398a",
+      "width": 306,
+      "x": 1419,
+      "y": 519,
+      "zOrder": 0,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 321,
+      "keepRatio": true,
+      "layer": "",
+      "name": "TallBuildign",
+      "persistentUuid": "2c7d6e9f-d46a-4376-8193-bdf58ee1968f",
+      "width": 436,
+      "x": 1582,
+      "y": 434,
+      "zOrder": 0,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 162,
+      "keepRatio": true,
+      "layer": "",
+      "name": "Tree",
+      "persistentUuid": "47c20732-d21f-412c-9bc1-55712d3e8b82",
+      "width": 288,
+      "x": 756,
+      "y": 596,
+      "zOrder": 0,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 29,
+      "keepRatio": true,
+      "layer": "",
+      "name": "CatSprite",
+      "persistentUuid": "810e6903-7728-4083-b5ba-36b9c29fd98c",
+      "width": 36,
+      "x": 858,
+      "y": 584,
+      "zOrder": 98,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 30,
+      "keepRatio": true,
+      "layer": "",
+      "name": "Platform2",
+      "persistentUuid": "41ff8405-ea8f-40b2-8735-c4f3e977976d",
+      "width": 30,
+      "x": 902,
+      "y": 724,
+      "zOrder": 96,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 26,
+      "keepRatio": true,
+      "layer": "",
+      "name": "Platform2",
+      "persistentUuid": "4ce26932-9518-47ee-aebc-02660b59802a",
+      "width": 26,
+      "x": 929,
+      "y": 701,
+      "zOrder": 96,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 29,
+      "keepRatio": true,
+      "layer": "",
+      "name": "Platform2",
+      "persistentUuid": "5475a5ca-2edf-476f-82a5-636a9ea5032f",
+      "width": 29,
+      "x": 953,
+      "y": 675,
+      "zOrder": 96,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 24,
+      "keepRatio": true,
+      "layer": "",
+      "name": "Platform2",
+      "persistentUuid": "547a489b-aa33-4cef-88db-419969c441ee",
+      "width": 24,
+      "x": 911,
+      "y": 644,
+      "zOrder": 96,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 29,
+      "keepRatio": true,
+      "layer": "",
+      "name": "Platform2",
+      "persistentUuid": "1567041e-af4f-416f-ab80-f4ca0c0247ad",
+      "width": 29,
+      "x": 889,
+      "y": 638,
+      "zOrder": 96,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 30,
+      "keepRatio": true,
+      "layer": "",
+      "name": "Platform2",
+      "persistentUuid": "518afab3-af96-4d02-a4d7-a449f40ed6b0",
+      "width": 30,
+      "x": 864,
+      "y": 631,
+      "zOrder": 96,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 2,
+      "height": 37,
+      "keepRatio": true,
+      "layer": "",
+      "name": "Platform2",
+      "persistentUuid": "106f6511-44e3-49a5-8bc2-8d2e3f166eb8",
+      "width": 37,
+      "x": 842,
+      "y": 618,
+      "zOrder": 96,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 34,
+      "keepRatio": true,
+      "layer": "",
+      "name": "BoxesSprite",
+      "persistentUuid": "448dbfc1-e8d5-476d-a50c-546bc0413d5d",
+      "width": 34,
+      "x": 1120,
+      "y": 721,
+      "zOrder": 99,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 23,
+      "keepRatio": true,
+      "layer": "",
+      "name": "BoxesSprite",
+      "persistentUuid": "5869c71f-7597-4acd-aa91-b09051ea4c73",
+      "width": 23,
+      "x": 1134,
+      "y": 703,
+      "zOrder": 99,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 34,
+      "keepRatio": true,
+      "layer": "",
+      "name": "BoxesSprite",
+      "persistentUuid": "706cb350-b814-422f-962c-4aa947645ce1",
+      "width": 34,
+      "x": 1140,
+      "y": 720,
+      "zOrder": 99,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 23,
+      "keepRatio": true,
+      "layer": "",
+      "name": "BoxesSprite",
+      "persistentUuid": "198402d0-0fac-4571-a6a9-6d68d57be26f",
+      "width": 23,
+      "x": 1100,
+      "y": 729,
+      "zOrder": 99,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 1114,
+      "keepRatio": true,
+      "layer": "TRANSITION",
+      "locked": true,
+      "name": "TransitionOG",
+      "persistentUuid": "250fc95b-9e20-4260-9371-6d68ac09684c",
+      "sealed": true,
+      "width": 1980,
+      "x": -35,
+      "y": -11,
+      "zOrder": 100,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 57,
+      "keepRatio": true,
+      "layer": "",
+      "name": "Crayon",
+      "persistentUuid": "f95ac9d2-edfd-43d1-baca-f93982125888",
+      "width": 72,
+      "x": 1172,
+      "y": 650,
+      "zOrder": 101,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 57,
+      "keepRatio": true,
+      "layer": "",
+      "name": "Crayon",
+      "persistentUuid": "6e46ef1a-c7e1-4de5-9284-bfd7c40e87b7",
+      "width": 72,
+      "x": 1314,
+      "y": 709,
+      "zOrder": 101,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 57,
+      "keepRatio": true,
+      "layer": "",
+      "name": "Crayon",
+      "persistentUuid": "19768142-b236-4e59-a9e2-a9556043b10d",
+      "width": 72,
+      "x": 1646,
+      "y": 712,
+      "zOrder": 101,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 57,
+      "keepRatio": true,
+      "layer": "",
+      "name": "Crayon",
+      "persistentUuid": "a21491c7-0a12-4237-8758-9d869c92f275",
+      "width": 72,
+      "x": 1755,
+      "y": 416,
+      "zOrder": 101,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
     }
   ],
   "objects": [
-    {
-      "assetStoreId": "479c508ead309e45d684605c3539fd2b3a3a3a1ea8a277f102e8366873aad249",
-      "name": "LargeBuilding2",
-      "type": "Scene3D::Model3DObject",
-      "variables": [],
-      "effects": [],
-      "behaviors": [
-        {
-          "name": "A3I",
-          "type": "A3F::A3I",
-          "Capability3d": "Object3D",
-          "AxesHelper": false,
-          "Blend": "Keep model blend mode",
-          "Opacity": 255,
-          "CastShadow": true,
-          "ReceiveShadow": false
-        }
-      ],
-      "content": {
-        "centerLocation": "ModelOrigin",
-        "depth": 245,
-        "height": 245,
-        "keepAspectRatio": true,
-        "materialType": "StandardWithoutMetalness",
-        "modelResourceName": "Large Building A.glb",
-        "originLocation": "ModelOrigin",
-        "rotationX": 0,
-        "rotationY": 0,
-        "rotationZ": 90,
-        "width": 245,
-        "animations": []
-      }
-    },
-    {
-      "assetStoreId": "f9194ad48afb82325764044cec3b48a569dfd2c595031d18df3124d69fab4b03",
-      "name": "LargeBuilding1",
-      "type": "Scene3D::Model3DObject",
-      "variables": [],
-      "effects": [],
-      "behaviors": [
-        {
-          "name": "A3I",
-          "type": "A3F::A3I",
-          "Capability3d": "Object3D",
-          "AxesHelper": false,
-          "Blend": "Keep model blend mode",
-          "Opacity": 255,
-          "CastShadow": true,
-          "ReceiveShadow": false
-        }
-      ],
-      "content": {
-        "centerLocation": "ModelOrigin",
-        "depth": 202,
-        "height": 202,
-        "keepAspectRatio": true,
-        "materialType": "StandardWithoutMetalness",
-        "modelResourceName": "Large Building C.glb",
-        "originLocation": "ModelOrigin",
-        "rotationX": 0,
-        "rotationY": 0,
-        "rotationZ": 90,
-        "width": 202,
-        "animations": []
-      }
-    },
-    {
-      "assetStoreId": "eefff8c14597e13842401e59df63d6bccf5c3d0591fd11deb20aac947013cbed",
-      "name": "LowWideA",
-      "type": "Scene3D::Model3DObject",
-      "variables": [],
-      "effects": [],
-      "behaviors": [],
-      "content": {
-        "centerLocation": "ModelOrigin",
-        "depth": 138,
-        "height": 138,
-        "keepAspectRatio": true,
-        "materialType": "StandardWithoutMetalness",
-        "modelResourceName": "Low Wide A.glb",
-        "originLocation": "ModelOrigin",
-        "rotationX": 90,
-        "rotationY": 0,
-        "rotationZ": 0,
-        "width": 138,
-        "animations": []
-      }
-    },
     {
       "assetStoreId": "",
       "name": "Character",
@@ -3087,166 +3040,6 @@
       }
     },
     {
-      "assetStoreId": "efc4370ffaa9c58cdd169335fc9b8e59a18d87ecbd56c604d3c64763ee90a516",
-      "name": "HOUSEPROTAGONIST",
-      "type": "Scene3D::Model3DObject",
-      "variables": [],
-      "effects": [],
-      "behaviors": [
-        {
-          "name": "A3I",
-          "type": "A3F::A3I",
-          "Capability3d": "Object3D",
-          "AxesHelper": false,
-          "Blend": "Keep model blend mode",
-          "Opacity": 255,
-          "CastShadow": true,
-          "ReceiveShadow": false
-        }
-      ],
-      "content": {
-        "centerLocation": "ModelOrigin",
-        "depth": 164,
-        "height": 164,
-        "keepAspectRatio": true,
-        "materialType": "StandardWithoutMetalness",
-        "modelResourceName": "House 2.glb",
-        "originLocation": "ModelOrigin",
-        "rotationX": 0,
-        "rotationY": 0,
-        "rotationZ": 0,
-        "width": 164,
-        "animations": []
-      }
-    },
-    {
-      "assetStoreId": "5f718a498fe73a2df3e516188211cdd807467205f6e16708a4097fad7f0cc767",
-      "name": "BuildingBrown",
-      "type": "Scene3D::Model3DObject",
-      "variables": [],
-      "effects": [],
-      "behaviors": [
-        {
-          "name": "A3I",
-          "type": "A3F::A3I",
-          "Capability3d": "Object3D",
-          "AxesHelper": false,
-          "Blend": "Keep model blend mode",
-          "Opacity": 255,
-          "CastShadow": true,
-          "ReceiveShadow": false
-        }
-      ],
-      "content": {
-        "centerLocation": "ModelOrigin",
-        "depth": 169,
-        "height": 169,
-        "keepAspectRatio": true,
-        "materialType": "StandardWithoutMetalness",
-        "modelResourceName": "Building E Without Base.glb",
-        "originLocation": "ModelOrigin",
-        "rotationX": 0,
-        "rotationY": 0,
-        "rotationZ": 0,
-        "width": 169,
-        "animations": []
-      }
-    },
-    {
-      "assetStoreId": "ebe299f3b2e959bd1d9e1ed1cd69a86dd5826eebf527057d8ecb3e9dcd4e04a4",
-      "name": "BuildingGreenandBrown",
-      "type": "Scene3D::Model3DObject",
-      "variables": [],
-      "effects": [],
-      "behaviors": [
-        {
-          "name": "A3I",
-          "type": "A3F::A3I",
-          "Capability3d": "Object3D",
-          "AxesHelper": false,
-          "Blend": "Keep model blend mode",
-          "Opacity": 255,
-          "CastShadow": true,
-          "ReceiveShadow": false
-        }
-      ],
-      "content": {
-        "centerLocation": "ModelOrigin",
-        "depth": 169,
-        "height": 169,
-        "keepAspectRatio": true,
-        "materialType": "StandardWithoutMetalness",
-        "modelResourceName": "Building D Without Base.glb",
-        "originLocation": "ModelOrigin",
-        "rotationX": 0,
-        "rotationY": 0,
-        "rotationZ": 0,
-        "width": 169,
-        "animations": []
-      }
-    },
-    {
-      "assetStoreId": "548036e39fd23666e89da639c7f295bdcd9e3838f133f304b6f81b6d12ff50c1",
-      "name": "BuildingwithShop",
-      "type": "Scene3D::Model3DObject",
-      "variables": [],
-      "effects": [],
-      "behaviors": [
-        {
-          "name": "A3I",
-          "type": "A3F::A3I",
-          "Capability3d": "Object3D",
-          "AxesHelper": false,
-          "Blend": "Keep model blend mode",
-          "Opacity": 255,
-          "CastShadow": true,
-          "ReceiveShadow": false
-        }
-      ],
-      "content": {
-        "centerLocation": "ModelOrigin",
-        "depth": 229,
-        "height": 229,
-        "keepAspectRatio": true,
-        "materialType": "StandardWithoutMetalness",
-        "modelResourceName": "Building H.glb",
-        "originLocation": "ModelOrigin",
-        "rotationX": 0,
-        "rotationY": 0,
-        "rotationZ": 0,
-        "width": 229,
-        "animations": []
-      }
-    },
-    {
-      "assetStoreId": "2425a3f75c67c9d47832f957768b7d1504dd6ce71df9f67a52671ab5eab8b7ae",
-      "name": "BuildingShop",
-      "type": "Scene3D::Model3DObject",
-      "variables": [
-        {
-          "name": "Variable",
-          "type": "number",
-          "value": 0
-        }
-      ],
-      "effects": [],
-      "behaviors": [],
-      "content": {
-        "centerLocation": "ModelOrigin",
-        "depth": 150,
-        "height": 150,
-        "keepAspectRatio": true,
-        "materialType": "StandardWithoutMetalness",
-        "modelResourceName": "Building A.glb",
-        "originLocation": "ModelOrigin",
-        "rotationX": 0,
-        "rotationY": 90,
-        "rotationZ": 0,
-        "width": 150,
-        "animations": []
-      }
-    },
-    {
       "assetStoreId": "",
       "bold": false,
       "italic": false,
@@ -3467,1058 +3260,6 @@
     {
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
-      "name": "LOGO_GAME",
-      "type": "Sprite",
-      "updateIfNotVisible": false,
-      "variables": [],
-      "effects": [
-        {
-          "effectType": "DropShadow",
-          "name": "Effect",
-          "doubleParameters": {
-            "alpha": 1,
-            "blur": 0,
-            "distance": 10,
-            "padding": 0,
-            "quality": 20,
-            "rotation": 90
-          },
-          "stringParameters": {
-            "color": "0;0;0"
-          },
-          "booleanParameters": {
-            "shadowOnly": false
-          }
-        }
-      ],
-      "behaviors": [],
-      "animations": [
-        {
-          "name": "C:\\Users\\Angelo\\Desktop\\Game Logo\\1",
-          "useMultipleDirections": false,
-          "directions": [
-            {
-              "looping": true,
-              "metadata": "{\"pskl\":{}}",
-              "timeBetweenFrames": 0.08,
-              "sprites": [
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "C:\\Users\\Angelo\\Desktop\\Game Logo\\17",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 16,
-                        "y": 25
-                      },
-                      {
-                        "x": 232,
-                        "y": 25
-                      },
-                      {
-                        "x": 232,
-                        "y": 159
-                      },
-                      {
-                        "x": 16,
-                        "y": 159
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "C:\\Users\\Angelo\\Desktop\\Game Logo\\18",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 16,
-                        "y": 25
-                      },
-                      {
-                        "x": 232,
-                        "y": 25
-                      },
-                      {
-                        "x": 232,
-                        "y": 159
-                      },
-                      {
-                        "x": 16,
-                        "y": 159
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "C:\\Users\\Angelo\\Desktop\\Game Logo\\19",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 16,
-                        "y": 25
-                      },
-                      {
-                        "x": 232,
-                        "y": 25
-                      },
-                      {
-                        "x": 232,
-                        "y": 159
-                      },
-                      {
-                        "x": 16,
-                        "y": 159
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "C:\\Users\\Angelo\\Desktop\\Game Logo\\20",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 16,
-                        "y": 25
-                      },
-                      {
-                        "x": 232,
-                        "y": 25
-                      },
-                      {
-                        "x": 232,
-                        "y": 159
-                      },
-                      {
-                        "x": 16,
-                        "y": 159
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "C:\\Users\\Angelo\\Desktop\\Game Logo\\21",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 16,
-                        "y": 25
-                      },
-                      {
-                        "x": 232,
-                        "y": 25
-                      },
-                      {
-                        "x": 232,
-                        "y": 159
-                      },
-                      {
-                        "x": 16,
-                        "y": 159
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "C:\\Users\\Angelo\\Desktop\\Game Logo\\22",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 16,
-                        "y": 25
-                      },
-                      {
-                        "x": 232,
-                        "y": 25
-                      },
-                      {
-                        "x": 232,
-                        "y": 159
-                      },
-                      {
-                        "x": 16,
-                        "y": 159
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "C:\\Users\\Angelo\\Desktop\\Game Logo\\23",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 16,
-                        "y": 25
-                      },
-                      {
-                        "x": 232,
-                        "y": 25
-                      },
-                      {
-                        "x": 232,
-                        "y": 159
-                      },
-                      {
-                        "x": 16,
-                        "y": 159
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "C:\\Users\\Angelo\\Desktop\\Game Logo\\24",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 16,
-                        "y": 25
-                      },
-                      {
-                        "x": 232,
-                        "y": 25
-                      },
-                      {
-                        "x": 232,
-                        "y": 159
-                      },
-                      {
-                        "x": 16,
-                        "y": 159
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "C:\\Users\\Angelo\\Desktop\\Game Logo\\2.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 16,
-                        "y": 25
-                      },
-                      {
-                        "x": 232,
-                        "y": 25
-                      },
-                      {
-                        "x": 232,
-                        "y": 159
-                      },
-                      {
-                        "x": 16,
-                        "y": 159
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "C:\\Users\\Angelo\\Desktop\\Game Logo\\3.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 16,
-                        "y": 25
-                      },
-                      {
-                        "x": 232,
-                        "y": 25
-                      },
-                      {
-                        "x": 232,
-                        "y": 159
-                      },
-                      {
-                        "x": 16,
-                        "y": 159
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "C:\\Users\\Angelo\\Desktop\\Game Logo\\4.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 16,
-                        "y": 25
-                      },
-                      {
-                        "x": 232,
-                        "y": 25
-                      },
-                      {
-                        "x": 232,
-                        "y": 159
-                      },
-                      {
-                        "x": 16,
-                        "y": 159
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "C:\\Users\\Angelo\\Desktop\\Game Logo\\5.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 16,
-                        "y": 25
-                      },
-                      {
-                        "x": 232,
-                        "y": 25
-                      },
-                      {
-                        "x": 232,
-                        "y": 159
-                      },
-                      {
-                        "x": 16,
-                        "y": 159
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "C:\\Users\\Angelo\\Desktop\\Game Logo\\6.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 16,
-                        "y": 25
-                      },
-                      {
-                        "x": 232,
-                        "y": 25
-                      },
-                      {
-                        "x": 232,
-                        "y": 159
-                      },
-                      {
-                        "x": 16,
-                        "y": 159
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "C:\\Users\\Angelo\\Desktop\\Game Logo\\7.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 16,
-                        "y": 25
-                      },
-                      {
-                        "x": 232,
-                        "y": 25
-                      },
-                      {
-                        "x": 232,
-                        "y": 159
-                      },
-                      {
-                        "x": 16,
-                        "y": 159
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "C:\\Users\\Angelo\\Desktop\\Game Logo\\8.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 16,
-                        "y": 25
-                      },
-                      {
-                        "x": 232,
-                        "y": 25
-                      },
-                      {
-                        "x": 232,
-                        "y": 159
-                      },
-                      {
-                        "x": 16,
-                        "y": 159
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "C:\\Users\\Angelo\\Desktop\\Game Logo\\9.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 16,
-                        "y": 25
-                      },
-                      {
-                        "x": 232,
-                        "y": 25
-                      },
-                      {
-                        "x": 232,
-                        "y": 159
-                      },
-                      {
-                        "x": 16,
-                        "y": 159
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "C:\\Users\\Angelo\\Desktop\\Game Logo\\10.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 16,
-                        "y": 25
-                      },
-                      {
-                        "x": 232,
-                        "y": 25
-                      },
-                      {
-                        "x": 232,
-                        "y": 159
-                      },
-                      {
-                        "x": 16,
-                        "y": 159
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "C:\\Users\\Angelo\\Desktop\\Game Logo\\11.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 16,
-                        "y": 25
-                      },
-                      {
-                        "x": 232,
-                        "y": 25
-                      },
-                      {
-                        "x": 232,
-                        "y": 159
-                      },
-                      {
-                        "x": 16,
-                        "y": 159
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "C:\\Users\\Angelo\\Desktop\\Game Logo\\12.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 16,
-                        "y": 25
-                      },
-                      {
-                        "x": 232,
-                        "y": 25
-                      },
-                      {
-                        "x": 232,
-                        "y": 159
-                      },
-                      {
-                        "x": 16,
-                        "y": 159
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "C:\\Users\\Angelo\\Desktop\\Game Logo\\13.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 16,
-                        "y": 25
-                      },
-                      {
-                        "x": 232,
-                        "y": 25
-                      },
-                      {
-                        "x": 232,
-                        "y": 159
-                      },
-                      {
-                        "x": 16,
-                        "y": 159
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "C:\\Users\\Angelo\\Desktop\\Game Logo\\25",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 16,
-                        "y": 25
-                      },
-                      {
-                        "x": 232,
-                        "y": 25
-                      },
-                      {
-                        "x": 232,
-                        "y": 159
-                      },
-                      {
-                        "x": 16,
-                        "y": 159
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "C:\\Users\\Angelo\\Desktop\\Game Logo\\26",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 16,
-                        "y": 25
-                      },
-                      {
-                        "x": 232,
-                        "y": 25
-                      },
-                      {
-                        "x": 232,
-                        "y": 159
-                      },
-                      {
-                        "x": 16,
-                        "y": 159
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "C:\\Users\\Angelo\\Desktop\\Game Logo\\27",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 16,
-                        "y": 25
-                      },
-                      {
-                        "x": 232,
-                        "y": 25
-                      },
-                      {
-                        "x": 232,
-                        "y": 159
-                      },
-                      {
-                        "x": 16,
-                        "y": 159
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "C:\\Users\\Angelo\\Desktop\\Game Logo\\28",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 16,
-                        "y": 25
-                      },
-                      {
-                        "x": 232,
-                        "y": 25
-                      },
-                      {
-                        "x": 232,
-                        "y": 159
-                      },
-                      {
-                        "x": 16,
-                        "y": 159
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "C:\\Users\\Angelo\\Desktop\\Game Logo\\29",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 16,
-                        "y": 25
-                      },
-                      {
-                        "x": 232,
-                        "y": 25
-                      },
-                      {
-                        "x": 232,
-                        "y": 159
-                      },
-                      {
-                        "x": 16,
-                        "y": 159
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "C:\\Users\\Angelo\\Desktop\\Game Logo\\30",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 16,
-                        "y": 25
-                      },
-                      {
-                        "x": 232,
-                        "y": 25
-                      },
-                      {
-                        "x": 232,
-                        "y": 159
-                      },
-                      {
-                        "x": 16,
-                        "y": 159
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "C:\\Users\\Angelo\\Desktop\\Game Logo\\31",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 16,
-                        "y": 25
-                      },
-                      {
-                        "x": 232,
-                        "y": 25
-                      },
-                      {
-                        "x": 232,
-                        "y": 159
-                      },
-                      {
-                        "x": 16,
-                        "y": 159
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "C:\\Users\\Angelo\\Desktop\\Game Logo\\1.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 16,
-                        "y": 25
-                      },
-                      {
-                        "x": 232,
-                        "y": 25
-                      },
-                      {
-                        "x": 232,
-                        "y": 159
-                      },
-                      {
-                        "x": 16,
-                        "y": 159
-                      }
-                    ]
-                  ]
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "adaptCollisionMaskAutomatically": true,
-      "assetStoreId": "",
       "name": "Obstacle",
       "type": "Sprite",
       "updateIfNotVisible": false,
@@ -4698,67 +3439,6 @@
         "align": "left",
         "wordWrap": true
       }
-    },
-    {
-      "adaptCollisionMaskAutomatically": true,
-      "assetStoreId": "",
-      "name": "TreeOpacityChecker",
-      "type": "Sprite",
-      "updateIfNotVisible": false,
-      "variables": [],
-      "effects": [],
-      "behaviors": [],
-      "animations": [
-        {
-          "name": "NewSprite",
-          "useMultipleDirections": false,
-          "directions": [
-            {
-              "looping": false,
-              "metadata": "{\"pskl\":{}}",
-              "timeBetweenFrames": 0.08,
-              "sprites": [
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "NewSprite19",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 0,
-                        "y": 0
-                      },
-                      {
-                        "x": 64,
-                        "y": 0
-                      },
-                      {
-                        "x": 64,
-                        "y": 64
-                      },
-                      {
-                        "x": 0,
-                        "y": 64
-                      }
-                    ]
-                  ]
-                }
-              ]
-            }
-          ]
-        }
-      ]
     },
     {
       "adaptCollisionMaskAutomatically": true,
@@ -7839,138 +6519,6 @@
       }
     },
     {
-      "assetStoreId": "7f9aef3d9add76eaa93f47f418b82bf30ce05894731e350f60055a875bd79a1f",
-      "name": "Trashcan",
-      "type": "Scene3D::Model3DObject",
-      "variables": [],
-      "effects": [],
-      "behaviors": [
-        {
-          "name": "A3I",
-          "type": "A3F::A3I",
-          "Capability3d": "Object3D",
-          "AxesHelper": false,
-          "Blend": "Keep model blend mode",
-          "Opacity": 255,
-          "CastShadow": true,
-          "ReceiveShadow": false
-        }
-      ],
-      "content": {
-        "centerLocation": "ModelOrigin",
-        "depth": 71,
-        "height": 71,
-        "keepAspectRatio": true,
-        "materialType": "StandardWithoutMetalness",
-        "modelResourceName": "Trashcan.glb",
-        "originLocation": "ModelOrigin",
-        "rotationX": 0,
-        "rotationY": 0,
-        "rotationZ": 0,
-        "width": 71,
-        "animations": []
-      }
-    },
-    {
-      "assetStoreId": "07f94d1f117b5fd867947d4ec2149833771fdd1c7e842ea733d2861300c8e873",
-      "name": "BoxA",
-      "type": "Scene3D::Model3DObject",
-      "variables": [],
-      "effects": [],
-      "behaviors": [
-        {
-          "name": "A3I",
-          "type": "A3F::A3I",
-          "Capability3d": "Object3D",
-          "AxesHelper": false,
-          "Blend": "Keep model blend mode",
-          "Opacity": 255,
-          "CastShadow": true,
-          "ReceiveShadow": false
-        }
-      ],
-      "content": {
-        "centerLocation": "ModelOrigin",
-        "depth": 15,
-        "height": 15,
-        "keepAspectRatio": true,
-        "materialType": "StandardWithoutMetalness",
-        "modelResourceName": "Box A.glb",
-        "originLocation": "ModelOrigin",
-        "rotationX": 0,
-        "rotationY": 0,
-        "rotationZ": 0,
-        "width": 15,
-        "animations": []
-      }
-    },
-    {
-      "assetStoreId": "4020ce05f09d2e8a04e27500638fe088f57c3750aa3263738fe8e1f1e989daa5",
-      "name": "Building7",
-      "type": "Scene3D::Model3DObject",
-      "variables": [],
-      "effects": [],
-      "behaviors": [
-        {
-          "name": "A3I",
-          "type": "A3F::A3I",
-          "Capability3d": "Object3D",
-          "AxesHelper": false,
-          "Blend": "Keep model blend mode",
-          "Opacity": 255,
-          "CastShadow": true,
-          "ReceiveShadow": false
-        }
-      ],
-      "content": {
-        "centerLocation": "ModelOrigin",
-        "depth": 247,
-        "height": 247,
-        "keepAspectRatio": true,
-        "materialType": "StandardWithoutMetalness",
-        "modelResourceName": "Building 4.glb",
-        "originLocation": "ModelOrigin",
-        "rotationX": 0,
-        "rotationY": 0,
-        "rotationZ": 0,
-        "width": 247,
-        "animations": []
-      }
-    },
-    {
-      "assetStoreId": "6639236f5f56990d0f366b14d42404e50d8faf899830c0fa8babba66bcdf8bf5",
-      "name": "TrainStationBuilding",
-      "type": "Scene3D::Model3DObject",
-      "variables": [],
-      "effects": [],
-      "behaviors": [
-        {
-          "name": "A3I",
-          "type": "A3F::A3I",
-          "Capability3d": "Object3D",
-          "AxesHelper": false,
-          "Blend": "Keep model blend mode",
-          "Opacity": 255,
-          "CastShadow": true,
-          "ReceiveShadow": false
-        }
-      ],
-      "content": {
-        "centerLocation": "ModelOrigin",
-        "depth": 169,
-        "height": 169,
-        "keepAspectRatio": true,
-        "materialType": "StandardWithoutMetalness",
-        "modelResourceName": "Building C Without Base.glb",
-        "originLocation": "ModelOrigin",
-        "rotationX": 0,
-        "rotationY": 0,
-        "rotationZ": 0,
-        "width": 169,
-        "animations": []
-      }
-    },
-    {
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
       "name": "TrainStationInteract",
@@ -8270,39 +6818,6 @@
         "rotationY": 0,
         "rotationZ": 0,
         "width": 120,
-        "animations": []
-      }
-    },
-    {
-      "assetStoreId": "",
-      "name": "SCHOOL",
-      "type": "Scene3D::Model3DObject",
-      "variables": [],
-      "effects": [],
-      "behaviors": [
-        {
-          "name": "A3I",
-          "type": "A3F::A3I",
-          "Capability3d": "Object3D",
-          "AxesHelper": false,
-          "Blend": "Keep model blend mode",
-          "Opacity": 255,
-          "CastShadow": true,
-          "ReceiveShadow": false
-        }
-      ],
-      "content": {
-        "centerLocation": "ModelOrigin",
-        "depth": 100,
-        "height": 100,
-        "keepAspectRatio": true,
-        "materialType": "StandardWithoutMetalness",
-        "modelResourceName": "low poly school.glb",
-        "originLocation": "ModelOrigin",
-        "rotationX": 0,
-        "rotationY": -90,
-        "rotationZ": 0,
-        "width": 100,
         "animations": []
       }
     },
@@ -9755,7 +8270,7 @@
           "directions": [
             {
               "looping": true,
-              "timeBetweenFrames": 0.07,
+              "timeBetweenFrames": 0.15,
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
@@ -10014,6 +8529,866 @@
           ]
         }
       ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "HouseSprite",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "timeBetweenFrames": 0.2,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "house1.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 5,
+                        "y": 8
+                      },
+                      {
+                        "x": 182,
+                        "y": 8
+                      },
+                      {
+                        "x": 182,
+                        "y": 150
+                      },
+                      {
+                        "x": 5,
+                        "y": 150
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "house2.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 5,
+                        "y": 8
+                      },
+                      {
+                        "x": 182,
+                        "y": 8
+                      },
+                      {
+                        "x": 182,
+                        "y": 150
+                      },
+                      {
+                        "x": 5,
+                        "y": 150
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "house3.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 5,
+                        "y": 8
+                      },
+                      {
+                        "x": 182,
+                        "y": 8
+                      },
+                      {
+                        "x": 182,
+                        "y": 150
+                      },
+                      {
+                        "x": 5,
+                        "y": 150
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "TallBuildign",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "timeBetweenFrames": 0.2,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "building4.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 528,
+                        "y": 82
+                      },
+                      {
+                        "x": 1231,
+                        "y": 82
+                      },
+                      {
+                        "x": 1231,
+                        "y": 1080
+                      },
+                      {
+                        "x": 528,
+                        "y": 1080
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "building5.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 528,
+                        "y": 82
+                      },
+                      {
+                        "x": 1231,
+                        "y": 82
+                      },
+                      {
+                        "x": 1231,
+                        "y": 1080
+                      },
+                      {
+                        "x": 528,
+                        "y": 1080
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "building6.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 528,
+                        "y": 82
+                      },
+                      {
+                        "x": 1231,
+                        "y": 82
+                      },
+                      {
+                        "x": 1231,
+                        "y": 1080
+                      },
+                      {
+                        "x": 528,
+                        "y": 1080
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "ShortBuilding",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "timeBetweenFrames": 0.2,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "short1.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 26,
+                        "y": 4
+                      },
+                      {
+                        "x": 171,
+                        "y": 4
+                      },
+                      {
+                        "x": 171,
+                        "y": 158
+                      },
+                      {
+                        "x": 26,
+                        "y": 158
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "short2.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 26,
+                        "y": 4
+                      },
+                      {
+                        "x": 171,
+                        "y": 4
+                      },
+                      {
+                        "x": 171,
+                        "y": 158
+                      },
+                      {
+                        "x": 26,
+                        "y": 158
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "short3.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 26,
+                        "y": 4
+                      },
+                      {
+                        "x": 171,
+                        "y": 4
+                      },
+                      {
+                        "x": 171,
+                        "y": 158
+                      },
+                      {
+                        "x": 26,
+                        "y": 158
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "Tree",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.3,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "TREE4.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 524,
+                        "y": 2
+                      },
+                      {
+                        "x": 1692,
+                        "y": 2
+                      },
+                      {
+                        "x": 1692,
+                        "y": 1080
+                      },
+                      {
+                        "x": 524,
+                        "y": 1080
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "TREE5.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 524,
+                        "y": 2
+                      },
+                      {
+                        "x": 1692,
+                        "y": 2
+                      },
+                      {
+                        "x": 1692,
+                        "y": 1080
+                      },
+                      {
+                        "x": 524,
+                        "y": 1080
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "TREE6.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 524,
+                        "y": 2
+                      },
+                      {
+                        "x": 1692,
+                        "y": 2
+                      },
+                      {
+                        "x": 1692,
+                        "y": 1080
+                      },
+                      {
+                        "x": 524,
+                        "y": 1080
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "CatSprite",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "catto.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 26,
+                        "y": 56
+                      },
+                      {
+                        "x": 167,
+                        "y": 56
+                      },
+                      {
+                        "x": 167,
+                        "y": 147
+                      },
+                      {
+                        "x": 26,
+                        "y": 147
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "BoxesSprite",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "NewSprite",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "NewSprite25",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 1,
+                        "y": 2
+                      },
+                      {
+                        "x": 66,
+                        "y": 2
+                      },
+                      {
+                        "x": 66,
+                        "y": 63
+                      },
+                      {
+                        "x": 1,
+                        "y": 63
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "NewSprite26",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 1,
+                        "y": 2
+                      },
+                      {
+                        "x": 66,
+                        "y": 2
+                      },
+                      {
+                        "x": 66,
+                        "y": 63
+                      },
+                      {
+                        "x": 1,
+                        "y": 63
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "NewSprite27",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 1,
+                        "y": 2
+                      },
+                      {
+                        "x": 66,
+                        "y": 2
+                      },
+                      {
+                        "x": 66,
+                        "y": 63
+                      },
+                      {
+                        "x": 1,
+                        "y": 63
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "NewSprite28",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 1,
+                        "y": 2
+                      },
+                      {
+                        "x": 66,
+                        "y": 2
+                      },
+                      {
+                        "x": 66,
+                        "y": 63
+                      },
+                      {
+                        "x": 1,
+                        "y": 63
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "Crayon",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [
+        {
+          "name": "CharacterGameFeel",
+          "type": "CharacterGameFeel::CharacterGameFeel",
+          "AIdleCheck": true,
+          "BIdleScale": 0.3,
+          "CIdleScalingSpeed": 500,
+          "DPlatformerCharacterBehavior": "PlatformerObject",
+          "ETweenBehavior": "Tween",
+          "FJumpCheck": false,
+          "GJumpScale": 0.2,
+          "HJumpScalingSpeed": 200,
+          "IallCheck": false,
+          "JFallScale": 0.3,
+          "KFallScalingSpeed": 200,
+          "LandCheck": false,
+          "MLandScale": 0.6,
+          "NLandScalingSpeed": 100
+        },
+        {
+          "acceleration": 0,
+          "canGoDownFromJumpthru": true,
+          "canGrabPlatforms": false,
+          "canGrabWithoutMoving": true,
+          "deceleration": 0,
+          "gravity": 0,
+          "ignoreDefaultControls": false,
+          "jumpSpeed": 0,
+          "jumpSustainTime": 0,
+          "ladderClimbingSpeed": 150,
+          "maxFallingSpeed": 0,
+          "maxSpeed": 0,
+          "name": "PlatformerObject",
+          "slopeMaxAngle": 0,
+          "type": "PlatformBehavior::PlatformerObjectBehavior",
+          "useLegacyTrajectory": false,
+          "xGrabTolerance": 0,
+          "yGrabOffset": 0
+        },
+        {
+          "name": "Tween",
+          "type": "Tween::TweenBehavior"
+        }
+      ],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "crayon.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 78,
+                        "y": 58
+                      },
+                      {
+                        "x": 123,
+                        "y": 58
+                      },
+                      {
+                        "x": 123,
+                        "y": 90
+                      },
+                      {
+                        "x": 78,
+                        "y": 90
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ],
   "objectsFolderStructure": {
@@ -10034,12 +9409,6 @@
       {
         "folderName": "Obstacles",
         "children": [
-          {
-            "objectName": "Trashcan"
-          },
-          {
-            "objectName": "BoxA"
-          },
           {
             "objectName": "Stool"
           }
@@ -10068,44 +9437,6 @@
           },
           {
             "objectName": "PathTilesShort"
-          }
-        ]
-      },
-      {
-        "folderName": "Buildings",
-        "children": [
-          {
-            "objectName": "SCHOOL"
-          },
-          {
-            "objectName": "Building7"
-          },
-          {
-            "objectName": "TrainStationBuilding"
-          },
-          {
-            "objectName": "BuildingShop"
-          },
-          {
-            "objectName": "BuildingwithShop"
-          },
-          {
-            "objectName": "BuildingGreenandBrown"
-          },
-          {
-            "objectName": "BuildingBrown"
-          },
-          {
-            "objectName": "HOUSEPROTAGONIST"
-          },
-          {
-            "objectName": "LowWideA"
-          },
-          {
-            "objectName": "LargeBuilding1"
-          },
-          {
-            "objectName": "LargeBuilding2"
           }
         ]
       },
@@ -10140,16 +9471,16 @@
         "objectName": "BusStop"
       },
       {
-        "objectName": "LOGO_GAME"
-      },
-      {
-        "objectName": "TreeOpacityChecker"
-      },
-      {
         "objectName": "Cat2"
       },
       {
         "objectName": "Cat3d"
+      },
+      {
+        "objectName": "CatSprite"
+      },
+      {
+        "objectName": "BoxesSprite"
       },
       {
         "objectName": "FirstNPCDialogue_Text"
@@ -10195,6 +9526,21 @@
       },
       {
         "objectName": "Character_Sprite"
+      },
+      {
+        "objectName": "Tree"
+      },
+      {
+        "objectName": "HouseSprite"
+      },
+      {
+        "objectName": "TallBuildign"
+      },
+      {
+        "objectName": "ShortBuilding"
+      },
+      {
+        "objectName": "Crayon"
       }
     ]
   },
@@ -11296,6 +10642,19 @@
                 "",
                 ""
               ]
+            },
+            {
+              "type": {
+                "value": "PlaySoundCanal"
+              },
+              "parameters": [
+                "",
+                "e8e669cf8c921f2f3beca9768b09ed48ce1d60259e67a37d5c1a31f042ae4352_18 - i beat the final dungeon and all i got was this lousy triangle.aac",
+                "",
+                "",
+                "50",
+                "1"
+              ]
             }
           ]
         }
@@ -11632,7 +10991,6 @@
           "comment": "TRAIN"
         },
         {
-          "disabled": true,
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
@@ -11651,7 +11009,6 @@
           "actions": [],
           "events": [
             {
-              "disabled": true,
               "type": "BuiltinCommonInstructions::Standard",
               "conditions": [
                 {
@@ -11724,7 +11081,6 @@
           "actions": [],
           "events": [
             {
-              "disabled": true,
               "type": "BuiltinCommonInstructions::Standard",
               "conditions": [
                 {
@@ -11812,7 +11168,6 @@
           ]
         },
         {
-          "disabled": true,
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
@@ -11832,6 +11187,73 @@
         }
       ],
       "parameters": []
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "CollisionNP"
+          },
+          "parameters": [
+            "Character_Sprite",
+            "CatSprite",
+            "",
+            "",
+            ""
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "Delete"
+          },
+          "parameters": [
+            "CatSprite",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "SetBooleanVariable"
+          },
+          "parameters": [
+            "CatDelete",
+            "True",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::ForEach",
+      "object": "Crayon",
+      "conditions": [
+        {
+          "type": {
+            "value": "CollisionNP"
+          },
+          "parameters": [
+            "Character_Sprite",
+            "Crayon",
+            "",
+            "",
+            ""
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "Delete"
+          },
+          "parameters": [
+            "Crayon",
+            ""
+          ]
+        }
+      ]
     }
   ],
   "layers": [
@@ -12018,6 +11440,39 @@
           "booleanParameters": {}
         }
       ]
+    },
+    {
+      "ambientLightColorB": 200,
+      "ambientLightColorG": 200,
+      "ambientLightColorR": 200,
+      "camera3DFarPlaneDistance": 10000,
+      "camera3DFieldOfView": 45,
+      "camera3DNearPlaneDistance": 3,
+      "cameraType": "",
+      "followBaseLayerCamera": false,
+      "isLightingLayer": false,
+      "isLocked": false,
+      "name": "TRANSITION",
+      "renderingType": "",
+      "visibility": false,
+      "cameras": [],
+      "effects": [
+        {
+          "effectType": "Scene3D::HemisphereLight",
+          "name": "3D Light",
+          "doubleParameters": {
+            "elevation": 45,
+            "intensity": 1,
+            "rotation": 0
+          },
+          "stringParameters": {
+            "groundColor": "64;64;64",
+            "skyColor": "255;255;255",
+            "top": "Y-"
+          },
+          "booleanParameters": {}
+        }
+      ]
     }
   ],
   "behaviorsSharedData": [
@@ -12032,6 +11487,10 @@
     {
       "name": "AutoTyping",
       "type": "AutoTyping::AutoTyping"
+    },
+    {
+      "name": "CharacterGameFeel",
+      "type": "CharacterGameFeel::CharacterGameFeel"
     },
     {
       "name": "Effect",
