@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.8081094648116198,
+    "zoomFactor": 1.7911979166667562,
     "windowMask": false
   },
   "objectsGroups": [],
@@ -94,18 +94,17 @@
     },
     {
       "angle": 0,
-      "customSize": false,
-      "height": 0,
+      "customSize": true,
+      "depth": 114,
+      "height": 185,
       "keepRatio": true,
       "layer": "",
-      "locked": true,
       "name": "BuildingBrown",
       "persistentUuid": "acffb8e9-5a12-4d4d-8fdc-729eb398169c",
-      "sealed": true,
-      "width": 0,
-      "x": 318,
-      "y": 752,
-      "z": -140,
+      "width": 158,
+      "x": 391,
+      "y": 750,
+      "z": -70,
       "zOrder": 15,
       "numberProperties": [],
       "stringProperties": [],
@@ -999,7 +998,7 @@
       "width": 19,
       "x": 115,
       "y": 645,
-      "z": 211,
+      "z": 230,
       "zOrder": 48,
       "numberProperties": [],
       "stringProperties": [],
@@ -1118,8 +1117,10 @@
       "height": 63,
       "keepRatio": true,
       "layer": "",
+      "locked": true,
       "name": "BusStop",
       "persistentUuid": "38684064-74cb-4f25-ab01-06cc6fb5fe05",
+      "sealed": true,
       "width": 93,
       "x": 1208,
       "y": 744,
@@ -1310,12 +1311,12 @@
       "angle": 0,
       "customSize": true,
       "depth": 1,
-      "height": 8,
+      "height": 39,
       "keepRatio": true,
       "layer": "",
       "name": "Obstacle",
       "persistentUuid": "a11cb6cd-e7c6-4216-abe9-2b59273433ad",
-      "width": 98,
+      "width": 85,
       "x": 1165,
       "y": 688,
       "zOrder": 59,
@@ -1386,8 +1387,10 @@
       "height": 309,
       "keepRatio": true,
       "layer": "",
+      "locked": true,
       "name": "TrainStationBuilding",
       "persistentUuid": "345b7b1f-025a-4b6a-b15c-cfd210bdc05b",
+      "sealed": true,
       "width": 137,
       "x": 1791,
       "y": 752,
@@ -1408,8 +1411,8 @@
       "opacity": 0,
       "persistentUuid": "e3b5d9b4-efcf-4327-8682-ce3f8f3c0c68",
       "width": 66,
-      "x": 1713,
-      "y": 684,
+      "x": 1714,
+      "y": 689,
       "zOrder": 62,
       "numberProperties": [],
       "stringProperties": [],
@@ -1422,11 +1425,10 @@
       "keepRatio": true,
       "layer": "",
       "name": "E",
-      "opacity": 0,
       "persistentUuid": "c9e21855-763c-433c-b9d3-1e8495047b17",
       "width": 0,
-      "x": 1739,
-      "y": 656,
+      "x": 1740,
+      "y": 661,
       "zOrder": 63,
       "numberProperties": [],
       "stringProperties": [],
@@ -1673,8 +1675,10 @@
       "height": 309,
       "keepRatio": true,
       "layer": "",
+      "locked": true,
       "name": "TrainStationBuilding",
       "persistentUuid": "882226c5-13e8-4a41-adc6-4c26dc861b23",
+      "sealed": true,
       "width": 137,
       "x": 2075,
       "y": 758,
@@ -1710,7 +1714,7 @@
       "layer": "",
       "name": "PlayersPlatform",
       "persistentUuid": "2d16a6e3-c77b-4258-a4ff-fd84a36abf82",
-      "width": 232,
+      "width": 1308,
       "x": 2003,
       "y": 743,
       "z": -25,
@@ -1740,14 +1744,14 @@
       "angle": 0,
       "customSize": true,
       "depth": 1,
-      "height": 166,
+      "height": 180,
       "keepRatio": true,
       "layer": "",
       "name": "Obstacle",
       "persistentUuid": "7b9923ff-dc46-4ff0-bc35-69c7cd655b78",
       "width": 13,
-      "x": 1845,
-      "y": 296,
+      "x": 1843,
+      "y": 282,
       "zOrder": 65,
       "numberProperties": [],
       "stringProperties": [],
@@ -1769,6 +1773,1107 @@
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 150,
+      "height": 3,
+      "keepRatio": true,
+      "layer": "",
+      "name": "Main_Road",
+      "persistentUuid": "c3dcd9e7-e202-49f5-bc9c-45bb4343da03",
+      "width": 126,
+      "x": 2192,
+      "y": 744,
+      "z": 100,
+      "zOrder": 10,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 150,
+      "height": 3,
+      "keepRatio": true,
+      "layer": "",
+      "name": "Main_Road",
+      "persistentUuid": "b8a3fc28-8c48-402f-b25a-965c897e610c",
+      "width": 126,
+      "x": 2318,
+      "y": 744,
+      "z": 100,
+      "zOrder": 10,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 150,
+      "height": 3,
+      "keepRatio": true,
+      "layer": "",
+      "name": "Main_Road",
+      "persistentUuid": "87f353a6-be73-42e8-947e-dbaf050dd538",
+      "width": 126,
+      "x": 2444,
+      "y": 744,
+      "z": 100,
+      "zOrder": 10,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 150,
+      "height": 3,
+      "keepRatio": true,
+      "layer": "",
+      "name": "Main_Road",
+      "persistentUuid": "9dbd4f6b-1c15-4aea-a57d-feff034ebcf7",
+      "width": 126,
+      "x": 2570,
+      "y": 744,
+      "z": 100,
+      "zOrder": 10,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "Fence",
+      "persistentUuid": "af9be706-d439-4fe3-91d4-17d3b31002e7",
+      "width": 0,
+      "x": 2203,
+      "y": 744,
+      "z": -19,
+      "zOrder": 71,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "Fence",
+      "persistentUuid": "49c486be-ffcc-462e-b796-707e5a818c65",
+      "width": 0,
+      "x": 2308,
+      "y": 744,
+      "z": -19,
+      "zOrder": 71,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "Fence",
+      "persistentUuid": "914a0d57-5936-48a5-beb9-a1373efc8619",
+      "width": 0,
+      "x": 2413,
+      "y": 744,
+      "z": -19,
+      "zOrder": 71,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "Fence",
+      "persistentUuid": "ead6f8dc-44ca-4c5b-b64a-189dc359456a",
+      "width": 0,
+      "x": 2518,
+      "y": 744,
+      "z": -19,
+      "zOrder": 71,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "Fence",
+      "persistentUuid": "d9ca1c2d-86ba-47b1-b38d-7aa3bd7edc6b",
+      "width": 0,
+      "x": 2623,
+      "y": 744,
+      "z": -19,
+      "zOrder": 71,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "locked": true,
+      "name": "FenceGate",
+      "persistentUuid": "4922a35c-c2e9-49ad-953a-58509e3ba2c7",
+      "sealed": true,
+      "width": 0,
+      "x": 2728,
+      "y": 744,
+      "z": -19,
+      "zOrder": 72,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 90,
+      "height": 524,
+      "keepRatio": true,
+      "layer": "",
+      "locked": true,
+      "name": "SCHOOL",
+      "persistentUuid": "09351dc5-496c-45e8-b66a-97aec2cdc5c4",
+      "sealed": true,
+      "width": 959,
+      "x": 2729,
+      "y": 717,
+      "z": -470,
+      "zOrder": 73,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 84,
+      "height": 4,
+      "keepRatio": true,
+      "layer": "",
+      "locked": true,
+      "name": "PathTilesShort",
+      "persistentUuid": "c7e30e6e-dbfd-4774-90b9-fc248833ff57",
+      "sealed": true,
+      "width": 47,
+      "x": 2705,
+      "y": 746,
+      "z": -60,
+      "zOrder": 74,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 84,
+      "height": 4,
+      "keepRatio": true,
+      "layer": "",
+      "locked": true,
+      "name": "PathTilesShort",
+      "persistentUuid": "313714b5-b2bd-48df-b31b-46ed3d34461d",
+      "sealed": true,
+      "width": 47,
+      "x": 2753,
+      "y": 746,
+      "z": -60,
+      "zOrder": 74,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 84,
+      "height": 4,
+      "keepRatio": true,
+      "layer": "",
+      "locked": true,
+      "name": "PathTilesShort",
+      "persistentUuid": "59f2169b-a8a5-482d-9e30-b24051571712",
+      "sealed": true,
+      "width": 47,
+      "x": 2753,
+      "y": 746,
+      "z": -140,
+      "zOrder": 74,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 84,
+      "height": 4,
+      "keepRatio": true,
+      "layer": "",
+      "locked": true,
+      "name": "PathTilesShort",
+      "persistentUuid": "59e08551-2558-4d9b-b6b3-912b4af426be",
+      "sealed": true,
+      "width": 47,
+      "x": 2705,
+      "y": 746,
+      "z": -140,
+      "zOrder": 74,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 84,
+      "height": 4,
+      "keepRatio": true,
+      "layer": "",
+      "locked": true,
+      "name": "PathTilesShort",
+      "persistentUuid": "bce7de0b-9865-47a8-896a-e5381a2ff66e",
+      "sealed": true,
+      "width": 47,
+      "x": 2753,
+      "y": 746,
+      "z": -220,
+      "zOrder": 74,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 84,
+      "height": 4,
+      "keepRatio": true,
+      "layer": "",
+      "locked": true,
+      "name": "PathTilesShort",
+      "persistentUuid": "931cb229-6a4e-45fc-b978-36052ede161f",
+      "sealed": true,
+      "width": 47,
+      "x": 2705,
+      "y": 746,
+      "z": -220,
+      "zOrder": 74,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 84,
+      "height": 4,
+      "keepRatio": true,
+      "layer": "",
+      "locked": true,
+      "name": "PathTilesShort",
+      "persistentUuid": "22bb4577-9b6b-407c-adf7-5a902ce537fc",
+      "sealed": true,
+      "width": 47,
+      "x": 2753,
+      "y": 746,
+      "z": -300,
+      "zOrder": 74,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 84,
+      "height": 4,
+      "keepRatio": true,
+      "layer": "",
+      "locked": true,
+      "name": "PathTilesShort",
+      "persistentUuid": "f7af02d7-fd7d-4db8-a8db-6b0ae8c9ba51",
+      "sealed": true,
+      "width": 47,
+      "x": 2705,
+      "y": 746,
+      "z": -300,
+      "zOrder": 74,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 84,
+      "height": 4,
+      "keepRatio": true,
+      "layer": "",
+      "name": "PathTilesShort",
+      "persistentUuid": "d0568155-73ed-40f3-9f7b-628a3dbe8c64",
+      "width": 47,
+      "x": 2753,
+      "y": 745,
+      "z": -380,
+      "zOrder": 74,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 84,
+      "height": 4,
+      "keepRatio": true,
+      "layer": "",
+      "name": "PathTilesShort",
+      "persistentUuid": "430ca626-b4f2-447f-b0ba-9755531730e1",
+      "width": 47,
+      "x": 2705,
+      "y": 745,
+      "z": -380,
+      "zOrder": 74,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "Fence",
+      "persistentUuid": "c220c8a4-2188-4d68-bca5-7272b600ced8",
+      "width": 0,
+      "x": 2834,
+      "y": 744,
+      "z": -19,
+      "zOrder": 71,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "Fence",
+      "persistentUuid": "f5c59ac0-0f95-4098-a38e-72aeb15c7559",
+      "width": 0,
+      "x": 2939,
+      "y": 744,
+      "z": -19,
+      "zOrder": 71,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "Fence",
+      "persistentUuid": "7ff1432e-f133-4633-8637-9567b32e5c35",
+      "width": 0,
+      "x": 3044,
+      "y": 744,
+      "z": -19,
+      "zOrder": 71,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "Fence",
+      "persistentUuid": "4c523c73-38d2-4f70-8859-d6988fcfef78",
+      "width": 0,
+      "x": 3149,
+      "y": 744,
+      "z": -19,
+      "zOrder": 71,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "Fence",
+      "persistentUuid": "55dda0a8-5ce8-41e3-a790-a58844207301",
+      "width": 0,
+      "x": 3254,
+      "y": 744,
+      "z": -19,
+      "zOrder": 71,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 133,
+      "keepRatio": true,
+      "layer": "",
+      "name": "Obstacle",
+      "persistentUuid": "c3788f28-ceb9-4e72-9e37-0a6be3c45bb3",
+      "width": 8,
+      "x": 2774,
+      "y": 611,
+      "zOrder": 75,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 75,
+      "keepRatio": true,
+      "layer": "",
+      "name": "SchoolInteract",
+      "opacity": 0,
+      "persistentUuid": "2f517249-b9b1-4578-9055-255edebaab1b",
+      "width": 98,
+      "x": 2678,
+      "y": 678,
+      "zOrder": 77,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "E",
+      "persistentUuid": "9f213834-7289-40bc-aea1-55043d83462d",
+      "width": 0,
+      "x": 2719,
+      "y": 649,
+      "zOrder": 63,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "E_Interaction",
+      "opacity": 0,
+      "persistentUuid": "69ad8bb8-e9a0-4488-96d5-b3f7d1b7d8d7",
+      "width": 0,
+      "x": 1715,
+      "y": 690,
+      "zOrder": 78,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 64,
+      "keepRatio": true,
+      "layer": "",
+      "name": "E_Interaction",
+      "opacity": 0,
+      "persistentUuid": "aa7e982e-0ad6-4c9b-ab0b-730b8bd01135",
+      "width": 94,
+      "x": 2680,
+      "y": 680,
+      "zOrder": 79,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 7,
+      "height": 60,
+      "keepRatio": true,
+      "layer": "",
+      "name": "DoorwayFront",
+      "persistentUuid": "58da5dff-42bc-4bcf-949b-a886b8e2b679",
+      "width": 29,
+      "x": 4140,
+      "y": 742,
+      "z": -60,
+      "zOrder": 80,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 3,
+      "height": 213,
+      "keepRatio": true,
+      "layer": "",
+      "locked": true,
+      "name": "WallSchool",
+      "persistentUuid": "51e7c69f-9d10-4cef-b9f4-4793706ddaa8",
+      "sealed": true,
+      "width": 1565,
+      "x": 3535,
+      "y": 745,
+      "z": -70,
+      "zOrder": 81,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 3,
+      "height": 213,
+      "layer": "",
+      "locked": true,
+      "name": "WallSchool",
+      "persistentUuid": "aa151718-27ff-4f80-9ded-dea3fe6c433b",
+      "rotationY": 90,
+      "sealed": true,
+      "width": 556,
+      "x": 3549,
+      "y": 744,
+      "z": 400,
+      "zOrder": 81,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 3,
+      "height": 500,
+      "layer": "",
+      "locked": true,
+      "name": "WallSchool",
+      "persistentUuid": "31f3acd1-6c98-4cb8-9efb-d5c73b86b809",
+      "rotationX": -90,
+      "sealed": true,
+      "width": 1570,
+      "x": 3535,
+      "y": 610,
+      "z": -70,
+      "zOrder": 81,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 21,
+      "keepRatio": true,
+      "layer": "",
+      "name": "E_Interaction",
+      "persistentUuid": "904f6a10-ba9a-4ff1-95f5-97699ca28988",
+      "width": 21,
+      "x": 3887,
+      "y": 691,
+      "zOrder": 82,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 3,
+      "height": 500,
+      "layer": "",
+      "locked": true,
+      "name": "WallSchool",
+      "persistentUuid": "145fd536-29d8-42c0-85b4-5a3cd973671f",
+      "rotationX": 90,
+      "sealed": true,
+      "width": 1578,
+      "x": 3531,
+      "y": 743,
+      "z": 300,
+      "zOrder": 81,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "E_Interaction",
+      "persistentUuid": "202e2e2d-086e-476e-8483-56c04e12f57f",
+      "width": 0,
+      "x": 2154,
+      "y": 673,
+      "zOrder": 83,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 64,
+      "keepRatio": true,
+      "layer": "",
+      "name": "Obstacle",
+      "persistentUuid": "9bd37892-bc60-4799-8705-2d79b3fcd210",
+      "width": 1725,
+      "x": 3553,
+      "y": 743,
+      "zOrder": 84,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 280,
+      "keepRatio": true,
+      "layer": "",
+      "name": "Obstacle",
+      "persistentUuid": "65e489e1-1aaa-4a81-a786-47a4418e1de9",
+      "width": 64,
+      "x": 3489,
+      "y": 475,
+      "zOrder": 85,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 7,
+      "height": 60,
+      "keepRatio": true,
+      "layer": "",
+      "name": "DoorwayFront",
+      "persistentUuid": "2fa44299-4529-4d96-bdd5-cd0fbb6dd765",
+      "width": 29,
+      "x": 4054,
+      "y": 742,
+      "z": -60,
+      "zOrder": 80,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 7,
+      "height": 60,
+      "keepRatio": true,
+      "layer": "",
+      "name": "DoorwayFront",
+      "persistentUuid": "af295f25-fdf3-451e-816c-0fec32497f79",
+      "width": 29,
+      "x": 3968,
+      "y": 742,
+      "z": -60,
+      "zOrder": 80,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 7,
+      "height": 60,
+      "keepRatio": true,
+      "layer": "",
+      "name": "DoorwayFront",
+      "persistentUuid": "c19ef05e-47ea-4db2-8108-4cc4a36da63a",
+      "width": 29,
+      "x": 3871,
+      "y": 742,
+      "z": -60,
+      "zOrder": 80,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 228,
+      "keepRatio": true,
+      "layer": "",
+      "locked": true,
+      "name": "InsideSchoolChecker",
+      "opacity": 0,
+      "persistentUuid": "b33a5c79-4866-4b26-b5bc-ee9664d5f161",
+      "sealed": true,
+      "width": 1582,
+      "x": 3545,
+      "y": 532,
+      "zOrder": 86,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 59,
+      "height": 56,
+      "keepRatio": true,
+      "layer": "",
+      "name": "Lockers",
+      "persistentUuid": "1a52b018-8695-4c6f-b96a-19a7b18a1d52",
+      "rotationY": 90,
+      "width": 20,
+      "x": 4230,
+      "y": 744,
+      "z": -70,
+      "zOrder": 87,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 4,
+      "height": 57,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallWindow",
+      "persistentUuid": "d05541a6-34a9-4b4c-9884-dc69a05e6a82",
+      "width": 44,
+      "x": 3912,
+      "y": 740,
+      "z": -68,
+      "zOrder": 88,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 61,
+      "height": 57,
+      "keepRatio": true,
+      "layer": "",
+      "name": "Lockers",
+      "persistentUuid": "dc0d81ee-0a41-4ef7-ab19-15b1ce4c9d07",
+      "rotationY": 90,
+      "width": 21,
+      "x": 3807,
+      "y": 743,
+      "z": -70,
+      "zOrder": 87,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 61,
+      "height": 57,
+      "keepRatio": true,
+      "layer": "",
+      "name": "Lockers",
+      "persistentUuid": "a20ada2a-6396-4ee0-8b60-42426410ddfd",
+      "rotationY": 90,
+      "width": 21,
+      "x": 3743,
+      "y": 743,
+      "z": -70,
+      "zOrder": 87,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 61,
+      "height": 57,
+      "keepRatio": true,
+      "layer": "",
+      "name": "Lockers",
+      "persistentUuid": "b555acc6-3066-451d-acd5-0b30e49b0d47",
+      "rotationY": 90,
+      "width": 21,
+      "x": 3679,
+      "y": 743,
+      "z": -70,
+      "zOrder": 87,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 61,
+      "height": 57,
+      "keepRatio": true,
+      "layer": "",
+      "name": "Lockers",
+      "persistentUuid": "86a2133b-8c87-470e-970b-2512bb22f553",
+      "rotationY": 90,
+      "width": 21,
+      "x": 3615,
+      "y": 743,
+      "z": -70,
+      "zOrder": 87,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 4,
+      "height": 57,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallWindow",
+      "persistentUuid": "c1a5fbdf-bd56-4c9d-ac21-6be2006b5418",
+      "width": 44,
+      "x": 4004,
+      "y": 739,
+      "z": -68,
+      "zOrder": 88,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 4,
+      "height": 57,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallWindow",
+      "persistentUuid": "0400e186-c8c6-4b66-8f70-b243c7604f10",
+      "width": 44,
+      "x": 4089,
+      "y": 736,
+      "z": -68,
+      "zOrder": 88,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "LampSquareCeiling",
+      "persistentUuid": "73cc6512-3f84-43ef-91a4-31aabe86a5e0",
+      "width": 0,
+      "x": 3580,
+      "y": 645,
+      "zOrder": 89,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "locked": true,
+      "name": "LampSquareCeiling",
+      "persistentUuid": "977ce06e-f0f6-44a8-9944-dfaeffe0ca1c",
+      "sealed": true,
+      "width": 0,
+      "x": 4220,
+      "y": 647,
+      "zOrder": 89,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "locked": true,
+      "name": "CeilingFan",
+      "persistentUuid": "6c74161c-4a62-436a-b4f1-996c7514bb5f",
+      "sealed": true,
+      "width": 0,
+      "x": 4008,
+      "y": 611,
+      "zOrder": 90,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 7,
+      "height": 38,
+      "keepRatio": true,
+      "layer": "",
+      "name": "MaleCasualHoodie",
+      "persistentUuid": "a6f068a2-8d87-45f2-83e2-add0c467dc45",
+      "width": 32,
+      "x": 4187,
+      "y": 743,
+      "z": -65,
+      "zOrder": 91,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 7,
+      "height": 95,
+      "keepRatio": true,
+      "layer": "",
+      "locked": true,
+      "name": "WallDoorway",
+      "persistentUuid": "ff4d6fdc-e14e-4c72-99e7-fc5195f82f99",
+      "rotationY": -90,
+      "sealed": true,
+      "width": 74,
+      "x": 4282,
+      "y": 753,
+      "zOrder": 94,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 8,
+      "height": 213,
+      "keepRatio": true,
+      "layer": "",
+      "name": "WallSchool",
+      "persistentUuid": "340f9ad0-5692-4047-80a9-63a5fda0c561",
+      "rotationY": -90,
+      "width": 102,
+      "x": 4282,
+      "y": 760,
+      "z": -90,
+      "zOrder": 95,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 8,
+      "height": 213,
+      "keepRatio": true,
+      "layer": "",
+      "locked": true,
+      "name": "WallSchool",
+      "persistentUuid": "9017e90e-bc93-4593-969c-50379b1d8bfc",
+      "rotationY": -90,
+      "sealed": true,
+      "width": 227,
+      "x": 4281,
+      "y": 756,
+      "z": 75,
+      "zOrder": 95,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 8,
+      "height": 213,
+      "keepRatio": true,
+      "layer": "",
+      "locked": true,
+      "name": "WallSchool",
+      "persistentUuid": "95100186-646a-4076-8785-fe0e10152fee",
+      "rotationY": -90,
+      "sealed": true,
+      "width": 102,
+      "x": 4281,
+      "y": 660,
+      "zOrder": 95,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
     }
   ],
   "objects": [
@@ -1778,7 +2883,18 @@
       "type": "Scene3D::Model3DObject",
       "variables": [],
       "effects": [],
-      "behaviors": [],
+      "behaviors": [
+        {
+          "name": "A3I",
+          "type": "A3F::A3I",
+          "Capability3d": "Object3D",
+          "AxesHelper": false,
+          "Blend": "Keep model blend mode",
+          "Opacity": 255,
+          "CastShadow": true,
+          "ReceiveShadow": false
+        }
+      ],
       "content": {
         "centerLocation": "ModelOrigin",
         "depth": 245,
@@ -1800,7 +2916,18 @@
       "type": "Scene3D::Model3DObject",
       "variables": [],
       "effects": [],
-      "behaviors": [],
+      "behaviors": [
+        {
+          "name": "A3I",
+          "type": "A3F::A3I",
+          "Capability3d": "Object3D",
+          "AxesHelper": false,
+          "Blend": "Keep model blend mode",
+          "Opacity": 255,
+          "CastShadow": true,
+          "ReceiveShadow": false
+        }
+      ],
       "content": {
         "centerLocation": "ModelOrigin",
         "depth": 202,
@@ -2281,7 +3408,18 @@
       "type": "Scene3D::Model3DObject",
       "variables": [],
       "effects": [],
-      "behaviors": [],
+      "behaviors": [
+        {
+          "name": "A3I",
+          "type": "A3F::A3I",
+          "Capability3d": "Object3D",
+          "AxesHelper": false,
+          "Blend": "Keep model blend mode",
+          "Opacity": 255,
+          "CastShadow": true,
+          "ReceiveShadow": false
+        }
+      ],
       "content": {
         "centerLocation": "ModelOrigin",
         "depth": 169,
@@ -2336,7 +3474,18 @@
       "type": "Scene3D::Model3DObject",
       "variables": [],
       "effects": [],
-      "behaviors": [],
+      "behaviors": [
+        {
+          "name": "A3I",
+          "type": "A3F::A3I",
+          "Capability3d": "Object3D",
+          "AxesHelper": false,
+          "Blend": "Keep model blend mode",
+          "Opacity": 255,
+          "CastShadow": true,
+          "ReceiveShadow": false
+        }
+      ],
       "content": {
         "centerLocation": "ModelOrigin",
         "depth": 229,
@@ -7333,7 +8482,22 @@
       "assetStoreId": "",
       "name": "FirstNPCDialogue_Text",
       "type": "BitmapText::BitmapTextObject",
-      "variables": [],
+      "variables": [
+        {
+          "name": "FirstDialogueNPC",
+          "type": "array",
+          "children": [
+            {
+              "type": "string",
+              "value": "Help! my cat is stuck on a tree!..."
+            },
+            {
+              "type": "string",
+              "value": "Please find a way to help me cat! :("
+            }
+          ]
+        }
+      ],
       "effects": [],
       "behaviors": [
         {
@@ -7516,7 +8680,18 @@
       "type": "Scene3D::Model3DObject",
       "variables": [],
       "effects": [],
-      "behaviors": [],
+      "behaviors": [
+        {
+          "name": "A3I",
+          "type": "A3F::A3I",
+          "Capability3d": "Object3D",
+          "AxesHelper": false,
+          "Blend": "Keep model blend mode",
+          "Opacity": 255,
+          "CastShadow": true,
+          "ReceiveShadow": false
+        }
+      ],
       "content": {
         "centerLocation": "ModelOrigin",
         "depth": 247,
@@ -7538,7 +8713,18 @@
       "type": "Scene3D::Model3DObject",
       "variables": [],
       "effects": [],
-      "behaviors": [],
+      "behaviors": [
+        {
+          "name": "A3I",
+          "type": "A3F::A3I",
+          "Capability3d": "Object3D",
+          "AxesHelper": false,
+          "Blend": "Keep model blend mode",
+          "Opacity": 255,
+          "CastShadow": true,
+          "ReceiveShadow": false
+        }
+      ],
       "content": {
         "centerLocation": "ModelOrigin",
         "depth": 169,
@@ -7812,6 +8998,475 @@
         "bottomFaceResourceRepeat": false,
         "materialType": "Basic"
       }
+    },
+    {
+      "assetStoreId": "2efae0238886e67ba616febd41c432b40c4a219956b929942e6672d8545c1a05",
+      "name": "Fence",
+      "type": "Scene3D::Model3DObject",
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "content": {
+        "centerLocation": "ModelOrigin",
+        "depth": 120,
+        "height": 120,
+        "keepAspectRatio": true,
+        "materialType": "StandardWithoutMetalness",
+        "modelResourceName": "Fence.glb",
+        "originLocation": "ModelOrigin",
+        "rotationX": 0,
+        "rotationY": 0,
+        "rotationZ": 0,
+        "width": 120,
+        "animations": []
+      }
+    },
+    {
+      "assetStoreId": "d27462fd54641508954eda336864a5728e809fda1f63c7d9df5bdfd4d0d78eb8",
+      "name": "FenceGate",
+      "type": "Scene3D::Model3DObject",
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "content": {
+        "centerLocation": "ModelOrigin",
+        "depth": 120,
+        "height": 120,
+        "keepAspectRatio": true,
+        "materialType": "StandardWithoutMetalness",
+        "modelResourceName": "Fence Gate.glb",
+        "originLocation": "ModelOrigin",
+        "rotationX": 0,
+        "rotationY": 0,
+        "rotationZ": 0,
+        "width": 120,
+        "animations": []
+      }
+    },
+    {
+      "assetStoreId": "",
+      "name": "SCHOOL",
+      "type": "Scene3D::Model3DObject",
+      "variables": [],
+      "effects": [],
+      "behaviors": [
+        {
+          "name": "A3I",
+          "type": "A3F::A3I",
+          "Capability3d": "Object3D",
+          "AxesHelper": false,
+          "Blend": "Keep model blend mode",
+          "Opacity": 255,
+          "CastShadow": true,
+          "ReceiveShadow": false
+        }
+      ],
+      "content": {
+        "centerLocation": "ModelOrigin",
+        "depth": 100,
+        "height": 100,
+        "keepAspectRatio": true,
+        "materialType": "StandardWithoutMetalness",
+        "modelResourceName": "low poly school.glb",
+        "originLocation": "ModelOrigin",
+        "rotationX": 0,
+        "rotationY": -90,
+        "rotationZ": 0,
+        "width": 100,
+        "animations": []
+      }
+    },
+    {
+      "assetStoreId": "d9c44ca3642c60bb1090d09c65d825204c788f9cb0245cf2b6e7b8699da0d2c6",
+      "name": "PathTilesShort",
+      "type": "Scene3D::Model3DObject",
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "content": {
+        "centerLocation": "ModelOrigin",
+        "depth": 24,
+        "height": 24,
+        "keepAspectRatio": true,
+        "materialType": "StandardWithoutMetalness",
+        "modelResourceName": "Path Tiles Short.glb",
+        "originLocation": "ModelOrigin",
+        "rotationX": 0,
+        "rotationY": 0,
+        "rotationZ": 0,
+        "width": 24,
+        "animations": []
+      }
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "SchoolInteract",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "NewSprite",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "NewSprite22",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 64,
+                        "y": 0
+                      },
+                      {
+                        "x": 64,
+                        "y": 64
+                      },
+                      {
+                        "x": 0,
+                        "y": 64
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "E_Interaction",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "NewSprite",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "NewSprite23",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 64,
+                        "y": 0
+                      },
+                      {
+                        "x": 64,
+                        "y": 64
+                      },
+                      {
+                        "x": 0,
+                        "y": 64
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "assetStoreId": "704b1ca4e6f677467f2edf334fa8ffa9216b8880a45e1dc902190f9e730843c2",
+      "name": "DoorwayFront",
+      "type": "Scene3D::Model3DObject",
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "content": {
+        "centerLocation": "ModelOrigin",
+        "depth": 167,
+        "height": 167,
+        "keepAspectRatio": true,
+        "materialType": "StandardWithoutMetalness",
+        "modelResourceName": "Doorway Front.glb",
+        "originLocation": "ModelOrigin",
+        "rotationX": 0,
+        "rotationY": 0,
+        "rotationZ": 0,
+        "width": 167,
+        "animations": []
+      }
+    },
+    {
+      "assetStoreId": "53b5d409b0b73d4b07572354b14feffd96e29b877b5f40739faa6c42965f050e",
+      "name": "WallSchool",
+      "type": "Scene3D::Model3DObject",
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "content": {
+        "centerLocation": "ModelOrigin",
+        "depth": 213,
+        "height": 213,
+        "keepAspectRatio": true,
+        "materialType": "StandardWithoutMetalness",
+        "modelResourceName": "Wall.glb",
+        "originLocation": "ModelOrigin",
+        "rotationX": 0,
+        "rotationY": 0,
+        "rotationZ": 0,
+        "width": 213,
+        "animations": []
+      }
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "InsideSchoolChecker",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "NewSprite",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "NewSprite24",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 64,
+                        "y": 0
+                      },
+                      {
+                        "x": 64,
+                        "y": 64
+                      },
+                      {
+                        "x": 0,
+                        "y": 64
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "assetStoreId": "",
+      "name": "Lockers",
+      "type": "Scene3D::Model3DObject",
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "content": {
+        "centerLocation": "ModelOrigin",
+        "depth": 100,
+        "height": 100,
+        "keepAspectRatio": true,
+        "materialType": "StandardWithoutMetalness",
+        "modelResourceName": "lockers.glb",
+        "originLocation": "ModelOrigin",
+        "rotationX": 90,
+        "rotationY": 90,
+        "rotationZ": 90,
+        "width": 100,
+        "animations": []
+      }
+    },
+    {
+      "assetStoreId": "c1e3de89c029d3c402af164ebd12df9b92f0dea4fce236a65388f7416ec099cc",
+      "name": "WallWindow",
+      "type": "Scene3D::Model3DObject",
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "content": {
+        "centerLocation": "ModelOrigin",
+        "depth": 213,
+        "height": 213,
+        "keepAspectRatio": true,
+        "materialType": "StandardWithoutMetalness",
+        "modelResourceName": "Wall Window.glb",
+        "originLocation": "ModelOrigin",
+        "rotationX": 0,
+        "rotationY": 0,
+        "rotationZ": 0,
+        "width": 213,
+        "animations": []
+      }
+    },
+    {
+      "assetStoreId": "1683ee323a545216d9a1afc280e797ec1fe4e846db8d5e1cca5d1ebf7d73fecf",
+      "name": "LampSquareCeiling",
+      "type": "Scene3D::Model3DObject",
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "content": {
+        "centerLocation": "ModelOrigin",
+        "depth": 38,
+        "height": 38,
+        "keepAspectRatio": true,
+        "materialType": "StandardWithoutMetalness",
+        "modelResourceName": "Lamp Square Ceiling.glb",
+        "originLocation": "ModelOrigin",
+        "rotationX": 0,
+        "rotationY": 0,
+        "rotationZ": 0,
+        "width": 38,
+        "animations": []
+      }
+    },
+    {
+      "assetStoreId": "a0db4317537864c1faf700c915a0400de1622421debec9bcfea983a8267c511b",
+      "name": "CeilingFan",
+      "type": "Scene3D::Model3DObject",
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "content": {
+        "centerLocation": "ModelOrigin",
+        "depth": 87,
+        "height": 87,
+        "keepAspectRatio": true,
+        "materialType": "StandardWithoutMetalness",
+        "modelResourceName": "Ceiling Fan.glb",
+        "originLocation": "ModelOrigin",
+        "rotationX": 0,
+        "rotationY": 0,
+        "rotationZ": 0,
+        "width": 87,
+        "animations": []
+      }
+    },
+    {
+      "assetStoreId": "7d426858a8ae8cffff217817aeacee364e3ab902e1fd1f8fd6501f1ee7764a1e",
+      "name": "MaleCasualHoodie",
+      "type": "Scene3D::Model3DObject",
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "content": {
+        "centerLocation": "ModelOrigin",
+        "depth": 144,
+        "height": 144,
+        "keepAspectRatio": true,
+        "materialType": "StandardWithoutMetalness",
+        "modelResourceName": "Male Casual Hoodie.glb",
+        "originLocation": "ModelOrigin",
+        "rotationX": 0,
+        "rotationY": 0,
+        "rotationZ": 0,
+        "width": 144,
+        "animations": [
+          {
+            "loop": true,
+            "name": "Interact",
+            "source": "Interact"
+          },
+          {
+            "loop": false,
+            "name": "IdleNeutral",
+            "source": "Idle_Neutral"
+          }
+        ]
+      }
+    },
+    {
+      "assetStoreId": "d4d6150b56485afbec10292c6fd08999f8db3d455a7d5c1569e5e57857dc7825",
+      "name": "WallDoorway",
+      "type": "Scene3D::Model3DObject",
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "content": {
+        "centerLocation": "ModelOrigin",
+        "depth": 213,
+        "height": 213,
+        "keepAspectRatio": true,
+        "materialType": "StandardWithoutMetalness",
+        "modelResourceName": "Wall Doorway.glb",
+        "originLocation": "ModelOrigin",
+        "rotationX": 0,
+        "rotationY": 0,
+        "rotationZ": 0,
+        "width": 213,
+        "animations": []
+      }
     }
   ],
   "objectsFolderStructure": {
@@ -7824,6 +9479,12 @@
         "objectName": "TrainStationInteract"
       },
       {
+        "objectName": "SchoolInteract"
+      },
+      {
+        "objectName": "Obstacle"
+      },
+      {
         "folderName": "Obstacles",
         "children": [
           {
@@ -7831,9 +9492,6 @@
           },
           {
             "objectName": "BoxA"
-          },
-          {
-            "objectName": "Obstacle"
           },
           {
             "objectName": "Stool"
@@ -7915,8 +9573,37 @@
         ]
       },
       {
+        "folderName": "Background Objects",
+        "children": [
+          {
+            "objectName": "Sign"
+          },
+          {
+            "objectName": "RailwayTrackStraight"
+          },
+          {
+            "objectName": "BlockDirt"
+          },
+          {
+            "objectName": "Tunnel"
+          },
+          {
+            "objectName": "Fence"
+          },
+          {
+            "objectName": "FenceGate"
+          },
+          {
+            "objectName": "PathTilesShort"
+          }
+        ]
+      },
+      {
         "folderName": "Buildings",
         "children": [
+          {
+            "objectName": "SCHOOL"
+          },
           {
             "objectName": "Building7"
           },
@@ -8007,23 +9694,127 @@
         "objectName": "FemaleNPC"
       },
       {
-        "objectName": "Sign"
-      },
-      {
-        "objectName": "RailwayTrackStraight"
-      },
-      {
-        "objectName": "BlockDirt"
-      },
-      {
-        "objectName": "Tunnel"
-      },
-      {
         "objectName": "Tunnel_Hole"
+      },
+      {
+        "objectName": "E_Interaction"
+      },
+      {
+        "objectName": "DoorwayFront"
+      },
+      {
+        "objectName": "WallSchool"
+      },
+      {
+        "objectName": "InsideSchoolChecker"
+      },
+      {
+        "objectName": "Lockers"
+      },
+      {
+        "objectName": "WallWindow"
+      },
+      {
+        "objectName": "LampSquareCeiling"
+      },
+      {
+        "objectName": "CeilingFan"
+      },
+      {
+        "objectName": "MaleCasualHoodie"
+      },
+      {
+        "objectName": "WallDoorway"
       }
     ]
   },
   "events": [
+    {
+      "colorB": 228,
+      "colorG": 176,
+      "colorR": 74,
+      "creationTime": 0,
+      "name": "FLIP",
+      "source": "",
+      "type": "BuiltinCommonInstructions::Group",
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "BooleanVariable"
+              },
+              "parameters": [
+                "Flip",
+                "=",
+                ""
+              ]
+            }
+          ],
+          "actions": [],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "KeyReleased"
+                  },
+                  "parameters": [
+                    "",
+                    "r"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Scene"
+                  },
+                  "parameters": [
+                    "",
+                    "\"Dream\"",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetBooleanVariable"
+                  },
+                  "parameters": [
+                    "Flip",
+                    "True",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetNumberVariable"
+                  },
+                  "parameters": [
+                    "Character_Position_Y",
+                    "=",
+                    "Character.Y()"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetNumberVariable"
+                  },
+                  "parameters": [
+                    "Character_Position_X",
+                    "=",
+                    "Character.X()"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "parameters": []
+    },
     {
       "colorB": 228,
       "colorG": 176,
@@ -8116,6 +9907,7 @@
       "colorG": 176,
       "colorR": 74,
       "creationTime": 0,
+      "folded": true,
       "name": "Animation",
       "source": "",
       "type": "BuiltinCommonInstructions::Group",
@@ -8892,6 +10684,7 @@
       "colorG": 176,
       "colorR": 74,
       "creationTime": 0,
+      "folded": true,
       "name": "Text",
       "source": "",
       "type": "BuiltinCommonInstructions::Group",
@@ -8908,7 +10701,7 @@
                 "RunSpeed",
                 "Text",
                 "=",
-                "\"Runspeed: \" + ToString(round(Character.PlatformerObject::MaxSpeed()))"
+                "\"X: \" + ToString(round(Character_Position_X))"
               ]
             }
           ]
@@ -8925,7 +10718,7 @@
                 "Deceleration",
                 "Text",
                 "=",
-                "\"Deceleration: \" + ToString(round(Character.PlatformerObject::Deceleration()))"
+                "\"Y: \" + ToString(round(Character_Position_Y))"
               ]
             }
           ]
@@ -9071,7 +10864,7 @@
             "=",
             "Character.X() + 100",
             "=",
-            "Character.Y() - 400"
+            "Character.Y() - 600"
           ]
         }
       ]
@@ -9155,6 +10948,18 @@
           "actions": [
             {
               "type": {
+                "value": "MettreXY"
+              },
+              "parameters": [
+                "Character",
+                "=",
+                "Character_Position_X",
+                "=",
+                "Character_Position_Y"
+              ]
+            },
+            {
+              "type": {
                 "value": "FlashTransitionPainter::FlashTransitionPainter::PaintEffect"
               },
               "parameters": [
@@ -9195,7 +11000,21 @@
         },
         {
           "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [],
+          "conditions": [
+            {
+              "type": {
+                "inverted": true,
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "Character",
+                "InsideSchoolChecker",
+                "",
+                "",
+                ""
+              ]
+            }
+          ],
           "actions": [
             {
               "type": {
@@ -9309,7 +11128,7 @@
                 "value": "Wait"
               },
               "parameters": [
-                "1"
+                ".1"
               ]
             },
             {
@@ -9318,7 +11137,7 @@
               },
               "parameters": [
                 "",
-                "4.5",
+                "4.8",
                 "",
                 ""
               ]
@@ -9372,7 +11191,7 @@
                 "value": "Wait"
               },
               "parameters": [
-                "1"
+                ".1"
               ]
             },
             {
@@ -9435,216 +11254,282 @@
       "parameters": []
     },
     {
-      "type": "BuiltinCommonInstructions::Standard",
-      "conditions": [
-        {
-          "type": {
-            "value": "CollisionNP"
-          },
-          "parameters": [
-            "Camera",
-            "Tree2",
-            "",
-            "",
-            ""
-          ]
-        }
-      ],
-      "actions": [
-        {
-          "type": {
-            "value": "A3F::ChangeOpacity"
-          },
-          "parameters": [
-            "",
-            "Tree2",
-            "Object3D",
-            "\"=\"",
-            "100",
-            ""
-          ]
-        }
-      ]
-    },
-    {
-      "type": "BuiltinCommonInstructions::Standard",
-      "conditions": [
-        {
-          "type": {
-            "inverted": true,
-            "value": "CollisionNP"
-          },
-          "parameters": [
-            "Camera",
-            "Tree2",
-            "",
-            "",
-            ""
-          ]
-        }
-      ],
-      "actions": [
-        {
-          "type": {
-            "value": "A3F::ChangeOpacity"
-          },
-          "parameters": [
-            "",
-            "Tree2",
-            "Object3D",
-            "\"=\"",
-            "255",
-            ""
-          ]
-        }
-      ]
-    },
-    {
-      "type": "BuiltinCommonInstructions::Standard",
-      "conditions": [
-        {
-          "type": {
-            "value": "CollisionNP"
-          },
-          "parameters": [
-            "Character",
-            "Tutorial",
-            "",
-            "",
-            ""
-          ]
-        }
-      ],
-      "actions": [
-        {
-          "type": {
-            "value": "OpacityCapability::OpacityBehavior::SetValue"
-          },
-          "parameters": [
-            "TutorialText",
-            "Opacity",
-            "=",
-            "255"
-          ]
-        }
-      ]
-    },
-    {
-      "type": "BuiltinCommonInstructions::Standard",
-      "conditions": [
-        {
-          "type": {
-            "inverted": true,
-            "value": "CollisionNP"
-          },
-          "parameters": [
-            "Character",
-            "Tutorial",
-            "",
-            "",
-            ""
-          ]
-        }
-      ],
-      "actions": [
-        {
-          "type": {
-            "value": "OpacityCapability::OpacityBehavior::SetValue"
-          },
-          "parameters": [
-            "TutorialText",
-            "Opacity",
-            "=",
-            "0"
-          ]
-        }
-      ]
-    },
-    {
-      "type": "BuiltinCommonInstructions::Standard",
-      "conditions": [
-        {
-          "type": {
-            "value": "CollisionNP"
-          },
-          "parameters": [
-            "Character",
-            "FemaleNPC",
-            "",
-            "",
-            ""
-          ]
-        },
-        {
-          "type": {
-            "value": "AutoTyping::AutoTyping::IsFinished"
-          },
-          "parameters": [
-            "FirstNPCDialogue_Text",
-            "AutoTyping",
-            ""
-          ]
-        }
-      ],
-      "actions": [
-        {
-          "type": {
-            "value": "TextContainerCapability::TextContainerBehavior::SetValue"
-          },
-          "parameters": [
-            "FirstNPCDialogue_Text",
-            "Text",
-            "=",
-            "\"Help! my cat is stuck on a tree!\""
-          ]
-        },
-        {
-          "type": {
-            "value": "OpacityCapability::OpacityBehavior::SetValue"
-          },
-          "parameters": [
-            "FirstNPCDialogue_Text",
-            "Opacity",
-            "=",
-            "255"
-          ]
-        },
-        {
-          "type": {
-            "value": "AutoTyping::AutoTyping::SetInterval"
-          },
-          "parameters": [
-            "FirstNPCDialogue_Text",
-            "AutoTyping",
-            "=",
-            "0.09",
-            ""
-          ]
-        }
-      ],
+      "colorB": 228,
+      "colorG": 176,
+      "colorR": 74,
+      "creationTime": 0,
+      "name": "Camera Collision to change opacity of trees",
+      "source": "",
+      "type": "BuiltinCommonInstructions::Group",
       "events": [
         {
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
               "type": {
-                "value": "OpacityCapability::OpacityBehavior::Value"
+                "value": "CollisionNP"
               },
               "parameters": [
-                "TutorialText2",
-                "Opacity",
-                "=",
-                "0"
+                "Camera",
+                "Tree2",
+                "",
+                "",
+                ""
               ]
             }
           ],
           "actions": [
             {
               "type": {
-                "value": "Wait"
+                "value": "A3F::ChangeOpacity"
               },
               "parameters": [
-                "5"
+                "",
+                "Tree2",
+                "Object3D",
+                "\"=\"",
+                "100",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": true,
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "Camera",
+                "Tree2",
+                "",
+                "",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "A3F::ChangeOpacity"
+              },
+              "parameters": [
+                "",
+                "Tree2",
+                "Object3D",
+                "\"=\"",
+                "255",
+                ""
+              ]
+            }
+          ]
+        }
+      ],
+      "parameters": []
+    },
+    {
+      "colorB": 228,
+      "colorG": 176,
+      "colorR": 74,
+      "creationTime": 0,
+      "name": "Tutorial Part",
+      "source": "",
+      "type": "BuiltinCommonInstructions::Group",
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "Character",
+                "Tutorial",
+                "",
+                "",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "OpacityCapability::OpacityBehavior::SetValue"
+              },
+              "parameters": [
+                "TutorialText",
+                "Opacity",
+                "=",
+                "255"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": true,
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "Character",
+                "Tutorial",
+                "",
+                "",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "OpacityCapability::OpacityBehavior::SetValue"
+              },
+              "parameters": [
+                "TutorialText",
+                "Opacity",
+                "=",
+                "0"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "Character",
+                "FemaleNPC",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "AutoTyping::AutoTyping::IsFinished"
+              },
+              "parameters": [
+                "FirstNPCDialogue_Text",
+                "AutoTyping",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+              },
+              "parameters": [
+                "FirstNPCDialogue_Text",
+                "Text",
+                "=",
+                "\"Help! my cat is stuck on a tree!\""
+              ]
+            },
+            {
+              "type": {
+                "value": "OpacityCapability::OpacityBehavior::SetValue"
+              },
+              "parameters": [
+                "FirstNPCDialogue_Text",
+                "Opacity",
+                "=",
+                "255"
+              ]
+            },
+            {
+              "type": {
+                "value": "AutoTyping::AutoTyping::SetInterval"
+              },
+              "parameters": [
+                "FirstNPCDialogue_Text",
+                "AutoTyping",
+                "=",
+                "0.09",
+                ""
+              ]
+            }
+          ],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "OpacityCapability::OpacityBehavior::Value"
+                  },
+                  "parameters": [
+                    "TutorialText2",
+                    "Opacity",
+                    "=",
+                    "0"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Wait"
+                  },
+                  "parameters": [
+                    "5"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "OpacityCapability::OpacityBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "TutorialText2",
+                    "Opacity",
+                    "=",
+                    "255"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "disabled": true,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": true,
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "Character",
+                "FemaleNPC",
+                "",
+                "",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "OpacityCapability::OpacityBehavior::SetValue"
+              },
+              "parameters": [
+                "FirstNPCDialogue_Text",
+                "Opacity",
+                "=",
+                "0"
               ]
             },
             {
@@ -9655,197 +11540,397 @@
                 "TutorialText2",
                 "Opacity",
                 "=",
-                "255"
+                "0"
               ]
             }
           ]
         }
-      ]
+      ],
+      "parameters": []
     },
     {
-      "type": "BuiltinCommonInstructions::Standard",
-      "conditions": [
+      "colorB": 228,
+      "colorG": 176,
+      "colorR": 74,
+      "creationTime": 0,
+      "name": "Set opacity of obstacle, camera, spawn to 0",
+      "source": "",
+      "type": "BuiltinCommonInstructions::Group",
+      "events": [
         {
-          "type": {
-            "inverted": true,
-            "value": "CollisionNP"
-          },
-          "parameters": [
-            "Character",
-            "FemaleNPC",
-            "",
-            "",
-            ""
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [
+            {
+              "type": {
+                "value": "Cache"
+              },
+              "parameters": [
+                "Obstacle"
+              ]
+            },
+            {
+              "type": {
+                "value": "Cache"
+              },
+              "parameters": [
+                "Camera"
+              ]
+            },
+            {
+              "type": {
+                "value": "Cache"
+              },
+              "parameters": [
+                "Spawn"
+              ]
+            }
           ]
         }
       ],
-      "actions": [
-        {
-          "type": {
-            "value": "OpacityCapability::OpacityBehavior::SetValue"
-          },
-          "parameters": [
-            "FirstNPCDialogue_Text",
-            "Opacity",
-            "=",
-            "0"
-          ]
-        },
-        {
-          "type": {
-            "value": "OpacityCapability::OpacityBehavior::SetValue"
-          },
-          "parameters": [
-            "TutorialText2",
-            "Opacity",
-            "=",
-            "0"
-          ]
-        }
-      ]
+      "parameters": []
     },
     {
-      "type": "BuiltinCommonInstructions::Standard",
-      "conditions": [],
-      "actions": [
-        {
-          "type": {
-            "value": "OpacityCapability::OpacityBehavior::SetValue"
-          },
-          "parameters": [
-            "Obstacle",
-            "Opacity",
-            "=",
-            "0"
-          ]
-        },
-        {
-          "type": {
-            "value": "A3F::ChangeOpacity"
-          },
-          "parameters": [
-            "",
-            "Camera",
-            "Object3D",
-            "\"=\"",
-            "0",
-            ""
-          ]
-        },
-        {
-          "type": {
-            "value": "OpacityCapability::OpacityBehavior::SetValue"
-          },
-          "parameters": [
-            "Spawn",
-            "Opacity",
-            "=",
-            "0"
-          ]
-        }
-      ]
-    },
-    {
-      "type": "BuiltinCommonInstructions::Standard",
-      "conditions": [
-        {
-          "type": {
-            "value": "CollisionNP"
-          },
-          "parameters": [
-            "Character",
-            "TrainStationInteract",
-            "",
-            "",
-            ""
-          ]
-        }
-      ],
-      "actions": [
-        {
-          "type": {
-            "value": "OpacityCapability::OpacityBehavior::SetValue"
-          },
-          "parameters": [
-            "E",
-            "Opacity",
-            "=",
-            "255"
-          ]
-        }
-      ],
+      "colorB": 228,
+      "colorG": 176,
+      "colorR": 74,
+      "creationTime": 0,
+      "name": "Story Part",
+      "source": "",
+      "type": "BuiltinCommonInstructions::Group",
       "events": [
         {
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
               "type": {
-                "value": "KeyReleased"
+                "value": "CollisionNP"
               },
               "parameters": [
+                "Character",
+                "E_Interaction",
                 "",
-                "e"
+                "",
+                "yes"
               ]
             }
           ],
           "actions": [
             {
               "type": {
-                "value": "MettreXY"
+                "value": "Montre"
+              },
+              "parameters": [
+                "E",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": true,
+                "value": "CollisionNP"
               },
               "parameters": [
                 "Character",
-                "=",
-                "1746",
-                "=",
-                "308"
+                "E_Interaction",
+                "",
+                "",
+                "yes"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Cache"
+              },
+              "parameters": [
+                "E"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "TRAIN"
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "Character",
+                "TrainStationInteract",
+                "",
+                "",
+                ""
+              ]
+            }
+          ],
+          "actions": [],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "KeyReleased"
+                  },
+                  "parameters": [
+                    "",
+                    "e"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "MettreXY"
+                  },
+                  "parameters": [
+                    "Character",
+                    "=",
+                    "2154",
+                    "=",
+                    "673"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Scene3D::Base3DBehavior::SetZ"
+                  },
+                  "parameters": [
+                    "Character",
+                    "Object3D",
+                    "=",
+                    "-70"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "SCHOOL"
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "Character",
+                "SchoolInteract",
+                "",
+                "",
+                ""
+              ]
+            }
+          ],
+          "actions": [],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "KeyPressed"
+                  },
+                  "parameters": [
+                    "",
+                    "e"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "FlashTransitionPainter::FlashTransitionPainter::PaintEffect"
+                  },
+                  "parameters": [
+                    "Transition",
+                    "FlashTransitionPainter",
+                    "\"0;0;0\"",
+                    "3",
+                    "\"Flash\"",
+                    "\"Forward\"",
+                    "",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Wait"
+                  },
+                  "parameters": [
+                    "3"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "MettreXY"
+                  },
+                  "parameters": [
+                    "Character",
+                    "=",
+                    "3887",
+                    "=",
+                    "691"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Wait"
+                  },
+                  "parameters": [
+                    "1"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "FlashTransitionPainter::FlashTransitionPainter::PaintEffect"
+                  },
+                  "parameters": [
+                    "Transition",
+                    "FlashTransitionPainter",
+                    "\"0;0;0\"",
+                    "3",
+                    "\"Flash\"",
+                    "\"Backward\"",
+                    "",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Scene3D::Base3DBehavior::SetZ"
+                  },
+                  "parameters": [
+                    "Character",
+                    "Object3D",
+                    "=",
+                    "30"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "Character",
+                "InsideSchoolChecker",
+                "",
+                "",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "ZoomCamera"
+              },
+              "parameters": [
+                "",
+                "7",
+                "",
+                ""
               ]
             },
             {
               "type": {
-                "value": "Scene3D::Base3DBehavior::SetZ"
+                "value": "SmoothCamera::SmoothCamera::SetOffsetYOp"
               },
               "parameters": [
                 "Character",
-                "Object3D",
+                "SmoothCamera",
                 "=",
-                "-70"
+                "-20",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "SmoothCamera::SmoothCamera::SetFollowFreeAreaBottom"
+              },
+              "parameters": [
+                "Character",
+                "SmoothCamera",
+                "10",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "SmoothCamera::SmoothCamera::SetFollowFreeAreaLeft"
+              },
+              "parameters": [
+                "Character",
+                "SmoothCamera",
+                "10",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "SmoothCamera::SmoothCamera::SetFollowFreeAreaRight"
+              },
+              "parameters": [
+                "Character",
+                "SmoothCamera",
+                "10",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "SmoothCamera::SmoothCamera::SetFollowFreeAreaTop"
+              },
+              "parameters": [
+                "Character",
+                "SmoothCamera",
+                "10",
+                ""
               ]
             }
           ]
         }
-      ]
-    },
-    {
-      "type": "BuiltinCommonInstructions::Standard",
-      "conditions": [
-        {
-          "type": {
-            "inverted": true,
-            "value": "CollisionNP"
-          },
-          "parameters": [
-            "Character",
-            "TrainStationInteract",
-            "",
-            "",
-            ""
-          ]
-        }
       ],
-      "actions": [
-        {
-          "type": {
-            "value": "OpacityCapability::OpacityBehavior::SetValue"
-          },
-          "parameters": [
-            "E",
-            "Opacity",
-            "=",
-            "0"
-          ]
-        }
-      ]
+      "parameters": []
     }
   ],
   "layers": [

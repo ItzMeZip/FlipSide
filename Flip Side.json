@@ -1,5 +1,5 @@
 {
-  "firstLayout": "",
+  "firstLayout": "StartingScreen",
   "gdVersion": {
     "build": 218,
     "major": 5,
@@ -2643,6 +2643,506 @@
         "name": "New image15",
         "smoothed": false,
         "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "dialog1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "dialog1.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "dialog2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "dialog2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "dialog3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "dialog3.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "FlipSideText.fnt",
+        "kind": "bitmapFont",
+        "metadata": "",
+        "name": "FlipSideText.fnt",
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "C:/Users/Angelo/Desktop/dialog1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "C:\\Users\\Angelo\\Desktop\\dialog1.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "C:/Users/Angelo/Desktop/dialog2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "C:\\Users\\Angelo\\Desktop\\dialog2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "C:/Users/Angelo/Desktop/dialog3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "C:\\Users\\Angelo\\Desktop\\dialog3.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Fence.glb",
+        "kind": "model3D",
+        "metadata": "",
+        "name": "Fence.glb",
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/3D Halloween Pack/Wall/56ffa8c3cb0852dcbfd5ebba20dce5da8bd18df8915c96eddd7fe3170e873f3c_Fence.glb",
+          "name": "Fence.glb"
+        }
+      },
+      {
+        "file": "assets/Fence Gate.glb",
+        "kind": "model3D",
+        "metadata": "",
+        "name": "Fence Gate.glb",
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/3D Halloween Pack/Wall/62b5fa08cbcd41740f429410d36cd067b06667f450ffdad711544657fec3b1e1_Fence Gate.glb",
+          "name": "Fence Gate.glb"
+        }
+      },
+      {
+        "file": "low poly school.glb",
+        "kind": "model3D",
+        "metadata": "",
+        "name": "low poly school.glb",
+        "userAdded": false
+      },
+      {
+        "file": "assets/Path Tiles Short.glb",
+        "kind": "model3D",
+        "metadata": "",
+        "name": "Path Tiles Short.glb",
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/3D Suburban City/24a6dc8b5fcc3809fe4fb8f59bb65705c6402e2f9a9599b844856d3486ea785a_Path Tiles Short.glb",
+          "name": "Path Tiles Short.glb"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite22.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite22",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite23.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite23",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Doorway Front.glb",
+        "kind": "model3D",
+        "metadata": "",
+        "name": "Doorway Front.glb",
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/3D Furniture/68e0d0b01efe8b8ea03cbc9037436234ca5f0e957524ccaf827acbd8a20f3245_Doorway Front.glb",
+          "name": "Doorway Front.glb"
+        }
+      },
+      {
+        "file": "assets/Wall.glb",
+        "kind": "model3D",
+        "metadata": "",
+        "name": "Wall.glb",
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/3D Furniture/524d70cb015f00526fb22ec17af12288658b9c75351be4dc3055cfbe0721db96_Wall.glb",
+          "name": "Wall.glb"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite24.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite24",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "lockers.glb",
+        "kind": "model3D",
+        "metadata": "",
+        "name": "lockers.glb",
+        "userAdded": false
+      },
+      {
+        "file": "assets/Wall Window.glb",
+        "kind": "model3D",
+        "metadata": "",
+        "name": "Wall Window.glb",
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/3D Furniture/4faa66145fe2a1be08571b1017c6d2461d231b19a3d61bf6b7e169ea59023a51_Wall Window.glb",
+          "name": "Wall Window.glb"
+        }
+      },
+      {
+        "file": "assets/Lamp Square Ceiling.glb",
+        "kind": "model3D",
+        "metadata": "",
+        "name": "Lamp Square Ceiling.glb",
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/3D Furniture/device/cbb2e575ee7fda2715c8b4e215adc725cc7043cc7acf5c860b2864e654f29a6b_Lamp Square Ceiling.glb",
+          "name": "Lamp Square Ceiling.glb"
+        }
+      },
+      {
+        "file": "assets/Ceiling Fan.glb",
+        "kind": "model3D",
+        "metadata": "",
+        "name": "Ceiling Fan.glb",
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/3D Furniture/device/02dd9eac5637e96138e2237132ad1ba7702193bf6999f9a12c99cb21ffa3ae80_Ceiling Fan.glb",
+          "name": "Ceiling Fan.glb"
+        }
+      },
+      {
+        "file": "assets/Male Casual Hoodie.glb",
+        "kind": "model3D",
+        "metadata": "",
+        "name": "Male Casual Hoodie.glb",
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/3D Animated Characters/951214272d62e445cce5eeaed57d59d6c3ae1ceb7a23b80fe832513d06acae40_Male Casual Hoodie.glb",
+          "name": "Male Casual Hoodie.glb"
+        }
+      },
+      {
+        "file": "assets/Wall Doorway.glb",
+        "kind": "model3D",
+        "metadata": "",
+        "name": "Wall Doorway.glb",
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/3D Furniture/b76467c611675828ab1ef738b2b3ba9cc404c6ebbcf945ead9883e9ce6dbd064_Wall Doorway.glb",
+          "name": "Wall Doorway.glb"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/SoccerEntrance.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "SoccerEntrance",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "block1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "block1.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "block2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "block2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "block3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "block3.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "SPRITE.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "SPRITE.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "SPRITE2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "SPRITE2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "SPRITE3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "SPRITE3.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "SPRITE4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "SPRITE4.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "SPRITE5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "SPRITE5.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "SPRITE6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "SPRITE6.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "FALLING1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "FALLING1.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "FALLING2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "FALLING2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "FALLING3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "FALLING3.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "FALLING4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "FALLING4.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "JUMP1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "JUMP1.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "JUMP2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "JUMP2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "JUMP3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "JUMP3.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "JUMP4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "JUMP4.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "JUMP5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "JUMP5.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "JUMP6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "JUMP6.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "14.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "14.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "15.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "15.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "16.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "16.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "17.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "17.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "18.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "18.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "19.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "19.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "20.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "20.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "21.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "21.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "22.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "22.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "23.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "23.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "24.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "24.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "25.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "25.png",
+        "smoothed": false,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -2694,7 +3194,23 @@
     ]
   },
   "objectsGroups": [],
-  "variables": [],
+  "variables": [
+    {
+      "name": "Character_Position_X",
+      "type": "number",
+      "value": 100
+    },
+    {
+      "name": "Character_Position_Y",
+      "type": "number",
+      "value": 800
+    },
+    {
+      "name": "Flip",
+      "type": "boolean",
+      "value": false
+    }
+  ],
   "layouts": [
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
@@ -2711,6 +3227,18 @@
   ],
   "externalEvents": [],
   "eventsFunctionsExtensions": [
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/eventsFunctionsExtensions/charactergamefeel"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/eventsFunctionsExtensions/animationsystem"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/eventsFunctionsExtensions/platformercharacteranimator"
+    },
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
       "referenceTo": "/eventsFunctionsExtensions/autotyping"
@@ -2746,10 +3274,6 @@
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
       "referenceTo": "/eventsFunctionsExtensions/thirdpersoncamera"
-    },
-    {
-      "__REFERENCE_TO_SPLIT_OBJECT": true,
-      "referenceTo": "/eventsFunctionsExtensions/dialogbox"
     }
   ],
   "externalLayouts": [],
